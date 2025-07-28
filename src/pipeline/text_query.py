@@ -2,11 +2,20 @@ import torch, json
 from sqlalchemy import create_engine, text as sql_text
 import clip
 from torch.nn.functional import softmax
+from dotenv import load_dotenv
+import os
+import sys
 
 # 1️⃣ Reload CLIP + IRIS
 device    = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-L/14@336px", device=device)
-engine    = create_engine("iris://superuser:sys@localhost:51774/DEMO")
+load_dotenv()                              
+IRIS_CONN_STR = os.getenv("IRIS_CONN_STR")
+if not IRIS_CONN_STR:
+    print("❌ IRIS_CONN_STR is not set in your .env", file=sys.stderr)
+    sys.exit(1)
+
+engine = create_engine(IRIS_CONN_STR)       
 
 # 2️⃣ Embed your query text
 def embed_text(text):

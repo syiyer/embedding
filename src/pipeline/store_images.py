@@ -3,6 +3,8 @@ import torch, json, glob, os
 from sqlalchemy import create_engine, text as sql_text
 import torch
 import clip
+from dotenv import load_dotenv
+import sys
 
 # 1️⃣ Load CLIP
 device    = "cuda" if torch.cuda.is_available() else "cpu"
@@ -10,7 +12,13 @@ model, preprocess = clip.load("ViT-L/14@336px", device=device)
 
 
 # 2️⃣ Connect to IRIS
-engine = create_engine("iris://superuser:sys@localhost:51774/DEMO")
+load_dotenv()                              
+IRIS_CONN_STR = os.getenv("IRIS_CONN_STR")
+if not IRIS_CONN_STR:
+    print("❌ IRIS_CONN_STR is not set in your .env", file=sys.stderr)
+    sys.exit(1)
+
+engine = create_engine(IRIS_CONN_STR)       
 
 # ─── Ensure the Embedding.Documents table exists ────────────────────────
 def ensure_table():

@@ -6,7 +6,7 @@ ClassMethod LoadChunks(pdfSlug As %String, jsonPath As %String) As %Integer
     Try {
             
         Set tableName = "Embedding.Financial"
-        Set filePath  = "C:\Users\Siyer\OneDrive - InterSystems Corporation\Documents\embedding\data\"_pdfSlug_"\chunks.json"
+        #; Set filePath  = "<filepath>"_pdfSlug_"\chunks.json"
         If '##class(%File).Exists(filePath) {
             Return 0
         }

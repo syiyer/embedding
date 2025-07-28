@@ -13,7 +13,16 @@ from src.pipeline.loader import load_chunks_to_iris
 from src.pipeline.utils import get_pdf_list
 from src.pipeline.store_images import ingest_image, ensure_table
 import irisnative
+from dotenv import load_dotenv
 
+load_dotenv()  # loads from .env
+
+# Require each of these to be set, or KeyError is raised
+host      = os.environ["IRIS_HOST"]
+port      = int(os.environ["IRIS_PORT"])
+namespace = os.environ["IRIS_NAMESPACE"]
+user      = os.environ["IRIS_USER"]
+pwd       = os.environ["IRIS_PASSWORD"]
 # Page config & CSS
 st.set_page_config(page_title="📑💹 Financial Portfolio RAG", layout="wide")
 st.title("📑💹 Financial Portfolio RAG Chatbot")
@@ -57,7 +66,7 @@ if uploaded:
     prog.progress(75)
 
     with st.spinner("📥 Loading into IRIS…"):
-        conn = irisnative.createConnection("127.0.0.1", 52774, "DEMO", "superuser", "sys")        
+        conn     = irisnative.createConnection(host, port, namespace, user, pwd)
         instance = irisnative.createIris(conn)
         rows = instance.classMethodValue(
             "Utils.JSONLoader",      # package.class name

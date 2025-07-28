@@ -89,28 +89,6 @@ def load_chunks_to_iris(pdf_slug: str, chunks_json_path: str, batch_size: int = 
 
     print(f"🎉 Done. Total inserted: {inserted} rows into {tbl}")
     return inserted
-    # for idx, chunk in enumerate(chunks, start=1):
-    #     text_val = chunk.get("text", "")
-    #     heading  = chunk.get("heading", "")
-    #     tokens   = chunk.get("tokens", 0)
-    #     if not text_val:
-    #         print(f"⚠ Skipping empty chunk #{idx}")
-    #         continue
-
-    #     try:
-    #         with engine.begin() as conn:
-    #             conn.execute(insert_sql, {
-    #                 "text":    text_val,
-    #                 "tokens":  tokens,
-    #                 "heading": heading,
-    #                 "pdf":     pdf_slug
-    #             })
-    #             inserted += 1
-    #     except SQLAlchemyError as e:
-    #         print(f"❌ Insert failed at chunk #{idx}: {e}")
-
-    # print(f"✅ Done. Inserted {inserted} rows into {tbl}")
-    # return inserted
 
 # ─── CLI entrypoint ───────────────────────────────────────────────────────
 if __name__ == "__main__":
