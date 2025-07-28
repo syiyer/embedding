@@ -1,0 +1,2099 @@
+{
+  "filename": "hsbc_market_outlook.pdf",
+  "extraction_date": "2025-07-18T03:43:27.876518",
+  "statistics": {
+    "text": 46,
+    "titles": 16,
+    "images": 8,
+    "tables": 2
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Header",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8406809568405151,
+      "coordinates": {
+        "points": [
+          [
+            187.49005126953125,
+            74.67607116699219
+          ],
+          [
+            187.49005126953125,
+            97.49286651611328
+          ],
+          [
+            330.9010314941406,
+            97.49286651611328
+          ],
+          [
+            330.9010314941406,
+            74.67607116699219
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C0567890>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\header_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.7681989073753357,
+      "coordinates": {
+        "points": [
+          [
+            183.1227569580078,
+            258.38079833984375
+          ],
+          [
+            183.1227569580078,
+            313.88653564453125
+          ],
+          [
+            572.2529296875,
+            313.88653564453125
+          ],
+          [
+            572.2529296875,
+            258.38079833984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3802BE0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.3785647451877594,
+      "coordinates": {
+        "points": [
+          [
+            1092.260986328125,
+            261.94488525390625
+          ],
+          [
+            1092.260986328125,
+            329.612060546875
+          ],
+          [
+            1291.201416015625,
+            329.612060546875
+          ],
+          [
+            1291.201416015625,
+            261.94488525390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3802E00>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8045199513435364,
+      "coordinates": {
+        "points": [
+          [
+            185.35980224609375,
+            406.4230041503906
+          ],
+          [
+            185.35980224609375,
+            437.49609375
+          ],
+          [
+            790.7288818359375,
+            437.49609375
+          ],
+          [
+            790.7288818359375,
+            406.4230041503906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F18350>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8881495594978333,
+      "coordinates": {
+        "points": [
+          [
+            177.4053497314453,
+            520.837890625
+          ],
+          [
+            177.4053497314453,
+            592.5013427734375
+          ],
+          [
+            1055.0364990234375,
+            592.5013427734375
+          ],
+          [
+            1055.0364990234375,
+            520.837890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F18250>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8771489858627319,
+      "coordinates": {
+        "points": [
+          [
+            178.03057861328125,
+            618.4459228515625
+          ],
+          [
+            178.03057861328125,
+            691.4680786132812
+          ],
+          [
+            1060.046142578125,
+            691.4680786132812
+          ],
+          [
+            1060.046142578125,
+            618.4459228515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3ED7D40>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.813592255115509,
+      "coordinates": {
+        "points": [
+          [
+            173.91004943847656,
+            718.2194213867188
+          ],
+          [
+            173.91004943847656,
+            746.2800903320312
+          ],
+          [
+            1040.898681640625,
+            746.2800903320312
+          ],
+          [
+            1040.898681640625,
+            718.2194213867188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3ED7F20>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9230297803878784,
+      "coordinates": {
+        "points": [
+          [
+            184.21438598632812,
+            797.4860229492188
+          ],
+          [
+            184.21438598632812,
+            989.4627685546875
+          ],
+          [
+            1034.9425048828125,
+            989.4627685546875
+          ],
+          [
+            1034.9425048828125,
+            797.4860229492188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F0E890>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.6624322533607483,
+      "coordinates": {
+        "points": [
+          [
+            178.611083984375,
+            1056.343017578125
+          ],
+          [
+            178.611083984375,
+            1102.4266357421875
+          ],
+          [
+            602.0103759765625,
+            1102.4266357421875
+          ],
+          [
+            602.0103759765625,
+            1056.343017578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3855E60>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.4697367548942566,
+      "coordinates": {
+        "points": [
+          [
+            696.4976196289062,
+            1055.783203125
+          ],
+          [
+            696.4976196289062,
+            1102.9532470703125
+          ],
+          [
+            1158.8758544921875,
+            1102.9532470703125
+          ],
+          [
+            1158.8758544921875,
+            1055.783203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F0E970>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-1-1.jpg",
+      "detection_class_prob": 0.8099925518035889,
+      "coordinates": {
+        "points": [
+          [
+            188.458251953125,
+            1109.9918212890625
+          ],
+          [
+            188.458251953125,
+            1517.06787109375
+          ],
+          [
+            668.3146362304688,
+            1517.06787109375
+          ],
+          [
+            668.3146362304688,
+            1109.9918212890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C360B590>"
+      }
+    },
+    {
+      "element_index": 11,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-1-2.jpg",
+      "detection_class_prob": 0.7089371085166931,
+      "coordinates": {
+        "points": [
+          [
+            712.6943969726562,
+            1110.5380859375
+          ],
+          [
+            712.6943969726562,
+            1523.3055419921875
+          ],
+          [
+            1192.27294921875,
+            1523.3055419921875
+          ],
+          [
+            1192.27294921875,
+            1110.5380859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C360BA10>"
+      }
+    },
+    {
+      "element_index": 12,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            632.0,
+            1268.0
+          ],
+          [
+            632.0,
+            1292.0
+          ],
+          [
+            729.0,
+            1292.0
+          ],
+          [
+            729.0,
+            1268.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C37550D0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.520598828792572,
+      "coordinates": {
+        "points": [
+          [
+            179.35781860351562,
+            1528.3507080078125
+          ],
+          [
+            179.35781860351562,
+            1545.447509765625
+          ],
+          [
+            295.2240905761719,
+            1545.447509765625
+          ],
+          [
+            295.2240905761719,
+            1528.3507080078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F3C050>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            700.0,
+            1531.0
+          ],
+          [
+            700.0,
+            1542.0
+          ],
+          [
+            811.0,
+            1542.0
+          ],
+          [
+            811.0,
+            1531.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C2EF7550>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8205060958862305,
+      "coordinates": {
+        "points": [
+          [
+            180.3455810546875,
+            1600.2657470703125
+          ],
+          [
+            180.3455810546875,
+            1621.355224609375
+          ],
+          [
+            368.16632080078125,
+            1621.355224609375
+          ],
+          [
+            368.16632080078125,
+            1600.2657470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F3C890>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9212217330932617,
+      "coordinates": {
+        "points": [
+          [
+            183.4439239501953,
+            1633.6971435546875
+          ],
+          [
+            183.4439239501953,
+            1858.4759521484375
+          ],
+          [
+            1044.247314453125,
+            1858.4759521484375
+          ],
+          [
+            1044.247314453125,
+            1633.6971435546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3887070>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.3313055634498596,
+      "coordinates": {
+        "points": [
+          [
+            1090.10498046875,
+            1634.245849609375
+          ],
+          [
+            1090.10498046875,
+            1682.5887451171875
+          ],
+          [
+            1387.8382568359375,
+            1682.5887451171875
+          ],
+          [
+            1387.8382568359375,
+            1634.245849609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3886FD0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_17.txt"
+    },
+    {
+      "element_index": 18,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-1-3.jpg",
+      "detection_class_prob": 0.5964052081108093,
+      "coordinates": {
+        "points": [
+          [
+            184.535888671875,
+            2031.5574951171875
+          ],
+          [
+            184.535888671875,
+            2117.4990234375
+          ],
+          [
+            493.9249267578125,
+            2117.4990234375
+          ],
+          [
+            493.9249267578125,
+            2031.5574951171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C37C2E70>"
+      }
+    },
+    {
+      "element_index": 19,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.40518614649772644,
+      "coordinates": {
+        "points": [
+          [
+            183.7634735107422,
+            646.655517578125
+          ],
+          [
+            183.7634735107422,
+            695.0623168945312
+          ],
+          [
+            474.97430419921875,
+            695.0623168945312
+          ],
+          [
+            474.97430419921875,
+            646.655517578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C8FB6E10>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7294126749038696,
+      "coordinates": {
+        "points": [
+          [
+            184.6167449951172,
+            1483.92236328125
+          ],
+          [
+            184.6167449951172,
+            1531.73095703125
+          ],
+          [
+            417.0349426269531,
+            1531.73095703125
+          ],
+          [
+            417.0349426269531,
+            1483.92236328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B830>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Header",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8347382545471191,
+      "coordinates": {
+        "points": [
+          [
+            1296.535400390625,
+            71.6755599975586
+          ],
+          [
+            1296.535400390625,
+            118.79036712646484
+          ],
+          [
+            1524.8868408203125,
+            118.79036712646484
+          ],
+          [
+            1524.8868408203125,
+            71.6755599975586
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38881A0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\header_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7757284641265869,
+      "coordinates": {
+        "points": [
+          [
+            517.6832885742188,
+            308.7441711425781
+          ],
+          [
+            517.6832885742188,
+            328.727783203125
+          ],
+          [
+            680.0065307617188,
+            328.727783203125
+          ],
+          [
+            680.0065307617188,
+            308.7441711425781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C8FB5850>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9416837096214294,
+      "coordinates": {
+        "points": [
+          [
+            525.4576416015625,
+            341.17279052734375
+          ],
+          [
+            525.4576416015625,
+            566.4059448242188
+          ],
+          [
+            1516.166748046875,
+            566.4059448242188
+          ],
+          [
+            1516.166748046875,
+            341.17279052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C8FB4AD0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8676270246505737,
+      "coordinates": {
+        "points": [
+          [
+            518.25927734375,
+            596.3131713867188
+          ],
+          [
+            518.25927734375,
+            616.44580078125
+          ],
+          [
+            682.9518432617188,
+            616.44580078125
+          ],
+          [
+            682.9518432617188,
+            596.3131713867188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C8FB5070>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9425337314605713,
+      "coordinates": {
+        "points": [
+          [
+            518.4215698242188,
+            629.4478149414062
+          ],
+          [
+            518.4215698242188,
+            821.2535400390625
+          ],
+          [
+            1497.3077392578125,
+            821.2535400390625
+          ],
+          [
+            1497.3077392578125,
+            629.4478149414062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C8FB6810>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.4984571933746338,
+      "coordinates": {
+        "points": [
+          [
+            517.6423950195312,
+            887.2327880859375
+          ],
+          [
+            517.6423950195312,
+            936.4136962890625
+          ],
+          [
+            951.4765625,
+            936.4136962890625
+          ],
+          [
+            951.4765625,
+            887.2327880859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B650>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.6136376261711121,
+      "coordinates": {
+        "points": [
+          [
+            1029.0826416015625,
+            887.9889526367188
+          ],
+          [
+            1029.0826416015625,
+            935.952880859375
+          ],
+          [
+            1437.674560546875,
+            935.952880859375
+          ],
+          [
+            1437.674560546875,
+            887.9889526367188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385BE90>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-2-4.jpg",
+      "detection_class_prob": 0.833844006061554,
+      "coordinates": {
+        "points": [
+          [
+            514.7957763671875,
+            941.4230346679688
+          ],
+          [
+            514.7957763671875,
+            1363.4940185546875
+          ],
+          [
+            998.3519287109375,
+            1363.4940185546875
+          ],
+          [
+            998.3519287109375,
+            941.4230346679688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B950>"
+      }
+    },
+    {
+      "element_index": 29,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-2-5.jpg",
+      "detection_class_prob": 0.8483695983886719,
+      "coordinates": {
+        "points": [
+          [
+            1041.615478515625,
+            952.5403442382812
+          ],
+          [
+            1041.615478515625,
+            1350.554443359375
+          ],
+          [
+            1521.357421875,
+            1350.554443359375
+          ],
+          [
+            1521.357421875,
+            952.5403442382812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858B90>"
+      }
+    },
+    {
+      "element_index": 30,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.34850138425827026,
+      "coordinates": {
+        "points": [
+          [
+            516.1979370117188,
+            1360.28125
+          ],
+          [
+            516.1979370117188,
+            1376.582275390625
+          ],
+          [
+            634.0502319335938,
+            1376.582275390625
+          ],
+          [
+            634.0502319335938,
+            1360.28125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B890>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "FigureCaption",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.2821405231952667,
+      "coordinates": {
+        "points": [
+          [
+            1033.279052734375,
+            1360.3634033203125
+          ],
+          [
+            1033.279052734375,
+            1377.1732177734375
+          ],
+          [
+            1152.53662109375,
+            1377.1732177734375
+          ],
+          [
+            1152.53662109375,
+            1360.3634033203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B6B0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\figurecaption_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7975740432739258,
+      "coordinates": {
+        "points": [
+          [
+            516.6201171875,
+            1432.2200927734375
+          ],
+          [
+            516.6201171875,
+            1453.1708984375
+          ],
+          [
+            693.6151123046875,
+            1453.1708984375
+          ],
+          [
+            693.6151123046875,
+            1432.2200927734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B590>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9165827631950378,
+      "coordinates": {
+        "points": [
+          [
+            512.3602905273438,
+            1466.540771484375
+          ],
+          [
+            512.3602905273438,
+            1725.27392578125
+          ],
+          [
+            1521.5894775390625,
+            1725.27392578125
+          ],
+          [
+            1521.5894775390625,
+            1466.540771484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38589B0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-3-6.jpg",
+      "detection_class_prob": 0.5360287427902222,
+      "coordinates": {
+        "points": [
+          [
+            187.15444946289062,
+            66.64167022705078
+          ],
+          [
+            187.15444946289062,
+            123.60160827636719
+          ],
+          [
+            367.86407470703125,
+            123.60160827636719
+          ],
+          [
+            367.86407470703125,
+            66.64167022705078
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858A10>"
+      }
+    },
+    {
+      "element_index": 35,
+      "element_type": "Header",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.8244341611862183,
+      "coordinates": {
+        "points": [
+          [
+            1297.7159423828125,
+            71.16130065917969
+          ],
+          [
+            1297.7159423828125,
+            118.9838638305664
+          ],
+          [
+            1523.6561279296875,
+            118.9838638305664
+          ],
+          [
+            1523.6561279296875,
+            71.16130065917969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3859190>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\header_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.695513129234314,
+      "coordinates": {
+        "points": [
+          [
+            516.4112548828125,
+            312.1293029785156
+          ],
+          [
+            516.4112548828125,
+            333.216796875
+          ],
+          [
+            743.7190551757812,
+            333.216796875
+          ],
+          [
+            743.7190551757812,
+            312.1293029785156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38583B0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "Table",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "text_as_html": "<table><thead></thead><tbody><tr><td rowspan=\"2\">Date 19May</td><td>Market</td><td>Release</td><td>Period</td><td>Actual</td><td>Consensus expectation</td><td colspan=\"2\">Prior Actual vs. Consensus</td></tr><tr><td>Mainland China</td><td>Retail sales (% y-o-y)</td><td>Apr</td><td>5.1%</td><td>5.8%</td><td>5.9%</td><td>v</td></tr><tr><td>19May</td><td>Mainland China</td><td>_ Industrial production (% y-o-y)</td><td>Apr</td><td>6.1%</td><td>5.7%</td><td>7.7%</td><td>*</td></tr><tr><td>21May</td><td>UK</td><td>CPI (% y-0-y)</td><td>Apr</td><td>3.5%</td><td>3.3%</td><td>2.6%</td><td>*</td></tr><tr><td>2Jun</td><td>US</td><td>ISM manufacturing (Index)</td><td>May</td><td>48.5</td><td>495</td><td>487</td><td>v</td></tr><tr><td>3 Jun</td><td>Eurozone</td><td>HICP (% y-o-y)</td><td>May, flash</td><td>1.9%</td><td>2.0%</td><td>2.2%</td><td>v</td></tr><tr><td>4 Jun</td><td>US</td><td>ISM services (Index)</td><td>May</td><td>49.9</td><td>62.0</td><td>51.6</td><td>v</td></tr><tr><td>6 Jun</td><td>US</td><td>Nonfarm payrolls, monthly change (000s)</td><td>May</td><td>139</td><td>126</td><td>147</td><td>*</td></tr></tbody></table>",
+      "image_path": "data\\hsbc_market_outlook\\images\\table-3-1.jpg",
+      "detection_class_prob": 0.9115778803825378,
+      "coordinates": {
+        "points": [
+          [
+            506.1231994628906,
+            344.82208251953125
+          ],
+          [
+            506.1231994628906,
+            573.5792846679688
+          ],
+          [
+            1515.6875,
+            573.5792846679688
+          ],
+          [
+            1515.6875,
+            344.82208251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3859310>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\tables\\table_37.txt",
+      "html_path": "data\\hsbc_market_outlook\\tables\\table_37.html"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            519.0,
+            577.0
+          ],
+          [
+            519.0,
+            591.0
+          ],
+          [
+            670.0,
+            591.0
+          ],
+          [
+            670.0,
+            577.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385ACF0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7317482233047485,
+      "coordinates": {
+        "points": [
+          [
+            513.8656616210938,
+            592.804931640625
+          ],
+          [
+            513.8656616210938,
+            611.5787353515625
+          ],
+          [
+            1345.771240234375,
+            611.5787353515625
+          ],
+          [
+            1345.771240234375,
+            592.804931640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3859250>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6501970887184143,
+      "coordinates": {
+        "points": [
+          [
+            517.649658203125,
+            741.1517333984375
+          ],
+          [
+            517.649658203125,
+            761.622314453125
+          ],
+          [
+            760.5855102539062,
+            761.622314453125
+          ],
+          [
+            760.5855102539062,
+            741.1517333984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38590D0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Table",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "text_as_html": "<table><tbody><tr><td>Date 412 Jun</td><td>Market UK</td><td>Release GDP</td><td>Apr</td></tr><tr><td>16 Jun</td><td>Mainland China</td><td>Retail sales</td><td>May</td></tr><tr><td>17 Jun</td><td>US</td><td>Retail sales, Industrial production</td><td>May</td></tr><tr><td>18 Jun</td><td>UK</td><td>CPI</td><td>May</td></tr><tr><td>19 Jun</td><td>US</td><td>Federal Reserve interest rate announcement</td><td>2</td></tr><tr><td>419 Jun</td><td>UK</td><td>Bank of England interest rate announcement</td><td></td></tr><tr><td>20 Jun</td><td>Mainland China</td><td>People's Bank of China interest rate announcement</td><td>-</td></tr><tr><td>20 Jun</td><td>UK</td><td>Retail sales</td><td>May</td></tr><tr><td>23 Jun</td><td>EU, UK, US</td><td>PMs</td><td>Jun</td></tr><tr><td>1 Jul</td><td>US</td><td>ISM Manufacturing PMI</td><td>Jun</td></tr><tr><td>3 Jul</td><td>Mainland China</td><td>Caixin Services PMI</td><td>Jun</td></tr><tr><td>3 Jul</td><td>US</td><td>Non-Farm Payrolls</td><td>Jun</td></tr><tr><td>9 Jul</td><td>Mainland China</td><td>CPI/ PPI</td><td>Jun</td></tr></tbody></table>",
+      "image_path": "data\\hsbc_market_outlook\\images\\table-3-2.jpg",
+      "detection_class_prob": 0.9290250539779663,
+      "coordinates": {
+        "points": [
+          [
+            503.84765625,
+            774.5478515625
+          ],
+          [
+            503.84765625,
+            1121.9771728515625
+          ],
+          [
+            1526.09814453125,
+            1121.9771728515625
+          ],
+          [
+            1526.09814453125,
+            774.5478515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858530>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\tables\\table_41.txt",
+      "html_path": "data\\hsbc_market_outlook\\tables\\table_41.html"
+    },
+    {
+      "element_index": 42,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            518.0,
+            1125.0
+          ],
+          [
+            518.0,
+            1137.0
+          ],
+          [
+            678.0,
+            1137.0
+          ],
+          [
+            678.0,
+            1125.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858470>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-4-7.jpg",
+      "detection_class_prob": 0.45390069484710693,
+      "coordinates": {
+        "points": [
+          [
+            187.43634033203125,
+            66.16757202148438
+          ],
+          [
+            187.43634033203125,
+            123.6829605102539
+          ],
+          [
+            367.7690124511719,
+            123.6829605102539
+          ],
+          [
+            367.7690124511719,
+            66.16757202148438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385BB90>"
+      }
+    },
+    {
+      "element_index": 44,
+      "element_type": "Header",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7850061655044556,
+      "coordinates": {
+        "points": [
+          [
+            1295.8466796875,
+            70.78845977783203
+          ],
+          [
+            1295.8466796875,
+            119.11465454101562
+          ],
+          [
+            1524.351318359375,
+            119.11465454101562
+          ],
+          [
+            1524.351318359375,
+            70.78845977783203
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B9B0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\header_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8177621364593506,
+      "coordinates": {
+        "points": [
+          [
+            182.78793334960938,
+            308.0160827636719
+          ],
+          [
+            182.78793334960938,
+            378.4659729003906
+          ],
+          [
+            886.92578125,
+            378.4659729003906
+          ],
+          [
+            886.92578125,
+            308.0160827636719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858F50>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8037973046302795,
+      "coordinates": {
+        "points": [
+          [
+            183.02301025390625,
+            462.3608703613281
+          ],
+          [
+            183.02301025390625,
+            487.3824462890625
+          ],
+          [
+            432.5441589355469,
+            487.3824462890625
+          ],
+          [
+            432.5441589355469,
+            462.3608703613281
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385BB30>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8162040114402771,
+      "coordinates": {
+        "points": [
+          [
+            187.19943237304688,
+            496.73583984375
+          ],
+          [
+            187.19943237304688,
+            521.7529907226562
+          ],
+          [
+            650.8534545898438,
+            521.7529907226562
+          ],
+          [
+            650.8534545898438,
+            496.73583984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858350>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9153638482093811,
+      "coordinates": {
+        "points": [
+          [
+            189.35191345214844,
+            538.3351440429688
+          ],
+          [
+            189.35191345214844,
+            589.5755004882812
+          ],
+          [
+            1499.3394775390625,
+            589.5755004882812
+          ],
+          [
+            1499.3394775390625,
+            538.3351440429688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38591F0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9402937889099121,
+      "coordinates": {
+        "points": [
+          [
+            195.09605407714844,
+            609.9971923828125
+          ],
+          [
+            195.09605407714844,
+            757.2153930664062
+          ],
+          [
+            1506.94775390625,
+            757.2153930664062
+          ],
+          [
+            1506.94775390625,
+            609.9971923828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858290>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "ListItem",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9390036463737488,
+      "coordinates": {
+        "points": [
+          [
+            188.92869567871094,
+            773.0780029296875
+          ],
+          [
+            188.92869567871094,
+            889.079833984375
+          ],
+          [
+            1495.9869384765625,
+            889.079833984375
+          ],
+          [
+            1495.9869384765625,
+            773.0780029296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385AD50>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\listitem_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "Image",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\hsbc_market_outlook\\images\\figure-5-8.jpg",
+      "detection_class_prob": 0.625791609287262,
+      "coordinates": {
+        "points": [
+          [
+            186.72328186035156,
+            67.19049835205078
+          ],
+          [
+            186.72328186035156,
+            123.62294006347656
+          ],
+          [
+            368.5480041503906,
+            123.62294006347656
+          ],
+          [
+            368.5480041503906,
+            67.19049835205078
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858890>"
+      }
+    },
+    {
+      "element_index": 52,
+      "element_type": "Header",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.7542603015899658,
+      "coordinates": {
+        "points": [
+          [
+            1295.853271484375,
+            71.41605377197266
+          ],
+          [
+            1295.853271484375,
+            118.92117309570312
+          ],
+          [
+            1523.6907958984375,
+            118.92117309570312
+          ],
+          [
+            1523.6907958984375,
+            71.41605377197266
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858590>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\header_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "Title",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.7999556660652161,
+      "coordinates": {
+        "points": [
+          [
+            186.55145263671875,
+            308.5088806152344
+          ],
+          [
+            186.55145263671875,
+            377.2007751464844
+          ],
+          [
+            540.78564453125,
+            377.2007751464844
+          ],
+          [
+            540.78564453125,
+            308.5088806152344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385B2F0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\title_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9367563724517822,
+      "coordinates": {
+        "points": [
+          [
+            182.49586486816406,
+            460.371337890625
+          ],
+          [
+            182.49586486816406,
+            787.2302856445312
+          ],
+          [
+            1537.8353271484375,
+            787.2302856445312
+          ],
+          [
+            1537.8353271484375,
+            460.371337890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C38585F0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8905080556869507,
+      "coordinates": {
+        "points": [
+          [
+            181.66903686523438,
+            790.307861328125
+          ],
+          [
+            181.66903686523438,
+            856.2973022460938
+          ],
+          [
+            1529.7650146484375,
+            856.2973022460938
+          ],
+          [
+            1529.7650146484375,
+            790.307861328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C385BE30>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_55.txt"
+    },
+    {
+      "element_index": 56,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9202100038528442,
+      "coordinates": {
+        "points": [
+          [
+            178.19618225097656,
+            862.0410766601562
+          ],
+          [
+            178.19618225097656,
+            972.4649658203125
+          ],
+          [
+            1529.2852783203125,
+            972.4649658203125
+          ],
+          [
+            1529.2852783203125,
+            862.0410766601562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3858FB0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.5406407713890076,
+      "coordinates": {
+        "points": [
+          [
+            187.3791961669922,
+            978.9664306640625
+          ],
+          [
+            187.3791961669922,
+            996.705322265625
+          ],
+          [
+            936.8646240234375,
+            996.705322265625
+          ],
+          [
+            936.8646240234375,
+            978.9664306640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60110>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8736444115638733,
+      "coordinates": {
+        "points": [
+          [
+            181.81332397460938,
+            1002.7945556640625
+          ],
+          [
+            181.81332397460938,
+            1067.45458984375
+          ],
+          [
+            1527.463134765625,
+            1067.45458984375
+          ],
+          [
+            1527.463134765625,
+            1002.7945556640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F605F0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.7454414367675781,
+      "coordinates": {
+        "points": [
+          [
+            185.0740509033203,
+            1073.1478271484375
+          ],
+          [
+            185.0740509033203,
+            1137.726318359375
+          ],
+          [
+            1533.4136962890625,
+            1137.726318359375
+          ],
+          [
+            1533.4136962890625,
+            1073.1478271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F606B0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.716959536075592,
+      "coordinates": {
+        "points": [
+          [
+            175.38250732421875,
+            1141.829833984375
+          ],
+          [
+            175.38250732421875,
+            1226.7647705078125
+          ],
+          [
+            1538.5391845703125,
+            1226.7647705078125
+          ],
+          [
+            1538.5391845703125,
+            1141.829833984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60950>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9187566637992859,
+      "coordinates": {
+        "points": [
+          [
+            177.71434020996094,
+            1237.2642822265625
+          ],
+          [
+            177.71434020996094,
+            1325.8935546875
+          ],
+          [
+            1530.7078857421875,
+            1325.8935546875
+          ],
+          [
+            1530.7078857421875,
+            1237.2642822265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60350>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9135388731956482,
+      "coordinates": {
+        "points": [
+          [
+            168.82301330566406,
+            1332.6280517578125
+          ],
+          [
+            168.82301330566406,
+            1444.9017333984375
+          ],
+          [
+            1539.09375,
+            1444.9017333984375
+          ],
+          [
+            1539.09375,
+            1332.6280517578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60BF0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            187.0,
+            1453.0
+          ],
+          [
+            187.0,
+            1468.0
+          ],
+          [
+            919.0,
+            1468.0
+          ],
+          [
+            919.0,
+            1453.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60830>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_63.txt"
+    },
+    {
+      "element_index": 64,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8593811392784119,
+      "coordinates": {
+        "points": [
+          [
+            178.03318786621094,
+            1473.773681640625
+          ],
+          [
+            178.03318786621094,
+            1514.2513427734375
+          ],
+          [
+            1539.339599609375,
+            1514.2513427734375
+          ],
+          [
+            1539.339599609375,
+            1473.773681640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60770>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            188.0,
+            1524.0
+          ],
+          [
+            188.0,
+            1538.0
+          ],
+          [
+            506.0,
+            1538.0
+          ],
+          [
+            506.0,
+            1524.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60A10>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8616846799850464,
+      "coordinates": {
+        "points": [
+          [
+            200.6145782470703,
+            1543.599609375
+          ],
+          [
+            200.6145782470703,
+            1585.017578125
+          ],
+          [
+            1521.1549072265625,
+            1585.017578125
+          ],
+          [
+            1521.1549072265625,
+            1543.599609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60B90>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8906579613685608,
+      "coordinates": {
+        "points": [
+          [
+            179.92185974121094,
+            1591.2376708984375
+          ],
+          [
+            179.92185974121094,
+            1655.762939453125
+          ],
+          [
+            1529.2724609375,
+            1655.762939453125
+          ],
+          [
+            1529.2724609375,
+            1591.2376708984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60B30>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.886508047580719,
+      "coordinates": {
+        "points": [
+          [
+            177.36170959472656,
+            1661.84912109375
+          ],
+          [
+            177.36170959472656,
+            1724.3826904296875
+          ],
+          [
+            1529.33251953125,
+            1724.3826904296875
+          ],
+          [
+            1529.33251953125,
+            1661.84912109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60AD0>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8622704744338989,
+      "coordinates": {
+        "points": [
+          [
+            186.2700653076172,
+            1732.2764892578125
+          ],
+          [
+            186.2700653076172,
+            1773.703125
+          ],
+          [
+            1530.39599609375,
+            1773.703125
+          ],
+          [
+            1530.39599609375,
+            1732.2764892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60410>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.32136717438697815,
+      "coordinates": {
+        "points": [
+          [
+            1412.5660400390625,
+            1816.158447265625
+          ],
+          [
+            1412.5660400390625,
+            1837.5458984375
+          ],
+          [
+            1522.8609619140625,
+            1837.5458984375
+          ],
+          [
+            1522.8609619140625,
+            1816.158447265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60170>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "Text",
+      "filename": "hsbc_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            1519.0,
+            1548.0
+          ],
+          [
+            1519.0,
+            1559.0
+          ],
+          [
+            1531.0,
+            1559.0
+          ],
+          [
+            1531.0,
+            1548.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000271C3F60C50>"
+      },
+      "content_path": "data\\hsbc_market_outlook\\text\\text_71.txt"
+    }
+  ]
+}

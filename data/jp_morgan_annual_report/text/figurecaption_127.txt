@@ -1,0 +1,1 @@
+Source: FactSet, MSCI, J.P. Morgan Asset Management. Forecasts are from FactSet. Each country/region is represented by its respective MSCI index except for the U.S., which is represented by the S&P 500. Based on consensus expectations and earnings per share figures in local currency. Data are as of November 15, 2024.

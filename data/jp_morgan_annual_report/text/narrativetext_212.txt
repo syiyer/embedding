@@ -1,0 +1,1 @@
+The Bloomberg Euro Aggregate Corporate Index is a benchmark that measures the corporate component of the Euro Aggregate Index. It includes investment grade, euro-denominated, fixed-rate securities.

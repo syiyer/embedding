@@ -1,0 +1,1 @@
+Source: FactSet, MSCI, J.P. Morgan Asset Management. Numbers are based on MSCI indices except for the U.S., which is based on the S&P 500 Index. ROE = return-on-equity and P/B = price-to-book. Historical data are shown for select markets to showcase progress. Data are as of November 15, 2024.

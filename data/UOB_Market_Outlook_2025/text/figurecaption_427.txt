@@ -1,0 +1,1 @@
+Global stocks refer to MSCI World Index. Asian stocks refer to MSCI Asia ex-Japan Index. P/E ratio measures a company's share price relative to its per-share earnings, a measure used to value a company stock relative to the net profit it generates. F represents forecast data by analysts. Source: Bloomberg (30 November 2024)

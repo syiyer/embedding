@@ -1,0 +1,7122 @@
+{
+  "filename": "jp_morgan_annual_report.pdf",
+  "extraction_date": "2025-07-16T06:51:01.751906",
+  "statistics": {
+    "text": 190,
+    "titles": 32,
+    "images": 24,
+    "tables": 0
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            57.0,
+            62.0
+          ],
+          [
+            57.0,
+            108.0
+          ],
+          [
+            89.0,
+            108.0
+          ],
+          [
+            89.0,
+            62.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E953F50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.7471428513526917,
+      "coordinates": {
+        "points": [
+          [
+            71.87039947509766,
+            62.37762451171875
+          ],
+          [
+            71.87039947509766,
+            101.20079803466797
+          ],
+          [
+            283.50616455078125,
+            101.20079803466797
+          ],
+          [
+            283.50616455078125,
+            62.37762451171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9532F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.4034416973590851,
+      "coordinates": {
+        "points": [
+          [
+            92.4490737915039,
+            168.7338104248047
+          ],
+          [
+            92.4490737915039,
+            237.0511474609375
+          ],
+          [
+            1199.6053466796875,
+            237.0511474609375
+          ],
+          [
+            1199.6053466796875,
+            168.7338104248047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585D219250>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.7270848751068115,
+      "coordinates": {
+        "points": [
+          [
+            98.6109619140625,
+            262.1809387207031
+          ],
+          [
+            98.6109619140625,
+            306.1121826171875
+          ],
+          [
+            1044.8121337890625,
+            306.1121826171875
+          ],
+          [
+            1044.8121337890625,
+            262.1809387207031
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E950F50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-1-1.jpg",
+      "detection_class_prob": 0.936234712600708,
+      "coordinates": {
+        "points": [
+          [
+            106.60356903076172,
+            423.6707763671875
+          ],
+          [
+            106.60356903076172,
+            1160.36279296875
+          ],
+          [
+            1571.78564453125,
+            1160.36279296875
+          ],
+          [
+            1571.78564453125,
+            423.6707763671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9509B0>"
+      }
+    },
+    {
+      "element_index": 5,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8375468254089355,
+      "coordinates": {
+        "points": [
+          [
+            149.98495483398438,
+            1237.4288330078125
+          ],
+          [
+            149.98495483398438,
+            1271.6285400390625
+          ],
+          [
+            443.38446044921875,
+            1271.6285400390625
+          ],
+          [
+            443.38446044921875,
+            1237.4288330078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E952E70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9517689347267151,
+      "coordinates": {
+        "points": [
+          [
+            152.9227752685547,
+            1300.1351318359375
+          ],
+          [
+            152.9227752685547,
+            1628.1014404296875
+          ],
+          [
+            1513.5780029296875,
+            1628.1014404296875
+          ],
+          [
+            1513.5780029296875,
+            1300.1351318359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E953B90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9489258527755737,
+      "coordinates": {
+        "points": [
+          [
+            151.85369873046875,
+            1657.150390625
+          ],
+          [
+            151.85369873046875,
+            1909.5892333984375
+          ],
+          [
+            1507.418701171875,
+            1909.5892333984375
+          ],
+          [
+            1507.418701171875,
+            1657.150390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E953A70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 1,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-1-2.jpg",
+      "detection_class_prob": 0.5350566506385803,
+      "coordinates": {
+        "points": [
+          [
+            1317.4638671875,
+            2022.567138671875
+          ],
+          [
+            1317.4638671875,
+            2128.636962890625
+          ],
+          [
+            1608.985595703125,
+            2128.636962890625
+          ],
+          [
+            1608.985595703125,
+            2022.567138671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9518B0>"
+      }
+    },
+    {
+      "element_index": 9,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7267980575561523,
+      "coordinates": {
+        "points": [
+          [
+            78.62833404541016,
+            64.32123565673828
+          ],
+          [
+            78.62833404541016,
+            100.95850372314453
+          ],
+          [
+            297.3800964355469,
+            100.95850372314453
+          ],
+          [
+            297.3800964355469,
+            64.32123565673828
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9536B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7574871182441711,
+      "coordinates": {
+        "points": [
+          [
+            111.31068420410156,
+            200.08651733398438
+          ],
+          [
+            111.31068420410156,
+            389.3467712402344
+          ],
+          [
+            688.6092529296875,
+            389.3467712402344
+          ],
+          [
+            688.6092529296875,
+            200.08651733398438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E953A10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8328847885131836,
+      "coordinates": {
+        "points": [
+          [
+            109.89315795898438,
+            427.479248046875
+          ],
+          [
+            109.89315795898438,
+            461.3963317871094
+          ],
+          [
+            642.260986328125,
+            461.3963317871094
+          ],
+          [
+            642.260986328125,
+            427.479248046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E951970>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9443821907043457,
+      "coordinates": {
+        "points": [
+          [
+            110.67715454101562,
+            484.3277282714844
+          ],
+          [
+            110.67715454101562,
+            1054.3074951171875
+          ],
+          [
+            813.799072265625,
+            1054.3074951171875
+          ],
+          [
+            813.799072265625,
+            484.3277282714844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E952690>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9255297183990479,
+      "coordinates": {
+        "points": [
+          [
+            886.984130859375,
+            203.25222778320312
+          ],
+          [
+            886.984130859375,
+            335.59930419921875
+          ],
+          [
+            1579.42578125,
+            335.59930419921875
+          ],
+          [
+            1579.42578125,
+            203.25222778320312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E952DB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9500279426574707,
+      "coordinates": {
+        "points": [
+          [
+            884.3004150390625,
+            365.7892761230469
+          ],
+          [
+            884.3004150390625,
+            785.6262817382812
+          ],
+          [
+            1569.49267578125,
+            785.6262817382812
+          ],
+          [
+            1569.49267578125,
+            365.7892761230469
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E951C70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.951439619064331,
+      "coordinates": {
+        "points": [
+          [
+            882.5458984375,
+            813.4181518554688
+          ],
+          [
+            882.5458984375,
+            1055.04052734375
+          ],
+          [
+            1578.8798828125,
+            1055.04052734375
+          ],
+          [
+            1578.8798828125,
+            813.4181518554688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9523F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8264232873916626,
+      "coordinates": {
+        "points": [
+          [
+            118.46690368652344,
+            1101.3824462890625
+          ],
+          [
+            118.46690368652344,
+            1157.4971923828125
+          ],
+          [
+            1501.493896484375,
+            1157.4971923828125
+          ],
+          [
+            1501.493896484375,
+            1101.3824462890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E950CB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.7952475547790527,
+      "coordinates": {
+        "points": [
+          [
+            112.18477630615234,
+            1178.472900390625
+          ],
+          [
+            112.18477630615234,
+            1201.2314453125
+          ],
+          [
+            830.3507690429688,
+            1201.2314453125
+          ],
+          [
+            830.3507690429688,
+            1178.472900390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585E9503B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_17.txt"
+    },
+    {
+      "element_index": 18,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-2-3.jpg",
+      "detection_class_prob": 0.9137489199638367,
+      "coordinates": {
+        "points": [
+          [
+            113.64673614501953,
+            1229.7091064453125
+          ],
+          [
+            113.64673614501953,
+            1916.1083984375
+          ],
+          [
+            1573.0880126953125,
+            1916.1083984375
+          ],
+          [
+            1573.0880126953125,
+            1229.7091064453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C4D0>"
+      }
+    },
+    {
+      "element_index": 19,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.6320071220397949,
+      "coordinates": {
+        "points": [
+          [
+            110.65313720703125,
+            1948.04052734375
+          ],
+          [
+            110.65313720703125,
+            1969.454833984375
+          ],
+          [
+            1216.853759765625,
+            1969.454833984375
+          ],
+          [
+            1216.853759765625,
+            1948.04052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E5D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.5258311629295349,
+      "coordinates": {
+        "points": [
+          [
+            1101.3546142578125,
+            2116.816162109375
+          ],
+          [
+            1101.3546142578125,
+            2138.787353515625
+          ],
+          [
+            1591.5960693359375,
+            2138.787353515625
+          ],
+          [
+            1591.5960693359375,
+            2116.816162109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C230>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6350224018096924,
+      "coordinates": {
+        "points": [
+          [
+            78.83181762695312,
+            65.65463256835938
+          ],
+          [
+            78.83181762695312,
+            101.09943389892578
+          ],
+          [
+            297.5260009765625,
+            101.09943389892578
+          ],
+          [
+            297.5260009765625,
+            65.65463256835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C350>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.94733726978302,
+      "coordinates": {
+        "points": [
+          [
+            111.07743072509766,
+            201.90895080566406
+          ],
+          [
+            111.07743072509766,
+            664.5403442382812
+          ],
+          [
+            820.5646362304688,
+            664.5403442382812
+          ],
+          [
+            820.5646362304688,
+            201.90895080566406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C3B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9298800826072693,
+      "coordinates": {
+        "points": [
+          [
+            882.5476684570312,
+            201.52505493164062
+          ],
+          [
+            882.5476684570312,
+            335.8511657714844
+          ],
+          [
+            1589.7581787109375,
+            335.8511657714844
+          ],
+          [
+            1589.7581787109375,
+            201.52505493164062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C170>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9285731315612793,
+      "coordinates": {
+        "points": [
+          [
+            882.0626220703125,
+            362.0413818359375
+          ],
+          [
+            882.0626220703125,
+            495.98583984375
+          ],
+          [
+            1566.0802001953125,
+            495.98583984375
+          ],
+          [
+            1566.0802001953125,
+            362.0413818359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C7D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9355356097221375,
+      "coordinates": {
+        "points": [
+          [
+            888.2633056640625,
+            522.854248046875
+          ],
+          [
+            888.2633056640625,
+            620.47314453125
+          ],
+          [
+            1585.263916015625,
+            620.47314453125
+          ],
+          [
+            1585.263916015625,
+            522.854248046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C110>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.8530001044273376,
+      "coordinates": {
+        "points": [
+          [
+            108.97541809082031,
+            720.1710205078125
+          ],
+          [
+            108.97541809082031,
+            788.8560791015625
+          ],
+          [
+            710.5279541015625,
+            788.8560791015625
+          ],
+          [
+            710.5279541015625,
+            720.1710205078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C590>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9537919759750366,
+      "coordinates": {
+        "points": [
+          [
+            111.80807495117188,
+            813.4584350585938
+          ],
+          [
+            111.80807495117188,
+            1023.3699951171875
+          ],
+          [
+            818.4468994140625,
+            1023.3699951171875
+          ],
+          [
+            818.4468994140625,
+            813.4584350585938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C1D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9264205694198608,
+      "coordinates": {
+        "points": [
+          [
+            893.3777465820312,
+            646.7957153320312
+          ],
+          [
+            893.3777465820312,
+            749.9033203125
+          ],
+          [
+            1563.8858642578125,
+            749.9033203125
+          ],
+          [
+            1563.8858642578125,
+            646.7957153320312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D130>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            884.0,
+            656.0
+          ],
+          [
+            884.0,
+            670.0
+          ],
+          [
+            899.0,
+            670.0
+          ],
+          [
+            899.0,
+            656.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CBF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9252033829689026,
+      "coordinates": {
+        "points": [
+          [
+            885.4824829101562,
+            772.6133422851562
+          ],
+          [
+            885.4824829101562,
+            909.6359252929688
+          ],
+          [
+            1583.8670654296875,
+            909.6359252929688
+          ],
+          [
+            1583.8670654296875,
+            772.6133422851562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CB30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9314360618591309,
+      "coordinates": {
+        "points": [
+          [
+            890.8165283203125,
+            933.0853881835938
+          ],
+          [
+            890.8165283203125,
+            1035.3818359375
+          ],
+          [
+            1565.86376953125,
+            1035.3818359375
+          ],
+          [
+            1565.86376953125,
+            933.0853881835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C890>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9492312669754028,
+      "coordinates": {
+        "points": [
+          [
+            113.03032684326172,
+            1047.4462890625
+          ],
+          [
+            113.03032684326172,
+            1437.5330810546875
+          ],
+          [
+            828.8570556640625,
+            1437.5330810546875
+          ],
+          [
+            828.8570556640625,
+            1047.4462890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D4F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9452967643737793,
+      "coordinates": {
+        "points": [
+          [
+            113.47420501708984,
+            1463.450439453125
+          ],
+          [
+            113.47420501708984,
+            1917.6572265625
+          ],
+          [
+            826.00244140625,
+            1917.6572265625
+          ],
+          [
+            826.00244140625,
+            1463.450439453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D310>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9271166324615479,
+      "coordinates": {
+        "points": [
+          [
+            886.6653442382812,
+            1059.1351318359375
+          ],
+          [
+            886.6653442382812,
+            1159.7115478515625
+          ],
+          [
+            1577.0025634765625,
+            1159.7115478515625
+          ],
+          [
+            1577.0025634765625,
+            1059.1351318359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CDD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9436307549476624,
+      "coordinates": {
+        "points": [
+          [
+            886.6947631835938,
+            1183.8905029296875
+          ],
+          [
+            886.6947631835938,
+            1571.4951171875
+          ],
+          [
+            1574.91357421875,
+            1571.4951171875
+          ],
+          [
+            1574.91357421875,
+            1183.8905029296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E8D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.906277596950531,
+      "coordinates": {
+        "points": [
+          [
+            112.95520782470703,
+            1956.7088623046875
+          ],
+          [
+            112.95520782470703,
+            2003.572265625
+          ],
+          [
+            1472.765869140625,
+            2003.572265625
+          ],
+          [
+            1472.765869140625,
+            1956.7088623046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237C290>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6217559576034546,
+      "coordinates": {
+        "points": [
+          [
+            108.19586944580078,
+            2108.92138671875
+          ],
+          [
+            108.19586944580078,
+            2131.77294921875
+          ],
+          [
+            434.7864074707031,
+            2131.77294921875
+          ],
+          [
+            434.7864074707031,
+            2108.92138671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D790>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.713794469833374,
+      "coordinates": {
+        "points": [
+          [
+            78.29218292236328,
+            64.42706298828125
+          ],
+          [
+            78.29218292236328,
+            101.10918426513672
+          ],
+          [
+            297.845458984375,
+            101.10918426513672
+          ],
+          [
+            297.845458984375,
+            64.42706298828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CF50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7789990901947021,
+      "coordinates": {
+        "points": [
+          [
+            115.70709991455078,
+            199.7216796875
+          ],
+          [
+            115.70709991455078,
+            320.85986328125
+          ],
+          [
+            737.783935546875,
+            320.85986328125
+          ],
+          [
+            737.783935546875,
+            199.7216796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CB90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9484501481056213,
+      "coordinates": {
+        "points": [
+          [
+            111.83958435058594,
+            353.832763671875
+          ],
+          [
+            111.83958435058594,
+            848.5626831054688
+          ],
+          [
+            838.4970703125,
+            848.5626831054688
+          ],
+          [
+            838.4970703125,
+            353.832763671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D190>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            837.0,
+            569.0
+          ],
+          [
+            837.0,
+            613.0
+          ],
+          [
+            870.0,
+            613.0
+          ],
+          [
+            870.0,
+            569.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D9D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9526119232177734,
+      "coordinates": {
+        "points": [
+          [
+            882.3591918945312,
+            200.4516143798828
+          ],
+          [
+            882.3591918945312,
+            409.0479736328125
+          ],
+          [
+            1594.030517578125,
+            409.0479736328125
+          ],
+          [
+            1594.030517578125,
+            200.4516143798828
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D730>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9477536082267761,
+      "coordinates": {
+        "points": [
+          [
+            886.11474609375,
+            434.9010314941406
+          ],
+          [
+            886.11474609375,
+            677.6101684570312
+          ],
+          [
+            1557.429931640625,
+            677.6101684570312
+          ],
+          [
+            1557.429931640625,
+            434.9010314941406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CAD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.47650858759880066,
+      "coordinates": {
+        "points": [
+          [
+            111.97735595703125,
+            962.3610229492188
+          ],
+          [
+            111.97735595703125,
+            1021.2385864257812
+          ],
+          [
+            1180.3941650390625,
+            1021.2385864257812
+          ],
+          [
+            1180.3941650390625,
+            962.3610229492188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DE50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            115.0,
+            1044.0
+          ],
+          [
+            115.0,
+            1059.0
+          ],
+          [
+            142.0,
+            1059.0
+          ],
+          [
+            142.0,
+            1044.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E390>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-4-4.jpg",
+      "detection_class_prob": 0.846472978591919,
+      "coordinates": {
+        "points": [
+          [
+            129.1441650390625,
+            1053.8946533203125
+          ],
+          [
+            129.1441650390625,
+            1685.1912841796875
+          ],
+          [
+            1564.4158935546875,
+            1685.1912841796875
+          ],
+          [
+            1564.4158935546875,
+            1053.8946533203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D1F0>"
+      }
+    },
+    {
+      "element_index": 47,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            115.0,
+            1144.0
+          ],
+          [
+            115.0,
+            1159.0
+          ],
+          [
+            142.0,
+            1159.0
+          ],
+          [
+            142.0,
+            1144.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DB50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            115.0,
+            1243.0
+          ],
+          [
+            115.0,
+            1258.0
+          ],
+          [
+            142.0,
+            1258.0
+          ],
+          [
+            142.0,
+            1243.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D970>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.2585165500640869,
+      "coordinates": {
+        "points": [
+          [
+            112.28377532958984,
+            1638.3719482421875
+          ],
+          [
+            112.28377532958984,
+            1656.6790771484375
+          ],
+          [
+            144.3695526123047,
+            1656.6790771484375
+          ],
+          [
+            144.3695526123047,
+            1638.3719482421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E6F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8001143932342529,
+      "coordinates": {
+        "points": [
+          [
+            133.6781768798828,
+            1708.1761474609375
+          ],
+          [
+            133.6781768798828,
+            1726.95068359375
+          ],
+          [
+            1563.1700439453125,
+            1726.95068359375
+          ],
+          [
+            1563.1700439453125,
+            1708.1761474609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D610>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.6794413328170776,
+      "coordinates": {
+        "points": [
+          [
+            116.91401672363281,
+            1762.6173095703125
+          ],
+          [
+            116.91401672363281,
+            1781.9088134765625
+          ],
+          [
+            1490.5694580078125,
+            1781.9088134765625
+          ],
+          [
+            1490.5694580078125,
+            1762.6173095703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DD90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9341318011283875,
+      "coordinates": {
+        "points": [
+          [
+            120.97740173339844,
+            1793.9532470703125
+          ],
+          [
+            120.97740173339844,
+            1913.0765380859375
+          ],
+          [
+            1567.3154296875,
+            1913.0765380859375
+          ],
+          [
+            1567.3154296875,
+            1793.9532470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E930>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8142991065979004,
+      "coordinates": {
+        "points": [
+          [
+            110.60044860839844,
+            1923.7574462890625
+          ],
+          [
+            110.60044860839844,
+            1944.5128173828125
+          ],
+          [
+            694.5888061523438,
+            1944.5128173828125
+          ],
+          [
+            694.5888061523438,
+            1923.7574462890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E030>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.4550076425075531,
+      "coordinates": {
+        "points": [
+          [
+            112.3733139038086,
+            2107.537353515625
+          ],
+          [
+            112.3733139038086,
+            2128.37548828125
+          ],
+          [
+            125.25340270996094,
+            2128.37548828125
+          ],
+          [
+            125.25340270996094,
+            2107.537353515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DC70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.6887421607971191,
+      "coordinates": {
+        "points": [
+          [
+            1103.4644775390625,
+            2117.115966796875
+          ],
+          [
+            1103.4644775390625,
+            2138.716064453125
+          ],
+          [
+            1589.89453125,
+            2138.716064453125
+          ],
+          [
+            1589.89453125,
+            2117.115966796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D8B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_55.txt"
+    },
+    {
+      "element_index": 56,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1558.0,
+            1667.0
+          ],
+          [
+            1558.0,
+            1678.0
+          ],
+          [
+            1587.0,
+            1678.0
+          ],
+          [
+            1587.0,
+            1667.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D910>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.655670166015625,
+      "coordinates": {
+        "points": [
+          [
+            78.68708801269531,
+            65.62015533447266
+          ],
+          [
+            78.68708801269531,
+            100.98464965820312
+          ],
+          [
+            297.3944396972656,
+            100.98464965820312
+          ],
+          [
+            297.3944396972656,
+            65.62015533447266
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E330>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9490842819213867,
+      "coordinates": {
+        "points": [
+          [
+            111.25262451171875,
+            205.16603088378906
+          ],
+          [
+            111.25262451171875,
+            768.2760620117188
+          ],
+          [
+            838.333984375,
+            768.2760620117188
+          ],
+          [
+            838.333984375,
+            205.16603088378906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EBD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9500157833099365,
+      "coordinates": {
+        "points": [
+          [
+            113.63906860351562,
+            795.70458984375
+          ],
+          [
+            113.63906860351562,
+            1218.9183349609375
+          ],
+          [
+            821.488525390625,
+            1218.9183349609375
+          ],
+          [
+            821.488525390625,
+            795.70458984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EF30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.870178759098053,
+      "coordinates": {
+        "points": [
+          [
+            116.66512298583984,
+            1243.547607421875
+          ],
+          [
+            116.66512298583984,
+            1274.0799560546875
+          ],
+          [
+            820.7793579101562,
+            1274.0799560546875
+          ],
+          [
+            820.7793579101562,
+            1243.547607421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E9F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9276589751243591,
+      "coordinates": {
+        "points": [
+          [
+            116.12930297851562,
+            1297.9796142578125
+          ],
+          [
+            116.12930297851562,
+            1618.25244140625
+          ],
+          [
+            798.2786254882812,
+            1618.25244140625
+          ],
+          [
+            798.2786254882812,
+            1297.9796142578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E4B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9378425478935242,
+      "coordinates": {
+        "points": [
+          [
+            123.54741668701172,
+            1639.5799560546875
+          ],
+          [
+            123.54741668701172,
+            1919.8070068359375
+          ],
+          [
+            795.559326171875,
+            1919.8070068359375
+          ],
+          [
+            795.559326171875,
+            1639.5799560546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DEB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            114.0,
+            1649.0
+          ],
+          [
+            114.0,
+            1663.0
+          ],
+          [
+            129.0,
+            1663.0
+          ],
+          [
+            129.0,
+            1649.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E150>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_63.txt"
+    },
+    {
+      "element_index": 64,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.584553062915802,
+      "coordinates": {
+        "points": [
+          [
+            107.76223754882812,
+            2108.060302734375
+          ],
+          [
+            107.76223754882812,
+            2131.90576171875
+          ],
+          [
+            435.3263854980469,
+            2131.90576171875
+          ],
+          [
+            435.3263854980469,
+            2108.060302734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CD10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9205442667007446,
+      "coordinates": {
+        "points": [
+          [
+            884.817626953125,
+            199.62986755371094
+          ],
+          [
+            884.817626953125,
+            336.4510803222656
+          ],
+          [
+            1577.4862060546875,
+            336.4510803222656
+          ],
+          [
+            1577.4862060546875,
+            199.62986755371094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CC50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9527373909950256,
+      "coordinates": {
+        "points": [
+          [
+            885.6256713867188,
+            360.3036193847656
+          ],
+          [
+            885.6256713867188,
+            604.9580078125
+          ],
+          [
+            1582.4703369140625,
+            604.9580078125
+          ],
+          [
+            1582.4703369140625,
+            360.3036193847656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237CCB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.7593433260917664,
+      "coordinates": {
+        "points": [
+          [
+            878.343994140625,
+            660.6796264648438
+          ],
+          [
+            878.343994140625,
+            847.2153930664062
+          ],
+          [
+            1459.0985107421875,
+            847.2153930664062
+          ],
+          [
+            1459.0985107421875,
+            660.6796264648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D5B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.947516918182373,
+      "coordinates": {
+        "points": [
+          [
+            881.92529296875,
+            879.628173828125
+          ],
+          [
+            881.92529296875,
+            1343.461181640625
+          ],
+          [
+            1569.0914306640625,
+            1343.461181640625
+          ],
+          [
+            1569.0914306640625,
+            879.628173828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237DD30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8471770882606506,
+      "coordinates": {
+        "points": [
+          [
+            882.564453125,
+            1401.10400390625
+          ],
+          [
+            882.564453125,
+            1433.1868896484375
+          ],
+          [
+            1426.7861328125,
+            1433.1868896484375
+          ],
+          [
+            1426.7861328125,
+            1401.10400390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EFF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9480423927307129,
+      "coordinates": {
+        "points": [
+          [
+            886.580322265625,
+            1455.248046875
+          ],
+          [
+            886.580322265625,
+            1918.5162353515625
+          ],
+          [
+            1588.509765625,
+            1918.5162353515625
+          ],
+          [
+            1588.509765625,
+            1455.248046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EF90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.2958490252494812,
+      "coordinates": {
+        "points": [
+          [
+            1577.2923583984375,
+            2106.483154296875
+          ],
+          [
+            1577.2923583984375,
+            2129.01953125
+          ],
+          [
+            1590.513916015625,
+            2129.01953125
+          ],
+          [
+            1590.513916015625,
+            2106.483154296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E1B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_71.txt"
+    },
+    {
+      "element_index": 72,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            70.0,
+            62.0
+          ],
+          [
+            70.0,
+            108.0
+          ],
+          [
+            101.0,
+            108.0
+          ],
+          [
+            101.0,
+            62.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EB10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.6605445742607117,
+      "coordinates": {
+        "points": [
+          [
+            80.53950500488281,
+            67.47936248779297
+          ],
+          [
+            80.53950500488281,
+            100.6513442993164
+          ],
+          [
+            298.0814514160156,
+            100.6513442993164
+          ],
+          [
+            298.0814514160156,
+            67.47936248779297
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F0B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9496045112609863,
+      "coordinates": {
+        "points": [
+          [
+            112.68260192871094,
+            203.72396850585938
+          ],
+          [
+            112.68260192871094,
+            700.2743530273438
+          ],
+          [
+            813.0438232421875,
+            700.2743530273438
+          ],
+          [
+            813.0438232421875,
+            203.72396850585938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EDB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_74.txt"
+    },
+    {
+      "element_index": 75,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8447757959365845,
+      "coordinates": {
+        "points": [
+          [
+            886.1052856445312,
+            202.7273712158203
+          ],
+          [
+            886.1052856445312,
+            234.16302490234375
+          ],
+          [
+            1563.890625,
+            234.16302490234375
+          ],
+          [
+            1563.890625,
+            202.7273712158203
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E450>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_75.txt"
+    },
+    {
+      "element_index": 76,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.951073408126831,
+      "coordinates": {
+        "points": [
+          [
+            885.85693359375,
+            258.8392639160156
+          ],
+          [
+            885.85693359375,
+            646.634521484375
+          ],
+          [
+            1564.3343505859375,
+            646.634521484375
+          ],
+          [
+            1564.3343505859375,
+            258.8392639160156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F4D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_76.txt"
+    },
+    {
+      "element_index": 77,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.7634377479553223,
+      "coordinates": {
+        "points": [
+          [
+            109.69710540771484,
+            746.4452514648438
+          ],
+          [
+            109.69710540771484,
+            771.667236328125
+          ],
+          [
+            1110.175537109375,
+            771.667236328125
+          ],
+          [
+            1110.175537109375,
+            746.4452514648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E7B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_77.txt"
+    },
+    {
+      "element_index": 78,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.5199170112609863,
+      "coordinates": {
+        "points": [
+          [
+            115.27144622802734,
+            791.127197265625
+          ],
+          [
+            115.27144622802734,
+            812.5675048828125
+          ],
+          [
+            400.7291259765625,
+            812.5675048828125
+          ],
+          [
+            400.7291259765625,
+            791.127197265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F8F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-6-5.jpg",
+      "detection_class_prob": 0.928024172782898,
+      "coordinates": {
+        "points": [
+          [
+            118.90896606445312,
+            834.9906616210938
+          ],
+          [
+            118.90896606445312,
+            1534.5732421875
+          ],
+          [
+            1556.6431884765625,
+            1534.5732421875
+          ],
+          [
+            1556.6431884765625,
+            834.9906616210938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237E690>"
+      }
+    },
+    {
+      "element_index": 80,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8636635541915894,
+      "coordinates": {
+        "points": [
+          [
+            112.15059661865234,
+            1559.6573486328125
+          ],
+          [
+            112.15059661865234,
+            1629.9327392578125
+          ],
+          [
+            1574.127197265625,
+            1629.9327392578125
+          ],
+          [
+            1574.127197265625,
+            1559.6573486328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FA10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8874106407165527,
+      "coordinates": {
+        "points": [
+          [
+            108.79177856445312,
+            1985.8758544921875
+          ],
+          [
+            108.79177856445312,
+            2005.9620361328125
+          ],
+          [
+            1169.1151123046875,
+            2005.9620361328125
+          ],
+          [
+            1169.1151123046875,
+            1985.8758544921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F650>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_81.txt"
+    },
+    {
+      "element_index": 82,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.727189838886261,
+      "coordinates": {
+        "points": [
+          [
+            1100.80126953125,
+            2117.158203125
+          ],
+          [
+            1100.80126953125,
+            2138.547607421875
+          ],
+          [
+            1592.2647705078125,
+            2138.547607421875
+          ],
+          [
+            1592.2647705078125,
+            2117.158203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FB30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1571.0,
+            549.0
+          ],
+          [
+            1571.0,
+            569.0
+          ],
+          [
+            1584.0,
+            569.0
+          ],
+          [
+            1584.0,
+            549.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F830>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1548.0,
+            1088.0
+          ],
+          [
+            1548.0,
+            1103.0
+          ],
+          [
+            1582.0,
+            1103.0
+          ],
+          [
+            1582.0,
+            1088.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F530>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.6519725918769836,
+      "coordinates": {
+        "points": [
+          [
+            79.30613708496094,
+            66.21199798583984
+          ],
+          [
+            79.30613708496094,
+            101.01071166992188
+          ],
+          [
+            297.3576965332031,
+            101.01071166992188
+          ],
+          [
+            297.3576965332031,
+            66.21199798583984
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237EED0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9459896087646484,
+      "coordinates": {
+        "points": [
+          [
+            111.22260284423828,
+            203.1718292236328
+          ],
+          [
+            111.22260284423828,
+            807.417236328125
+          ],
+          [
+            807.4235229492188,
+            807.417236328125
+          ],
+          [
+            807.4235229492188,
+            203.1718292236328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FB90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9516759514808655,
+      "coordinates": {
+        "points": [
+          [
+            864.2244262695312,
+            202.9517364501953
+          ],
+          [
+            864.2244262695312,
+            443.378173828125
+          ],
+          [
+            1590.9864501953125,
+            443.378173828125
+          ],
+          [
+            1590.9864501953125,
+            202.9517364501953
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237D7F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9540683627128601,
+      "coordinates": {
+        "points": [
+          [
+            861.9962158203125,
+            491.39300537109375
+          ],
+          [
+            861.9962158203125,
+            841.7529907226562
+          ],
+          [
+            1584.801513671875,
+            841.7529907226562
+          ],
+          [
+            1584.801513671875,
+            491.39300537109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FC50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.374277263879776,
+      "coordinates": {
+        "points": [
+          [
+            105.83016204833984,
+            864.7086791992188
+          ],
+          [
+            105.83016204833984,
+            890.0706787109375
+          ],
+          [
+            983.840576171875,
+            890.0706787109375
+          ],
+          [
+            983.840576171875,
+            864.7086791992188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F3B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_89.txt"
+    },
+    {
+      "element_index": 90,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.258862167596817,
+      "coordinates": {
+        "points": [
+          [
+            109.31700897216797,
+            906.9041748046875
+          ],
+          [
+            109.31700897216797,
+            931.5831909179688
+          ],
+          [
+            199.01174926757812,
+            931.5831909179688
+          ],
+          [
+            199.01174926757812,
+            906.9041748046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FD10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-7-6.jpg",
+      "detection_class_prob": 0.5479001998901367,
+      "coordinates": {
+        "points": [
+          [
+            314.3404235839844,
+            907.669677734375
+          ],
+          [
+            314.3404235839844,
+            1033.1123046875
+          ],
+          [
+            469.02374267578125,
+            1033.1123046875
+          ],
+          [
+            469.02374267578125,
+            907.669677734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F6B0>"
+      }
+    },
+    {
+      "element_index": 92,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            718.0,
+            964.0
+          ],
+          [
+            718.0,
+            990.0
+          ],
+          [
+            985.0,
+            990.0
+          ],
+          [
+            985.0,
+            964.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C290>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_92.txt"
+    },
+    {
+      "element_index": 93,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-7-7.jpg",
+      "detection_class_prob": 0.6474068760871887,
+      "coordinates": {
+        "points": [
+          [
+            1232.0208740234375,
+            909.4359130859375
+          ],
+          [
+            1232.0208740234375,
+            1040.1474609375
+          ],
+          [
+            1391.609130859375,
+            1040.1474609375
+          ],
+          [
+            1391.609130859375,
+            909.4359130859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F590>"
+      }
+    },
+    {
+      "element_index": 94,
+      "element_type": "FigureCaption",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.33117708563804626,
+      "coordinates": {
+        "points": [
+          [
+            321.16253662109375,
+            1052.07470703125
+          ],
+          [
+            321.16253662109375,
+            1082.2471923828125
+          ],
+          [
+            461.69879150390625,
+            1082.2471923828125
+          ],
+          [
+            461.69879150390625,
+            1052.07470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FE30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\figurecaption_94.txt"
+    },
+    {
+      "element_index": 95,
+      "element_type": "FigureCaption",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.41954174637794495,
+      "coordinates": {
+        "points": [
+          [
+            1245.6033935546875,
+            1052.890380859375
+          ],
+          [
+            1245.6033935546875,
+            1082.4866943359375
+          ],
+          [
+            1375.6246337890625,
+            1082.4866943359375
+          ],
+          [
+            1375.6246337890625,
+            1052.890380859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237F770>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\figurecaption_95.txt"
+    },
+    {
+      "element_index": 96,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            724.0,
+            1149.0
+          ],
+          [
+            724.0,
+            1205.0
+          ],
+          [
+            979.0,
+            1205.0
+          ],
+          [
+            979.0,
+            1149.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C350>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_96.txt"
+    },
+    {
+      "element_index": 97,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-7-8.jpg",
+      "detection_class_prob": 0.6042036414146423,
+      "coordinates": {
+        "points": [
+          [
+            159.992431640625,
+            1246.3790283203125
+          ],
+          [
+            159.992431640625,
+            1835.2552490234375
+          ],
+          [
+            1548.366943359375,
+            1835.2552490234375
+          ],
+          [
+            1548.366943359375,
+            1246.3790283203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FDD0>"
+      }
+    },
+    {
+      "element_index": 98,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.7921790480613708,
+      "coordinates": {
+        "points": [
+          [
+            113.17092895507812,
+            1883.9249267578125
+          ],
+          [
+            113.17092895507812,
+            1904.7646484375
+          ],
+          [
+            1064.3231201171875,
+            1904.7646484375
+          ],
+          [
+            1064.3231201171875,
+            1883.9249267578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FF50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_98.txt"
+    },
+    {
+      "element_index": 99,
+      "element_type": "ListItem",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9069036841392517,
+      "coordinates": {
+        "points": [
+          [
+            108.48367309570312,
+            1962.33056640625
+          ],
+          [
+            108.48367309570312,
+            2036.20849609375
+          ],
+          [
+            1563.765869140625,
+            2036.20849609375
+          ],
+          [
+            1563.765869140625,
+            1962.33056640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FD70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\listitem_99.txt"
+    },
+    {
+      "element_index": 100,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.6209895014762878,
+      "coordinates": {
+        "points": [
+          [
+            107.18326568603516,
+            2107.01416015625
+          ],
+          [
+            107.18326568603516,
+            2131.93896484375
+          ],
+          [
+            438.55340576171875,
+            2131.93896484375
+          ],
+          [
+            438.55340576171875,
+            2107.01416015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C1D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_100.txt"
+    },
+    {
+      "element_index": 101,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.39401963353157043,
+      "coordinates": {
+        "points": [
+          [
+            1578.5223388671875,
+            2105.129150390625
+          ],
+          [
+            1578.5223388671875,
+            2129.931640625
+          ],
+          [
+            1592.1651611328125,
+            2129.931640625
+          ],
+          [
+            1592.1651611328125,
+            2105.129150390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001586237FE90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_101.txt"
+    },
+    {
+      "element_index": 102,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.7151844501495361,
+      "coordinates": {
+        "points": [
+          [
+            77.38211059570312,
+            64.0929946899414
+          ],
+          [
+            77.38211059570312,
+            101.03865051269531
+          ],
+          [
+            297.4976501464844,
+            101.03865051269531
+          ],
+          [
+            297.4976501464844,
+            64.0929946899414
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C7D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_102.txt"
+    },
+    {
+      "element_index": 103,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.777780294418335,
+      "coordinates": {
+        "points": [
+          [
+            90.3326416015625,
+            251.96556091308594
+          ],
+          [
+            90.3326416015625,
+            442.5954284667969
+          ],
+          [
+            743.5767822265625,
+            442.5954284667969
+          ],
+          [
+            743.5767822265625,
+            251.96556091308594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C470>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_103.txt"
+    },
+    {
+      "element_index": 104,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.9524657130241394,
+      "coordinates": {
+        "points": [
+          [
+            102.68048858642578,
+            469.8551025390625
+          ],
+          [
+            102.68048858642578,
+            825.5277709960938
+          ],
+          [
+            792.20263671875,
+            825.5277709960938
+          ],
+          [
+            792.20263671875,
+            469.8551025390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C950>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_104.txt"
+    },
+    {
+      "element_index": 105,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.937152087688446,
+      "coordinates": {
+        "points": [
+          [
+            102.7753677368164,
+            849.4740600585938
+          ],
+          [
+            102.7753677368164,
+            1489.131103515625
+          ],
+          [
+            779.9129638671875,
+            1489.131103515625
+          ],
+          [
+            779.9129638671875,
+            849.4740600585938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C050>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_105.txt"
+    },
+    {
+      "element_index": 106,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.9450889229774475,
+      "coordinates": {
+        "points": [
+          [
+            100.05387115478516,
+            1517.4161376953125
+          ],
+          [
+            100.05387115478516,
+            2012.2606201171875
+          ],
+          [
+            790.8252563476562,
+            2012.2606201171875
+          ],
+          [
+            790.8252563476562,
+            1517.4161376953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43CBF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_106.txt"
+    },
+    {
+      "element_index": 107,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            769.0,
+            1436.0
+          ],
+          [
+            769.0,
+            1451.0
+          ],
+          [
+            793.0,
+            1451.0
+          ],
+          [
+            793.0,
+            1436.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D190>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_107.txt"
+    },
+    {
+      "element_index": 108,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.941581666469574,
+      "coordinates": {
+        "points": [
+          [
+            873.5108642578125,
+            254.31768798828125
+          ],
+          [
+            873.5108642578125,
+            924.13818359375
+          ],
+          [
+            1570.5675048828125,
+            924.13818359375
+          ],
+          [
+            1570.5675048828125,
+            254.31768798828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43CE30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_108.txt"
+    },
+    {
+      "element_index": 109,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.9469161629676819,
+      "coordinates": {
+        "points": [
+          [
+            871.0116577148438,
+            955.7902221679688
+          ],
+          [
+            871.0116577148438,
+            1449.3638916015625
+          ],
+          [
+            1564.393798828125,
+            1449.3638916015625
+          ],
+          [
+            1564.393798828125,
+            955.7902221679688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D310>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_109.txt"
+    },
+    {
+      "element_index": 110,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.9515472650527954,
+      "coordinates": {
+        "points": [
+          [
+            870.32470703125,
+            1477.5462646484375
+          ],
+          [
+            870.32470703125,
+            1683.41259765625
+          ],
+          [
+            1568.827880859375,
+            1683.41259765625
+          ],
+          [
+            1568.827880859375,
+            1477.5462646484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C410>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_110.txt"
+    },
+    {
+      "element_index": 111,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.6741087436676025,
+      "coordinates": {
+        "points": [
+          [
+            1100.952880859375,
+            2116.812744140625
+          ],
+          [
+            1100.952880859375,
+            2138.598388671875
+          ],
+          [
+            1592.0665283203125,
+            2138.598388671875
+          ],
+          [
+            1592.0665283203125,
+            2116.812744140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D790>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_111.txt"
+    },
+    {
+      "element_index": 112,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.6928422451019287,
+      "coordinates": {
+        "points": [
+          [
+            77.17242431640625,
+            63.95475769042969
+          ],
+          [
+            77.17242431640625,
+            100.72847747802734
+          ],
+          [
+            297.2012023925781,
+            100.72847747802734
+          ],
+          [
+            297.2012023925781,
+            63.95475769042969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D6D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_112.txt"
+    },
+    {
+      "element_index": 113,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.56217360496521,
+      "coordinates": {
+        "points": [
+          [
+            119.27671813964844,
+            252.86831665039062
+          ],
+          [
+            119.27671813964844,
+            277.2167053222656
+          ],
+          [
+            1336.8585205078125,
+            277.2167053222656
+          ],
+          [
+            1336.8585205078125,
+            252.86831665039062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D730>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_113.txt"
+    },
+    {
+      "element_index": 114,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.8372772336006165,
+      "coordinates": {
+        "points": [
+          [
+            114.75850677490234,
+            298.11248779296875
+          ],
+          [
+            114.75850677490234,
+            318.57525634765625
+          ],
+          [
+            1008.951171875,
+            318.57525634765625
+          ],
+          [
+            1008.951171875,
+            298.11248779296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C890>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_114.txt"
+    },
+    {
+      "element_index": 115,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-9-9.jpg",
+      "detection_class_prob": 0.9246867895126343,
+      "coordinates": {
+        "points": [
+          [
+            125.34125518798828,
+            349.2544860839844
+          ],
+          [
+            125.34125518798828,
+            986.9907836914062
+          ],
+          [
+            1566.773681640625,
+            986.9907836914062
+          ],
+          [
+            1566.773681640625,
+            349.2544860839844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D0D0>"
+      }
+    },
+    {
+      "element_index": 116,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "coordinates": {
+        "points": [
+          [
+            112.0,
+            547.0
+          ],
+          [
+            112.0,
+            617.0
+          ],
+          [
+            133.0,
+            617.0
+          ],
+          [
+            133.0,
+            547.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43CF50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_116.txt"
+    },
+    {
+      "element_index": 117,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "coordinates": {
+        "points": [
+          [
+            116.0,
+            650.0
+          ],
+          [
+            116.0,
+            706.0
+          ],
+          [
+            130.0,
+            706.0
+          ],
+          [
+            130.0,
+            650.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C590>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_117.txt"
+    },
+    {
+      "element_index": 118,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.6822790503501892,
+      "coordinates": {
+        "points": [
+          [
+            108.90641021728516,
+            1023.13916015625
+          ],
+          [
+            108.90641021728516,
+            1070.2408447265625
+          ],
+          [
+            1581.15771484375,
+            1070.2408447265625
+          ],
+          [
+            1581.15771484375,
+            1023.13916015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43C830>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_118.txt"
+    },
+    {
+      "element_index": 119,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9505093693733215,
+      "coordinates": {
+        "points": [
+          [
+            112.7277603149414,
+            1124.8927001953125
+          ],
+          [
+            112.7277603149414,
+            1546.6424560546875
+          ],
+          [
+            815.3025512695312,
+            1546.6424560546875
+          ],
+          [
+            815.3025512695312,
+            1124.8927001953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D4F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_119.txt"
+    },
+    {
+      "element_index": 120,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.943640410900116,
+      "coordinates": {
+        "points": [
+          [
+            883.3311157226562,
+            1125.0301513671875
+          ],
+          [
+            883.3311157226562,
+            1758.773681640625
+          ],
+          [
+            1574.306396484375,
+            1758.773681640625
+          ],
+          [
+            1574.306396484375,
+            1125.0301513671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D490>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_120.txt"
+    },
+    {
+      "element_index": 121,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.721989631652832,
+      "coordinates": {
+        "points": [
+          [
+            107.63788604736328,
+            2109.672119140625
+          ],
+          [
+            107.63788604736328,
+            2131.46728515625
+          ],
+          [
+            435.2686767578125,
+            2131.46728515625
+          ],
+          [
+            435.2686767578125,
+            2109.672119140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D9D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_121.txt"
+    },
+    {
+      "element_index": 122,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "coordinates": {
+        "points": [
+          [
+            70.0,
+            62.0
+          ],
+          [
+            70.0,
+            108.0
+          ],
+          [
+            101.0,
+            108.0
+          ],
+          [
+            101.0,
+            62.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D910>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_122.txt"
+    },
+    {
+      "element_index": 123,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.7027751803398132,
+      "coordinates": {
+        "points": [
+          [
+            83.41924285888672,
+            67.46107482910156
+          ],
+          [
+            83.41924285888672,
+            100.7003402709961
+          ],
+          [
+            297.3628845214844,
+            100.7003402709961
+          ],
+          [
+            297.3628845214844,
+            67.46107482910156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D850>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_123.txt"
+    },
+    {
+      "element_index": 124,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.6068776249885559,
+      "coordinates": {
+        "points": [
+          [
+            115.95194244384766,
+            204.26011657714844
+          ],
+          [
+            115.95194244384766,
+            268.5242919921875
+          ],
+          [
+            764.4790649414062,
+            268.5242919921875
+          ],
+          [
+            764.4790649414062,
+            204.26011657714844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E210>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_124.txt"
+    },
+    {
+      "element_index": 125,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "coordinates": {
+        "points": [
+          [
+            119.0,
+            291.0
+          ],
+          [
+            119.0,
+            306.0
+          ],
+          [
+            155.0,
+            306.0
+          ],
+          [
+            155.0,
+            291.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E270>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_125.txt"
+    },
+    {
+      "element_index": 126,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-10-10.jpg",
+      "detection_class_prob": 0.9236156344413757,
+      "coordinates": {
+        "points": [
+          [
+            112.2190933227539,
+            325.4969177246094
+          ],
+          [
+            112.2190933227539,
+            946.647216796875
+          ],
+          [
+            823.7817993164062,
+            946.647216796875
+          ],
+          [
+            823.7817993164062,
+            325.4969177246094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D8B0>"
+      }
+    },
+    {
+      "element_index": 127,
+      "element_type": "FigureCaption",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.8629869818687439,
+      "coordinates": {
+        "points": [
+          [
+            113.3316421508789,
+            967.4994506835938
+          ],
+          [
+            113.3316421508789,
+            1087.7813720703125
+          ],
+          [
+            823.3096923828125,
+            1087.7813720703125
+          ],
+          [
+            823.3096923828125,
+            967.4994506835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E330>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\figurecaption_127.txt"
+    },
+    {
+      "element_index": 128,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.8256711959838867,
+      "coordinates": {
+        "points": [
+          [
+            110.08141326904297,
+            1152.5909423828125
+          ],
+          [
+            110.08141326904297,
+            1276.3382568359375
+          ],
+          [
+            732.8728637695312,
+            1276.3382568359375
+          ],
+          [
+            732.8728637695312,
+            1152.5909423828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DC70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_128.txt"
+    },
+    {
+      "element_index": 129,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.9503592252731323,
+      "coordinates": {
+        "points": [
+          [
+            117.84147644042969,
+            1292.7059326171875
+          ],
+          [
+            117.84147644042969,
+            1610.1810302734375
+          ],
+          [
+            807.5186157226562,
+            1610.1810302734375
+          ],
+          [
+            807.5186157226562,
+            1292.7059326171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DDF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_129.txt"
+    },
+    {
+      "element_index": 130,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.9488325715065002,
+      "coordinates": {
+        "points": [
+          [
+            114.09423065185547,
+            1637.2371826171875
+          ],
+          [
+            114.09423065185547,
+            2026.5487060546875
+          ],
+          [
+            808.1722412109375,
+            2026.5487060546875
+          ],
+          [
+            808.1722412109375,
+            1637.2371826171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DAF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_130.txt"
+    },
+    {
+      "element_index": 131,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.5313716530799866,
+      "coordinates": {
+        "points": [
+          [
+            113.54768371582031,
+            2106.251953125
+          ],
+          [
+            113.54768371582031,
+            2129.78955078125
+          ],
+          [
+            135.2488250732422,
+            2129.78955078125
+          ],
+          [
+            135.2488250732422,
+            2106.251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DEB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_131.txt"
+    },
+    {
+      "element_index": 132,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.9482951760292053,
+      "coordinates": {
+        "points": [
+          [
+            884.6106567382812,
+            202.50318908691406
+          ],
+          [
+            884.6106567382812,
+            408.8040771484375
+          ],
+          [
+            1605.808349609375,
+            408.8040771484375
+          ],
+          [
+            1605.808349609375,
+            202.50318908691406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D070>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_132.txt"
+    },
+    {
+      "element_index": 133,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.9396947622299194,
+      "coordinates": {
+        "points": [
+          [
+            887.7423095703125,
+            438.4500732421875
+          ],
+          [
+            887.7423095703125,
+            1035.2152099609375
+          ],
+          [
+            1602.9376220703125,
+            1035.2152099609375
+          ],
+          [
+            1602.9376220703125,
+            438.4500732421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D5B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_133.txt"
+    },
+    {
+      "element_index": 134,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.6798696517944336,
+      "coordinates": {
+        "points": [
+          [
+            879.2022705078125,
+            1132.2325439453125
+          ],
+          [
+            879.2022705078125,
+            1156.36962890625
+          ],
+          [
+            1603.6983642578125,
+            1156.36962890625
+          ],
+          [
+            1603.6983642578125,
+            1132.2325439453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43D1F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_134.txt"
+    },
+    {
+      "element_index": 135,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.5161324739456177,
+      "coordinates": {
+        "points": [
+          [
+            882.310791015625,
+            1175.286865234375
+          ],
+          [
+            882.310791015625,
+            1197.86572265625
+          ],
+          [
+            1374.3385009765625,
+            1197.86572265625
+          ],
+          [
+            1374.3385009765625,
+            1175.286865234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43CB30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_135.txt"
+    },
+    {
+      "element_index": 136,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-10-11.jpg",
+      "detection_class_prob": 0.9264388084411621,
+      "coordinates": {
+        "points": [
+          [
+            873.7616577148438,
+            1217.4337158203125
+          ],
+          [
+            873.7616577148438,
+            1872.2911376953125
+          ],
+          [
+            1603.552734375,
+            1872.2911376953125
+          ],
+          [
+            1603.552734375,
+            1217.4337158203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43CA10>"
+      }
+    },
+    {
+      "element_index": 137,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.7892017960548401,
+      "coordinates": {
+        "points": [
+          [
+            879.840087890625,
+            1887.3948974609375
+          ],
+          [
+            879.840087890625,
+            1984.7547607421875
+          ],
+          [
+            1523.0169677734375,
+            1984.7547607421875
+          ],
+          [
+            1523.0169677734375,
+            1887.3948974609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DA90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_137.txt"
+    },
+    {
+      "element_index": 138,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.7737314105033875,
+      "coordinates": {
+        "points": [
+          [
+            880.7205810546875,
+            2015.7972412109375
+          ],
+          [
+            880.7205810546875,
+            2036.2591552734375
+          ],
+          [
+            1498.5654296875,
+            2036.2591552734375
+          ],
+          [
+            1498.5654296875,
+            2015.7972412109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DD90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_138.txt"
+    },
+    {
+      "element_index": 139,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.683500349521637,
+      "coordinates": {
+        "points": [
+          [
+            1102.4573974609375,
+            2116.9287109375
+          ],
+          [
+            1102.4573974609375,
+            2138.770751953125
+          ],
+          [
+            1591.0718994140625,
+            2138.770751953125
+          ],
+          [
+            1591.0718994140625,
+            2116.9287109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DC10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_139.txt"
+    },
+    {
+      "element_index": 140,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.639706552028656,
+      "coordinates": {
+        "points": [
+          [
+            78.6902847290039,
+            65.13776397705078
+          ],
+          [
+            78.6902847290039,
+            101.20686340332031
+          ],
+          [
+            297.3263244628906,
+            101.20686340332031
+          ],
+          [
+            297.3263244628906,
+            65.13776397705078
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E5D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_140.txt"
+    },
+    {
+      "element_index": 141,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.948225736618042,
+      "coordinates": {
+        "points": [
+          [
+            114.69456481933594,
+            201.62159729003906
+          ],
+          [
+            114.69456481933594,
+            589.1015625
+          ],
+          [
+            830.8118896484375,
+            589.1015625
+          ],
+          [
+            830.8118896484375,
+            201.62159729003906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E090>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_141.txt"
+    },
+    {
+      "element_index": 142,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.9363940954208374,
+      "coordinates": {
+        "points": [
+          [
+            117.29589080810547,
+            615.1395263671875
+          ],
+          [
+            117.29589080810547,
+            749.7239990234375
+          ],
+          [
+            842.2106323242188,
+            749.7239990234375
+          ],
+          [
+            842.2106323242188,
+            615.1395263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E030>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_142.txt"
+    },
+    {
+      "element_index": 143,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.9546841382980347,
+      "coordinates": {
+        "points": [
+          [
+            883.3946533203125,
+            202.698486328125
+          ],
+          [
+            883.3946533203125,
+            481.5652160644531
+          ],
+          [
+            1554.498291015625,
+            481.5652160644531
+          ],
+          [
+            1554.498291015625,
+            202.698486328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E8D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_143.txt"
+    },
+    {
+      "element_index": 144,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.9567683935165405,
+      "coordinates": {
+        "points": [
+          [
+            883.829345703125,
+            507.135009765625
+          ],
+          [
+            883.829345703125,
+            750.750732421875
+          ],
+          [
+            1589.246337890625,
+            750.750732421875
+          ],
+          [
+            1589.246337890625,
+            507.135009765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E750>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_144.txt"
+    },
+    {
+      "element_index": 145,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.7861852645874023,
+      "coordinates": {
+        "points": [
+          [
+            114.7437973022461,
+            807.7196044921875
+          ],
+          [
+            114.7437973022461,
+            833.5745239257812
+          ],
+          [
+            676.5463256835938,
+            833.5745239257812
+          ],
+          [
+            676.5463256835938,
+            807.7196044921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E510>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_145.txt"
+    },
+    {
+      "element_index": 146,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.670914351940155,
+      "coordinates": {
+        "points": [
+          [
+            113.17606353759766,
+            853.6216430664062
+          ],
+          [
+            113.17606353759766,
+            874.9682006835938
+          ],
+          [
+            852.5868530273438,
+            874.9682006835938
+          ],
+          [
+            852.5868530273438,
+            853.6216430664062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43DF10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_146.txt"
+    },
+    {
+      "element_index": 147,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "coordinates": {
+        "points": [
+          [
+            113.0,
+            898.0
+          ],
+          [
+            113.0,
+            914.0
+          ],
+          [
+            150.0,
+            914.0
+          ],
+          [
+            150.0,
+            898.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E990>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_147.txt"
+    },
+    {
+      "element_index": 148,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-11-12.jpg",
+      "detection_class_prob": 0.9308162331581116,
+      "coordinates": {
+        "points": [
+          [
+            137.0092315673828,
+            940.342529296875
+          ],
+          [
+            137.0092315673828,
+            1568.7333984375
+          ],
+          [
+            1601.5556640625,
+            1568.7333984375
+          ],
+          [
+            1601.5556640625,
+            940.342529296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EA50>"
+      }
+    },
+    {
+      "element_index": 149,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "coordinates": {
+        "points": [
+          [
+            114.0,
+            1046.0
+          ],
+          [
+            114.0,
+            1061.0
+          ],
+          [
+            150.0,
+            1061.0
+          ],
+          [
+            150.0,
+            1046.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EC30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_149.txt"
+    },
+    {
+      "element_index": 150,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "coordinates": {
+        "points": [
+          [
+            114.0,
+            1194.0
+          ],
+          [
+            114.0,
+            1210.0
+          ],
+          [
+            150.0,
+            1210.0
+          ],
+          [
+            150.0,
+            1194.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E870>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_150.txt"
+    },
+    {
+      "element_index": 151,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "coordinates": {
+        "points": [
+          [
+            118.0,
+            1342.0
+          ],
+          [
+            118.0,
+            1358.0
+          ],
+          [
+            150.0,
+            1358.0
+          ],
+          [
+            150.0,
+            1342.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EE10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_151.txt"
+    },
+    {
+      "element_index": 152,
+      "element_type": "FigureCaption",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.861750066280365,
+      "coordinates": {
+        "points": [
+          [
+            113.09122467041016,
+            1580.0882568359375
+          ],
+          [
+            113.09122467041016,
+            1601.26123046875
+          ],
+          [
+            980.88134765625,
+            1601.26123046875
+          ],
+          [
+            980.88134765625,
+            1580.0882568359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EB10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\figurecaption_152.txt"
+    },
+    {
+      "element_index": 153,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.7121956944465637,
+      "coordinates": {
+        "points": [
+          [
+            107.57962799072266,
+            2109.56396484375
+          ],
+          [
+            107.57962799072266,
+            2131.523681640625
+          ],
+          [
+            435.342041015625,
+            2131.523681640625
+          ],
+          [
+            435.342041015625,
+            2109.56396484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E690>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_153.txt"
+    },
+    {
+      "element_index": 154,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.4011804163455963,
+      "coordinates": {
+        "points": [
+          [
+            1573.8333740234375,
+            2106.921142578125
+          ],
+          [
+            1573.8333740234375,
+            2129.90380859375
+          ],
+          [
+            1590.0628662109375,
+            2129.90380859375
+          ],
+          [
+            1590.0628662109375,
+            2106.921142578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43ECF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_154.txt"
+    },
+    {
+      "element_index": 155,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.7156470417976379,
+      "coordinates": {
+        "points": [
+          [
+            78.08148193359375,
+            64.00297546386719
+          ],
+          [
+            78.08148193359375,
+            101.15459442138672
+          ],
+          [
+            297.6169738769531,
+            101.15459442138672
+          ],
+          [
+            297.6169738769531,
+            64.00297546386719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F110>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_155.txt"
+    },
+    {
+      "element_index": 156,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.7769991755485535,
+      "coordinates": {
+        "points": [
+          [
+            113.02809143066406,
+            201.48423767089844
+          ],
+          [
+            113.02809143066406,
+            391.1485290527344
+          ],
+          [
+            713.1756591796875,
+            391.1485290527344
+          ],
+          [
+            713.1756591796875,
+            201.48423767089844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E450>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_156.txt"
+    },
+    {
+      "element_index": 157,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.953924298286438,
+      "coordinates": {
+        "points": [
+          [
+            115.90290069580078,
+            419.0243835449219
+          ],
+          [
+            115.90290069580078,
+            665.7891235351562
+          ],
+          [
+            811.2488403320312,
+            665.7891235351562
+          ],
+          [
+            811.2488403320312,
+            419.0243835449219
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F290>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_157.txt"
+    },
+    {
+      "element_index": 158,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9515341520309448,
+      "coordinates": {
+        "points": [
+          [
+            114.42500305175781,
+            690.22900390625
+          ],
+          [
+            114.42500305175781,
+            935.4256591796875
+          ],
+          [
+            794.4684448242188,
+            935.4256591796875
+          ],
+          [
+            794.4684448242188,
+            690.22900390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F470>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_158.txt"
+    },
+    {
+      "element_index": 159,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.952559769153595,
+      "coordinates": {
+        "points": [
+          [
+            111.4271469116211,
+            962.0901489257812
+          ],
+          [
+            111.4271469116211,
+            1240.5572509765625
+          ],
+          [
+            825.2131958007812,
+            1240.5572509765625
+          ],
+          [
+            825.2131958007812,
+            962.0901489257812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43E390>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_159.txt"
+    },
+    {
+      "element_index": 160,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9429386854171753,
+      "coordinates": {
+        "points": [
+          [
+            111.23749542236328,
+            1269.2918701171875
+          ],
+          [
+            111.23749542236328,
+            1830.80859375
+          ],
+          [
+            820.54345703125,
+            1830.80859375
+          ],
+          [
+            820.54345703125,
+            1269.2918701171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F3B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_160.txt"
+    },
+    {
+      "element_index": 161,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.44415977597236633,
+      "coordinates": {
+        "points": [
+          [
+            114.23458862304688,
+            2105.9365234375
+          ],
+          [
+            114.23458862304688,
+            2130.250732421875
+          ],
+          [
+            131.71934509277344,
+            2130.250732421875
+          ],
+          [
+            131.71934509277344,
+            2105.9365234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EB70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_161.txt"
+    },
+    {
+      "element_index": 162,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9454120993614197,
+      "coordinates": {
+        "points": [
+          [
+            884.6615600585938,
+            205.0829620361328
+          ],
+          [
+            884.6615600585938,
+            659.1558227539062
+          ],
+          [
+            1580.1168212890625,
+            659.1558227539062
+          ],
+          [
+            1580.1168212890625,
+            205.0829620361328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F950>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_162.txt"
+    },
+    {
+      "element_index": 163,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9437785148620605,
+      "coordinates": {
+        "points": [
+          [
+            883.7029418945312,
+            688.5533447265625
+          ],
+          [
+            883.7029418945312,
+            1218.3558349609375
+          ],
+          [
+            1591.236572265625,
+            1218.3558349609375
+          ],
+          [
+            1591.236572265625,
+            688.5533447265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43ED50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_163.txt"
+    },
+    {
+      "element_index": 164,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9475002884864807,
+      "coordinates": {
+        "points": [
+          [
+            884.3775024414062,
+            1249.4208984375
+          ],
+          [
+            884.3775024414062,
+            1884.81201171875
+          ],
+          [
+            1589.108154296875,
+            1884.81201171875
+          ],
+          [
+            1589.108154296875,
+            1249.4208984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F530>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_164.txt"
+    },
+    {
+      "element_index": 165,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.6185015439987183,
+      "coordinates": {
+        "points": [
+          [
+            1102.5814208984375,
+            2117.366943359375
+          ],
+          [
+            1102.5814208984375,
+            2138.5615234375
+          ],
+          [
+            1591.07470703125,
+            2138.5615234375
+          ],
+          [
+            1591.07470703125,
+            2117.366943359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FBF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_165.txt"
+    },
+    {
+      "element_index": 166,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.6949272751808167,
+      "coordinates": {
+        "points": [
+          [
+            79.19844055175781,
+            65.67636108398438
+          ],
+          [
+            79.19844055175781,
+            101.09442901611328
+          ],
+          [
+            296.9144592285156,
+            101.09442901611328
+          ],
+          [
+            296.9144592285156,
+            65.67636108398438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FB90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_166.txt"
+    },
+    {
+      "element_index": 167,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.9511865377426147,
+      "coordinates": {
+        "points": [
+          [
+            107.64228057861328,
+            202.23509216308594
+          ],
+          [
+            107.64228057861328,
+            409.6399841308594
+          ],
+          [
+            785.9695434570312,
+            409.6399841308594
+          ],
+          [
+            785.9695434570312,
+            202.23509216308594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F9B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_167.txt"
+    },
+    {
+      "element_index": 168,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.9467107653617859,
+      "coordinates": {
+        "points": [
+          [
+            882.4485473632812,
+            201.35556030273438
+          ],
+          [
+            882.4485473632812,
+            376.5679626464844
+          ],
+          [
+            1576.3671875,
+            376.5679626464844
+          ],
+          [
+            1576.3671875,
+            201.35556030273438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EED0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_168.txt"
+    },
+    {
+      "element_index": 169,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.5356465578079224,
+      "coordinates": {
+        "points": [
+          [
+            105.65354919433594,
+            453.46380615234375
+          ],
+          [
+            105.65354919433594,
+            479.6936340332031
+          ],
+          [
+            791.581787109375,
+            479.6936340332031
+          ],
+          [
+            791.581787109375,
+            453.46380615234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FB30>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_169.txt"
+    },
+    {
+      "element_index": 170,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.6416916847229004,
+      "coordinates": {
+        "points": [
+          [
+            114.87600708007812,
+            498.9668273925781
+          ],
+          [
+            114.87600708007812,
+            520.524658203125
+          ],
+          [
+            771.4252319335938,
+            520.524658203125
+          ],
+          [
+            771.4252319335938,
+            498.9668273925781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F4D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_170.txt"
+    },
+    {
+      "element_index": 171,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "coordinates": {
+        "points": [
+          [
+            113.0,
+            544.0
+          ],
+          [
+            113.0,
+            559.0
+          ],
+          [
+            152.0,
+            559.0
+          ],
+          [
+            152.0,
+            544.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FC50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_171.txt"
+    },
+    {
+      "element_index": 172,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-13-13.jpg",
+      "detection_class_prob": 0.9116254448890686,
+      "coordinates": {
+        "points": [
+          [
+            122.29601287841797,
+            571.7510375976562
+          ],
+          [
+            122.29601287841797,
+            1201.8421630859375
+          ],
+          [
+            1565.3060302734375,
+            1201.8421630859375
+          ],
+          [
+            1565.3060302734375,
+            571.7510375976562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FE90>"
+      }
+    },
+    {
+      "element_index": 173,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.8324401378631592,
+      "coordinates": {
+        "points": [
+          [
+            114.67581939697266,
+            1217.898681640625
+          ],
+          [
+            114.67581939697266,
+            1264.758056640625
+          ],
+          [
+            1532.73681640625,
+            1264.758056640625
+          ],
+          [
+            1532.73681640625,
+            1217.898681640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43EAB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_173.txt"
+    },
+    {
+      "element_index": 174,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.7485247254371643,
+      "coordinates": {
+        "points": [
+          [
+            107.66372680664062,
+            2109.793701171875
+          ],
+          [
+            107.66372680664062,
+            2131.455322265625
+          ],
+          [
+            435.3311462402344,
+            2131.455322265625
+          ],
+          [
+            435.3311462402344,
+            2109.793701171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F1D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_174.txt"
+    },
+    {
+      "element_index": 175,
+      "element_type": "Footer",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.39681476354599,
+      "coordinates": {
+        "points": [
+          [
+            1572.5189208984375,
+            2106.691650390625
+          ],
+          [
+            1572.5189208984375,
+            2129.8447265625
+          ],
+          [
+            1589.4617919921875,
+            2129.8447265625
+          ],
+          [
+            1589.4617919921875,
+            2106.691650390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FF50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\footer_175.txt"
+    },
+    {
+      "element_index": 176,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.585444450378418,
+      "coordinates": {
+        "points": [
+          [
+            76.86209106445312,
+            63.192569732666016
+          ],
+          [
+            76.86209106445312,
+            101.65481567382812
+          ],
+          [
+            298.8017272949219,
+            101.65481567382812
+          ],
+          [
+            298.8017272949219,
+            63.192569732666016
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F830>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_176.txt"
+    },
+    {
+      "element_index": 177,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-14.jpg",
+      "detection_class_prob": 0.7467964887619019,
+      "coordinates": {
+        "points": [
+          [
+            117.03942108154297,
+            309.24407958984375
+          ],
+          [
+            117.03942108154297,
+            500.5284118652344
+          ],
+          [
+            305.79046630859375,
+            500.5284118652344
+          ],
+          [
+            305.79046630859375,
+            309.24407958984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FEF0>"
+      }
+    },
+    {
+      "element_index": 178,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-15.jpg",
+      "detection_class_prob": 0.7279804944992065,
+      "coordinates": {
+        "points": [
+          [
+            116.97076416015625,
+            653.8001708984375
+          ],
+          [
+            116.97076416015625,
+            843.1295776367188
+          ],
+          [
+            304.8486633300781,
+            843.1295776367188
+          ],
+          [
+            304.8486633300781,
+            653.8001708984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0650>"
+      }
+    },
+    {
+      "element_index": 179,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-16.jpg",
+      "detection_class_prob": 0.7721723914146423,
+      "coordinates": {
+        "points": [
+          [
+            117.38700866699219,
+            994.9186401367188
+          ],
+          [
+            117.38700866699219,
+            1189.0491943359375
+          ],
+          [
+            304.49114990234375,
+            1189.0491943359375
+          ],
+          [
+            304.49114990234375,
+            994.9186401367188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0A10>"
+      }
+    },
+    {
+      "element_index": 180,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-17.jpg",
+      "detection_class_prob": 0.7102677822113037,
+      "coordinates": {
+        "points": [
+          [
+            114.54485321044922,
+            1340.9456787109375
+          ],
+          [
+            114.54485321044922,
+            1527.5538330078125
+          ],
+          [
+            304.8291015625,
+            1527.5538330078125
+          ],
+          [
+            304.8291015625,
+            1340.9456787109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0E90>"
+      }
+    },
+    {
+      "element_index": 181,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-18.jpg",
+      "detection_class_prob": 0.7258630990982056,
+      "coordinates": {
+        "points": [
+          [
+            114.12220001220703,
+            1680.278076171875
+          ],
+          [
+            114.12220001220703,
+            1868.1422119140625
+          ],
+          [
+            306.2517395019531,
+            1868.1422119140625
+          ],
+          [
+            306.2517395019531,
+            1680.278076171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A10D0>"
+      }
+    },
+    {
+      "element_index": 182,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6368647813796997,
+      "coordinates": {
+        "points": [
+          [
+            371.6330261230469,
+            344.2831115722656
+          ],
+          [
+            371.6330261230469,
+            380.3414611816406
+          ],
+          [
+            653.8314819335938,
+            380.3414611816406
+          ],
+          [
+            653.8314819335938,
+            344.2831115722656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43FDD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_182.txt"
+    },
+    {
+      "element_index": 183,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6350346803665161,
+      "coordinates": {
+        "points": [
+          [
+            371.50030517578125,
+            402.2208251953125
+          ],
+          [
+            371.50030517578125,
+            468.1219177246094
+          ],
+          [
+            652.2100219726562,
+            468.1219177246094
+          ],
+          [
+            652.2100219726562,
+            402.2208251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F170>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_183.txt"
+    },
+    {
+      "element_index": 184,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6485205888748169,
+      "coordinates": {
+        "points": [
+          [
+            369.9971923828125,
+            687.5455322265625
+          ],
+          [
+            369.9971923828125,
+            722.2965087890625
+          ],
+          [
+            645.33251953125,
+            722.2965087890625
+          ],
+          [
+            645.33251953125,
+            687.5455322265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0B90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_184.txt"
+    },
+    {
+      "element_index": 185,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5937628746032715,
+      "coordinates": {
+        "points": [
+          [
+            370.73175048828125,
+            745.7157592773438
+          ],
+          [
+            370.73175048828125,
+            810.719482421875
+          ],
+          [
+            679.0827026367188,
+            810.719482421875
+          ],
+          [
+            679.0827026367188,
+            745.7157592773438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0830>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_185.txt"
+    },
+    {
+      "element_index": 186,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6931812763214111,
+      "coordinates": {
+        "points": [
+          [
+            369.9083557128906,
+            1030.9088134765625
+          ],
+          [
+            369.9083557128906,
+            1065.15380859375
+          ],
+          [
+            602.759521484375,
+            1065.15380859375
+          ],
+          [
+            602.759521484375,
+            1030.9088134765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0470>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_186.txt"
+    },
+    {
+      "element_index": 187,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5949670672416687,
+      "coordinates": {
+        "points": [
+          [
+            371.6396179199219,
+            1088.06494140625
+          ],
+          [
+            371.6396179199219,
+            1153.5908203125
+          ],
+          [
+            676.2816772460938,
+            1153.5908203125
+          ],
+          [
+            676.2816772460938,
+            1088.06494140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0410>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_187.txt"
+    },
+    {
+      "element_index": 188,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6779003739356995,
+      "coordinates": {
+        "points": [
+          [
+            371.2463684082031,
+            1373.60205078125
+          ],
+          [
+            371.2463684082031,
+            1407.427490234375
+          ],
+          [
+            605.96337890625,
+            1407.427490234375
+          ],
+          [
+            605.96337890625,
+            1373.60205078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0F50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_188.txt"
+    },
+    {
+      "element_index": 189,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6062850952148438,
+      "coordinates": {
+        "points": [
+          [
+            368.810302734375,
+            1429.9381103515625
+          ],
+          [
+            368.810302734375,
+            1496.1221923828125
+          ],
+          [
+            684.227294921875,
+            1496.1221923828125
+          ],
+          [
+            684.227294921875,
+            1429.9381103515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1010>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_189.txt"
+    },
+    {
+      "element_index": 190,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5939764976501465,
+      "coordinates": {
+        "points": [
+          [
+            369.86260986328125,
+            1715.8734130859375
+          ],
+          [
+            369.86260986328125,
+            1749.8695068359375
+          ],
+          [
+            651.0927734375,
+            1749.8695068359375
+          ],
+          [
+            651.0927734375,
+            1715.8734130859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1190>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_190.txt"
+    },
+    {
+      "element_index": 191,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6071376800537109,
+      "coordinates": {
+        "points": [
+          [
+            369.8570251464844,
+            1773.3486328125
+          ],
+          [
+            369.8570251464844,
+            1837.5810546875
+          ],
+          [
+            587.8524169921875,
+            1837.5810546875
+          ],
+          [
+            587.8524169921875,
+            1773.3486328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1250>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_191.txt"
+    },
+    {
+      "element_index": 192,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-19.jpg",
+      "detection_class_prob": 0.7072488069534302,
+      "coordinates": {
+        "points": [
+          [
+            887.0909423828125,
+            309.35394287109375
+          ],
+          [
+            887.0909423828125,
+            500.2604064941406
+          ],
+          [
+            1075.7698974609375,
+            500.2604064941406
+          ],
+          [
+            1075.7698974609375,
+            309.35394287109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000001585A43F230>"
+      }
+    },
+    {
+      "element_index": 193,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-20.jpg",
+      "detection_class_prob": 0.7190377116203308,
+      "coordinates": {
+        "points": [
+          [
+            895.5658569335938,
+            654.4628295898438
+          ],
+          [
+            895.5658569335938,
+            838.7869262695312
+          ],
+          [
+            1076.3321533203125,
+            838.7869262695312
+          ],
+          [
+            1076.3321533203125,
+            654.4628295898438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0770>"
+      }
+    },
+    {
+      "element_index": 194,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-21.jpg",
+      "detection_class_prob": 0.7064757347106934,
+      "coordinates": {
+        "points": [
+          [
+            885.13427734375,
+            992.7520141601562
+          ],
+          [
+            885.13427734375,
+            1185.2757568359375
+          ],
+          [
+            1075.538330078125,
+            1185.2757568359375
+          ],
+          [
+            1075.538330078125,
+            992.7520141601562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0A70>"
+      }
+    },
+    {
+      "element_index": 195,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-22.jpg",
+      "detection_class_prob": 0.7086477279663086,
+      "coordinates": {
+        "points": [
+          [
+            894.604736328125,
+            1338.4578857421875
+          ],
+          [
+            894.604736328125,
+            1526.082275390625
+          ],
+          [
+            1071.3431396484375,
+            1526.082275390625
+          ],
+          [
+            1071.3431396484375,
+            1338.4578857421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0C50>"
+      }
+    },
+    {
+      "element_index": 196,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-14-23.jpg",
+      "detection_class_prob": 0.7012004852294922,
+      "coordinates": {
+        "points": [
+          [
+            887.624267578125,
+            1681.2325439453125
+          ],
+          [
+            887.624267578125,
+            1867.0460205078125
+          ],
+          [
+            1070.9530029296875,
+            1867.0460205078125
+          ],
+          [
+            1070.9530029296875,
+            1681.2325439453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1310>"
+      }
+    },
+    {
+      "element_index": 197,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.7274583578109741,
+      "coordinates": {
+        "points": [
+          [
+            1140.3607177734375,
+            345.118896484375
+          ],
+          [
+            1140.3607177734375,
+            379.9739990234375
+          ],
+          [
+            1374.160400390625,
+            379.9739990234375
+          ],
+          [
+            1374.160400390625,
+            345.118896484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A00B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_197.txt"
+    },
+    {
+      "element_index": 198,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.7709087133407593,
+      "coordinates": {
+        "points": [
+          [
+            1137.6309814453125,
+            403.1876220703125
+          ],
+          [
+            1137.6309814453125,
+            467.6221618652344
+          ],
+          [
+            1566.6627197265625,
+            467.6221618652344
+          ],
+          [
+            1566.6627197265625,
+            403.1876220703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0590>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_198.txt"
+    },
+    {
+      "element_index": 199,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6542428135871887,
+      "coordinates": {
+        "points": [
+          [
+            1141.6961669921875,
+            687.391357421875
+          ],
+          [
+            1141.6961669921875,
+            722.4131469726562
+          ],
+          [
+            1322.8204345703125,
+            722.4131469726562
+          ],
+          [
+            1322.8204345703125,
+            687.391357421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0230>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_199.txt"
+    },
+    {
+      "element_index": 200,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.643312931060791,
+      "coordinates": {
+        "points": [
+          [
+            1139.8514404296875,
+            746.2147216796875
+          ],
+          [
+            1139.8514404296875,
+            810.4299926757812
+          ],
+          [
+            1448.652099609375,
+            810.4299926757812
+          ],
+          [
+            1448.652099609375,
+            746.2147216796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0710>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_200.txt"
+    },
+    {
+      "element_index": 201,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5590736269950867,
+      "coordinates": {
+        "points": [
+          [
+            1141.3533935546875,
+            1030.56005859375
+          ],
+          [
+            1141.3533935546875,
+            1065.0048828125
+          ],
+          [
+            1388.323486328125,
+            1065.0048828125
+          ],
+          [
+            1388.323486328125,
+            1030.56005859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0950>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_201.txt"
+    },
+    {
+      "element_index": 202,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6023569107055664,
+      "coordinates": {
+        "points": [
+          [
+            1141.5361328125,
+            1089.728271484375
+          ],
+          [
+            1141.5361328125,
+            1153.1236572265625
+          ],
+          [
+            1445.6544189453125,
+            1153.1236572265625
+          ],
+          [
+            1445.6544189453125,
+            1089.728271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A01D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_202.txt"
+    },
+    {
+      "element_index": 203,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5765634775161743,
+      "coordinates": {
+        "points": [
+          [
+            1139.2774658203125,
+            1374.4830322265625
+          ],
+          [
+            1139.2774658203125,
+            1406.7069091796875
+          ],
+          [
+            1329.981689453125,
+            1406.7069091796875
+          ],
+          [
+            1329.981689453125,
+            1374.4830322265625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0D10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_203.txt"
+    },
+    {
+      "element_index": 204,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.5835074782371521,
+      "coordinates": {
+        "points": [
+          [
+            1139.20263671875,
+            1431.2840576171875
+          ],
+          [
+            1139.20263671875,
+            1495.4674072265625
+          ],
+          [
+            1365.2041015625,
+            1495.4674072265625
+          ],
+          [
+            1365.2041015625,
+            1431.2840576171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0DD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_204.txt"
+    },
+    {
+      "element_index": 205,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.599381148815155,
+      "coordinates": {
+        "points": [
+          [
+            1137.8299560546875,
+            1716.9996337890625
+          ],
+          [
+            1137.8299560546875,
+            1749.210205078125
+          ],
+          [
+            1385.8150634765625,
+            1749.210205078125
+          ],
+          [
+            1385.8150634765625,
+            1716.9996337890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A13D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_205.txt"
+    },
+    {
+      "element_index": 206,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.622462809085846,
+      "coordinates": {
+        "points": [
+          [
+            1138.4696044921875,
+            1773.701416015625
+          ],
+          [
+            1138.4696044921875,
+            1837.6329345703125
+          ],
+          [
+            1362.46533203125,
+            1837.6329345703125
+          ],
+          [
+            1362.46533203125,
+            1773.701416015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1490>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_206.txt"
+    },
+    {
+      "element_index": 207,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.6574680209159851,
+      "coordinates": {
+        "points": [
+          [
+            1099.982177734375,
+            2115.978271484375
+          ],
+          [
+            1099.982177734375,
+            2138.81982421875
+          ],
+          [
+            1592.926513671875,
+            2138.81982421875
+          ],
+          [
+            1592.926513671875,
+            2115.978271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1610>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_207.txt"
+    },
+    {
+      "element_index": 208,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.7939339280128479,
+      "coordinates": {
+        "points": [
+          [
+            110.6456069946289,
+            194.38670349121094
+          ],
+          [
+            110.6456069946289,
+            251.50917053222656
+          ],
+          [
+            520.1719360351562,
+            251.50917053222656
+          ],
+          [
+            520.1719360351562,
+            194.38670349121094
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1730>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_208.txt"
+    },
+    {
+      "element_index": 209,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.8031131029129028,
+      "coordinates": {
+        "points": [
+          [
+            111.80770111083984,
+            345.611083984375
+          ],
+          [
+            111.80770111083984,
+            365.25390625
+          ],
+          [
+            1258.4776611328125,
+            365.25390625
+          ],
+          [
+            1258.4776611328125,
+            345.611083984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2390>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_209.txt"
+    },
+    {
+      "element_index": 210,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9282060861587524,
+      "coordinates": {
+        "points": [
+          [
+            113.2888412475586,
+            403.2549133300781
+          ],
+          [
+            113.2888412475586,
+            474.56292724609375
+          ],
+          [
+            807.4658813476562,
+            474.56292724609375
+          ],
+          [
+            807.4658813476562,
+            403.2549133300781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1BB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_210.txt"
+    },
+    {
+      "element_index": 211,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9267213940620422,
+      "coordinates": {
+        "points": [
+          [
+            880.1023559570312,
+            404.0366516113281
+          ],
+          [
+            880.1023559570312,
+            474.36395263671875
+          ],
+          [
+            1574.249755859375,
+            474.36395263671875
+          ],
+          [
+            1574.249755859375,
+            404.0366516113281
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1C10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_211.txt"
+    },
+    {
+      "element_index": 212,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9146865010261536,
+      "coordinates": {
+        "points": [
+          [
+            112.85786437988281,
+            491.5794982910156
+          ],
+          [
+            112.85786437988281,
+            561.9931030273438
+          ],
+          [
+            815.2544555664062,
+            561.9931030273438
+          ],
+          [
+            815.2544555664062,
+            491.5794982910156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A21B0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_212.txt"
+    },
+    {
+      "element_index": 213,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9176517724990845,
+      "coordinates": {
+        "points": [
+          [
+            884.4749755859375,
+            491.41748046875
+          ],
+          [
+            884.4749755859375,
+            561.9140014648438
+          ],
+          [
+            1562.2305908203125,
+            561.9140014648438
+          ],
+          [
+            1562.2305908203125,
+            491.41748046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A0890>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_213.txt"
+    },
+    {
+      "element_index": 214,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9340984225273132,
+      "coordinates": {
+        "points": [
+          [
+            106.9784164428711,
+            578.7036743164062
+          ],
+          [
+            106.9784164428711,
+            699.662841796875
+          ],
+          [
+            818.4006958007812,
+            699.662841796875
+          ],
+          [
+            818.4006958007812,
+            578.7036743164062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A23F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_214.txt"
+    },
+    {
+      "element_index": 215,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9176802039146423,
+      "coordinates": {
+        "points": [
+          [
+            883.9905395507812,
+            578.05419921875
+          ],
+          [
+            883.9905395507812,
+            649.8306884765625
+          ],
+          [
+            1580.1015625,
+            649.8306884765625
+          ],
+          [
+            1580.1015625,
+            578.05419921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A16D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_215.txt"
+    },
+    {
+      "element_index": 216,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9137145280838013,
+      "coordinates": {
+        "points": [
+          [
+            884.9509887695312,
+            664.8246459960938
+          ],
+          [
+            884.9509887695312,
+            712.7023315429688
+          ],
+          [
+            1596.87451171875,
+            712.7023315429688
+          ],
+          [
+            1596.87451171875,
+            664.8246459960938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1B50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_216.txt"
+    },
+    {
+      "element_index": 217,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9390472173690796,
+      "coordinates": {
+        "points": [
+          [
+            109.34941864013672,
+            716.9732055664062
+          ],
+          [
+            109.34941864013672,
+            837.5272216796875
+          ],
+          [
+            821.2171020507812,
+            837.5272216796875
+          ],
+          [
+            821.2171020507812,
+            716.9732055664062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1A90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_217.txt"
+    },
+    {
+      "element_index": 218,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.8152979016304016,
+      "coordinates": {
+        "points": [
+          [
+            112.83590698242188,
+            852.3584594726562
+          ],
+          [
+            112.83590698242188,
+            874.81689453125
+          ],
+          [
+            681.4147338867188,
+            874.81689453125
+          ],
+          [
+            681.4147338867188,
+            852.3584594726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1FD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_218.txt"
+    },
+    {
+      "element_index": 219,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9121541976928711,
+      "coordinates": {
+        "points": [
+          [
+            881.6109619140625,
+            727.3668823242188
+          ],
+          [
+            881.6109619140625,
+            774.9440307617188
+          ],
+          [
+            1594.14111328125,
+            774.9440307617188
+          ],
+          [
+            1594.14111328125,
+            727.3668823242188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1910>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_219.txt"
+    },
+    {
+      "element_index": 220,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9276622533798218,
+      "coordinates": {
+        "points": [
+          [
+            880.6166381835938,
+            790.791015625
+          ],
+          [
+            880.6166381835938,
+            886.7047729492188
+          ],
+          [
+            1568.82421875,
+            886.7047729492188
+          ],
+          [
+            1568.82421875,
+            790.791015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A20F0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_220.txt"
+    },
+    {
+      "element_index": 221,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9425494074821472,
+      "coordinates": {
+        "points": [
+          [
+            112.37993621826172,
+            891.3596801757812
+          ],
+          [
+            112.37993621826172,
+            1012.1114501953125
+          ],
+          [
+            813.5997314453125,
+            1012.1114501953125
+          ],
+          [
+            813.5997314453125,
+            891.3596801757812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2090>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_221.txt"
+    },
+    {
+      "element_index": 222,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.938444197177887,
+      "coordinates": {
+        "points": [
+          [
+            116.40328979492188,
+            1028.58740234375
+          ],
+          [
+            116.40328979492188,
+            1149.225830078125
+          ],
+          [
+            817.81787109375,
+            1149.225830078125
+          ],
+          [
+            817.81787109375,
+            1028.58740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A22D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_222.txt"
+    },
+    {
+      "element_index": 223,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9168816804885864,
+      "coordinates": {
+        "points": [
+          [
+            114.96092224121094,
+            1165.7239990234375
+          ],
+          [
+            114.96092224121094,
+            1236.8424072265625
+          ],
+          [
+            788.876708984375,
+            1236.8424072265625
+          ],
+          [
+            788.876708984375,
+            1165.7239990234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1F10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_223.txt"
+    },
+    {
+      "element_index": 224,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9112225770950317,
+      "coordinates": {
+        "points": [
+          [
+            880.610595703125,
+            902.0675659179688
+          ],
+          [
+            880.610595703125,
+            949.1265258789062
+          ],
+          [
+            1535.44775390625,
+            949.1265258789062
+          ],
+          [
+            1535.44775390625,
+            902.0675659179688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2150>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_224.txt"
+    },
+    {
+      "element_index": 225,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9293419122695923,
+      "coordinates": {
+        "points": [
+          [
+            883.1365356445312,
+            964.5145263671875
+          ],
+          [
+            883.1365356445312,
+            1037.4794921875
+          ],
+          [
+            1585.008056640625,
+            1037.4794921875
+          ],
+          [
+            1585.008056640625,
+            964.5145263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1970>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_225.txt"
+    },
+    {
+      "element_index": 226,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9390522241592407,
+      "coordinates": {
+        "points": [
+          [
+            881.0487670898438,
+            1053.76513671875
+          ],
+          [
+            881.0487670898438,
+            1199.59912109375
+          ],
+          [
+            1558.975341796875,
+            1199.59912109375
+          ],
+          [
+            1558.975341796875,
+            1053.76513671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1EB0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_226.txt"
+    },
+    {
+      "element_index": 227,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.8499562740325928,
+      "coordinates": {
+        "points": [
+          [
+            881.8034057617188,
+            1215.8458251953125
+          ],
+          [
+            881.8034057617188,
+            1237.603515625
+          ],
+          [
+            1510.777587890625,
+            1237.603515625
+          ],
+          [
+            1510.777587890625,
+            1215.8458251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2510>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_227.txt"
+    },
+    {
+      "element_index": 228,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9065778851509094,
+      "coordinates": {
+        "points": [
+          [
+            115.88713073730469,
+            1252.654052734375
+          ],
+          [
+            115.88713073730469,
+            1300.6346435546875
+          ],
+          [
+            789.9951171875,
+            1300.6346435546875
+          ],
+          [
+            789.9951171875,
+            1252.654052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A25D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_228.txt"
+    },
+    {
+      "element_index": 229,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.7496452927589417,
+      "coordinates": {
+        "points": [
+          [
+            107.65579223632812,
+            2109.834228515625
+          ],
+          [
+            107.65579223632812,
+            2131.455322265625
+          ],
+          [
+            435.20635986328125,
+            2131.455322265625
+          ],
+          [
+            435.20635986328125,
+            2109.834228515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2750>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_229.txt"
+    },
+    {
+      "element_index": 230,
+      "element_type": "Header",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.5160397887229919,
+      "coordinates": {
+        "points": [
+          [
+            99.3293228149414,
+            78.53111267089844
+          ],
+          [
+            99.3293228149414,
+            108.38404846191406
+          ],
+          [
+            475.05657958984375,
+            108.38404846191406
+          ],
+          [
+            475.05657958984375,
+            78.53111267089844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2BD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\header_230.txt"
+    },
+    {
+      "element_index": 231,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.8360679149627686,
+      "coordinates": {
+        "points": [
+          [
+            100.39998626708984,
+            758.9387817382812
+          ],
+          [
+            100.39998626708984,
+            782.79248046875
+          ],
+          [
+            500.23980712890625,
+            782.79248046875
+          ],
+          [
+            500.23980712890625,
+            758.9387817382812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2870>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_231.txt"
+    },
+    {
+      "element_index": 232,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.7804405093193054,
+      "coordinates": {
+        "points": [
+          [
+            98.67182159423828,
+            813.4395751953125
+          ],
+          [
+            98.67182159423828,
+            837.712158203125
+          ],
+          [
+            573.9015502929688,
+            837.712158203125
+          ],
+          [
+            573.9015502929688,
+            813.4395751953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3A70>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_232.txt"
+    },
+    {
+      "element_index": 233,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9290887713432312,
+      "coordinates": {
+        "points": [
+          [
+            101.7126693725586,
+            908.7716064453125
+          ],
+          [
+            101.7126693725586,
+            1027.2010498046875
+          ],
+          [
+            817.5328979492188,
+            1027.2010498046875
+          ],
+          [
+            817.5328979492188,
+            908.7716064453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2D50>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_233.txt"
+    },
+    {
+      "element_index": 234,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9513620734214783,
+      "coordinates": {
+        "points": [
+          [
+            104.6341552734375,
+            1045.519775390625
+          ],
+          [
+            104.6341552734375,
+            1240.419921875
+          ],
+          [
+            817.5752563476562,
+            1240.419921875
+          ],
+          [
+            817.5752563476562,
+            1045.519775390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3A10>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_234.txt"
+    },
+    {
+      "element_index": 235,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.945742666721344,
+      "coordinates": {
+        "points": [
+          [
+            103.90277099609375,
+            1260.8619384765625
+          ],
+          [
+            103.90277099609375,
+            1872.91455078125
+          ],
+          [
+            823.0803833007812,
+            1872.91455078125
+          ],
+          [
+            823.0803833007812,
+            1260.8619384765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2C90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_235.txt"
+    },
+    {
+      "element_index": 236,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9022557735443115,
+      "coordinates": {
+        "points": [
+          [
+            101.23572540283203,
+            1897.181396484375
+          ],
+          [
+            101.23572540283203,
+            1941.8924560546875
+          ],
+          [
+            816.5569458007812,
+            1941.8924560546875
+          ],
+          [
+            816.5569458007812,
+            1897.181396484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3710>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_236.txt"
+    },
+    {
+      "element_index": 237,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9407680630683899,
+      "coordinates": {
+        "points": [
+          [
+            881.8832397460938,
+            908.81982421875
+          ],
+          [
+            881.8832397460938,
+            1028.9583740234375
+          ],
+          [
+            1608.260986328125,
+            1028.9583740234375
+          ],
+          [
+            1608.260986328125,
+            908.81982421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A1D90>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_237.txt"
+    },
+    {
+      "element_index": 238,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.7306908369064331,
+      "coordinates": {
+        "points": [
+          [
+            882.5463256835938,
+            1046.57275390625
+          ],
+          [
+            882.5463256835938,
+            1066.259521484375
+          ],
+          [
+            1394.831787109375,
+            1066.259521484375
+          ],
+          [
+            1394.831787109375,
+            1046.57275390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2810>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_238.txt"
+    },
+    {
+      "element_index": 239,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9472480416297913,
+      "coordinates": {
+        "points": [
+          [
+            883.344970703125,
+            1084.4796142578125
+          ],
+          [
+            883.344970703125,
+            1773.83544921875
+          ],
+          [
+            1594.9530029296875,
+            1773.83544921875
+          ],
+          [
+            1594.9530029296875,
+            1084.4796142578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2FF0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_239.txt"
+    },
+    {
+      "element_index": 240,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.9124409556388855,
+      "coordinates": {
+        "points": [
+          [
+            877.4125366210938,
+            1795.7596435546875
+          ],
+          [
+            877.4125366210938,
+            1841.8824462890625
+          ],
+          [
+            1604.7318115234375,
+            1841.8824462890625
+          ],
+          [
+            1604.7318115234375,
+            1795.7596435546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3650>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_240.txt"
+    },
+    {
+      "element_index": 241,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.7284027934074402,
+      "coordinates": {
+        "points": [
+          [
+            883.9402465820312,
+            1858.9591064453125
+          ],
+          [
+            883.9402465820312,
+            1878.6910400390625
+          ],
+          [
+            1347.8277587890625,
+            1878.6910400390625
+          ],
+          [
+            1347.8277587890625,
+            1858.9591064453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A34D0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_241.txt"
+    },
+    {
+      "element_index": 242,
+      "element_type": "Title",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.6819738745689392,
+      "coordinates": {
+        "points": [
+          [
+            883.6699829101562,
+            1897.36328125
+          ],
+          [
+            883.6699829101562,
+            1915.718994140625
+          ],
+          [
+            1199.505126953125,
+            1915.718994140625
+          ],
+          [
+            1199.505126953125,
+            1897.36328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3170>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\title_242.txt"
+    },
+    {
+      "element_index": 243,
+      "element_type": "NarrativeText",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.7068222165107727,
+      "coordinates": {
+        "points": [
+          [
+            883.1630249023438,
+            1935.2381591796875
+          ],
+          [
+            883.1630249023438,
+            1954.534423828125
+          ],
+          [
+            1055.383544921875,
+            1954.534423828125
+          ],
+          [
+            1055.383544921875,
+            1935.2381591796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3AD0>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\narrativetext_243.txt"
+    },
+    {
+      "element_index": 244,
+      "element_type": "Image",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "image_path": "data\\jp_morgan_annual_report\\images\\figure-16-24.jpg",
+      "detection_class_prob": 0.4855189621448517,
+      "coordinates": {
+        "points": [
+          [
+            1320.0579833984375,
+            2026.451171875
+          ],
+          [
+            1320.0579833984375,
+            2096.56787109375
+          ],
+          [
+            1606.1490478515625,
+            2096.56787109375
+          ],
+          [
+            1606.1490478515625,
+            2026.451171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A2CF0>"
+      }
+    },
+    {
+      "element_index": 245,
+      "element_type": "Text",
+      "filename": "jp_morgan_annual_report.pdf",
+      "page_number": 16,
+      "coordinates": {
+        "points": [
+          [
+            1323.0,
+            2103.0
+          ],
+          [
+            1323.0,
+            2124.0
+          ],
+          [
+            1603.0,
+            2124.0
+          ],
+          [
+            1603.0,
+            2103.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000158630A3290>"
+      },
+      "content_path": "data\\jp_morgan_annual_report\\text\\text_245.txt"
+    }
+  ]
+}

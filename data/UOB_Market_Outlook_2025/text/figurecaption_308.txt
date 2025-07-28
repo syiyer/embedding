@@ -1,0 +1,1 @@
+S&P 500 index used as benchmark for US stocks. STOXX 600 index used as benchmark for European stocks. MSCI Asia ex-Japan index used as benchmark for Asia ex-Japan stocks. CS|300 index used as benchmark for China stocks.

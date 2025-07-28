@@ -1,0 +1,4834 @@
+{
+  "filename": "zurich_market_outlook.pdf",
+  "extraction_date": "2025-07-16T06:18:48.544292",
+  "statistics": {
+    "text": 98,
+    "titles": 31,
+    "images": 21,
+    "tables": 16
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.37714457511901855,
+      "coordinates": {
+        "points": [
+          [
+            157.927001953125,
+            84.29377746582031
+          ],
+          [
+            157.927001953125,
+            168.10281372070312
+          ],
+          [
+            496.85247802734375,
+            168.10281372070312
+          ],
+          [
+            496.85247802734375,
+            84.29377746582031
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409BEE3890>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.5272935032844543,
+      "coordinates": {
+        "points": [
+          [
+            153.48487854003906,
+            236.22921752929688
+          ],
+          [
+            153.48487854003906,
+            397.4552307128906
+          ],
+          [
+            900.9525146484375,
+            397.4552307128906
+          ],
+          [
+            900.9525146484375,
+            236.22921752929688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409BEE3B60>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.42239561676979065,
+      "coordinates": {
+        "points": [
+          [
+            158.48118591308594,
+            441.35333251953125
+          ],
+          [
+            158.48118591308594,
+            476.0618591308594
+          ],
+          [
+            344.5345764160156,
+            476.0618591308594
+          ],
+          [
+            344.5345764160156,
+            441.35333251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C60D630>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.450812429189682,
+      "coordinates": {
+        "points": [
+          [
+            162.6709747314453,
+            591.7568969726562
+          ],
+          [
+            162.6709747314453,
+            625.688232421875
+          ],
+          [
+            530.2564086914062,
+            625.688232421875
+          ],
+          [
+            530.2564086914062,
+            591.7568969726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C60D7F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-1-1.jpg",
+      "detection_class_prob": 0.9151283502578735,
+      "coordinates": {
+        "points": [
+          [
+            156.0229034423828,
+            667.2926635742188
+          ],
+          [
+            156.0229034423828,
+            1138.3497314453125
+          ],
+          [
+            1013.0529174804688,
+            1138.3497314453125
+          ],
+          [
+            1013.0529174804688,
+            667.2926635742188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976E8530>"
+      }
+    },
+    {
+      "element_index": 5,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8098230361938477,
+      "coordinates": {
+        "points": [
+          [
+            158.9420623779297,
+            1163.9693603515625
+          ],
+          [
+            158.9420623779297,
+            1431.1578369140625
+          ],
+          [
+            1077.2569580078125,
+            1431.1578369140625
+          ],
+          [
+            1077.2569580078125,
+            1163.9693603515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F9CED0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9468486309051514,
+      "coordinates": {
+        "points": [
+          [
+            168.5311279296875,
+            1450.022216796875
+          ],
+          [
+            168.5311279296875,
+            1642.3104248046875
+          ],
+          [
+            1077.7877197265625,
+            1642.3104248046875
+          ],
+          [
+            1077.7877197265625,
+            1450.022216796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C73A250>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9444115161895752,
+      "coordinates": {
+        "points": [
+          [
+            164.77439880371094,
+            1662.16455078125
+          ],
+          [
+            164.77439880371094,
+            1904.09619140625
+          ],
+          [
+            1084.22705078125,
+            1904.09619140625
+          ],
+          [
+            1084.22705078125,
+            1662.16455078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6DF310>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_7.txt"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-1-2.jpg",
+      "detection_class_prob": 0.6438003182411194,
+      "coordinates": {
+        "points": [
+          [
+            1045.7117919921875,
+            68.40746307373047
+          ],
+          [
+            1045.7117919921875,
+            540.0347900390625
+          ],
+          [
+            1627.365966796875,
+            540.0347900390625
+          ],
+          [
+            1627.365966796875,
+            68.40746307373047
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409D4D0150>"
+      }
+    },
+    {
+      "element_index": 9,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8065469264984131,
+      "coordinates": {
+        "points": [
+          [
+            1137.4327392578125,
+            678.497314453125
+          ],
+          [
+            1137.4327392578125,
+            714.5010375976562
+          ],
+          [
+            1412.8311767578125,
+            714.5010375976562
+          ],
+          [
+            1412.8311767578125,
+            678.497314453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409938C890>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.7317063808441162,
+      "coordinates": {
+        "points": [
+          [
+            1139.5084228515625,
+            745.1571044921875
+          ],
+          [
+            1139.5084228515625,
+            769.3114013671875
+          ],
+          [
+            1328.7310791015625,
+            769.3114013671875
+          ],
+          [
+            1328.7310791015625,
+            745.1571044921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024092F1E990>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8993132710456848,
+      "coordinates": {
+        "points": [
+          [
+            1140.1278076171875,
+            779.3104248046875
+          ],
+          [
+            1140.1278076171875,
+            854.0986328125
+          ],
+          [
+            1510.36865234375,
+            854.0986328125
+          ],
+          [
+            1510.36865234375,
+            779.3104248046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024093480D60>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8806238770484924,
+      "coordinates": {
+        "points": [
+          [
+            1143.1796875,
+            873.6993408203125
+          ],
+          [
+            1143.1796875,
+            970.44921875
+          ],
+          [
+            1463.700439453125,
+            970.44921875
+          ],
+          [
+            1463.700439453125,
+            873.6993408203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024093480260>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8846668601036072,
+      "coordinates": {
+        "points": [
+          [
+            1141.4852294921875,
+            987.671875
+          ],
+          [
+            1141.4852294921875,
+            1086.6287841796875
+          ],
+          [
+            1481.492431640625,
+            1086.6287841796875
+          ],
+          [
+            1481.492431640625,
+            987.671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240CF706850>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8405867218971252,
+      "coordinates": {
+        "points": [
+          [
+            1139.4119873046875,
+            1116.4112548828125
+          ],
+          [
+            1139.4119873046875,
+            1142.9595947265625
+          ],
+          [
+            1270.5242919921875,
+            1142.9595947265625
+          ],
+          [
+            1270.5242919921875,
+            1116.4112548828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C67FCF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.920172929763794,
+      "coordinates": {
+        "points": [
+          [
+            1136.1470947265625,
+            1150.488037109375
+          ],
+          [
+            1136.1470947265625,
+            1516.9178466796875
+          ],
+          [
+            1510.166748046875,
+            1516.9178466796875
+          ],
+          [
+            1510.166748046875,
+            1150.488037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240935BAF90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.925328254699707,
+      "coordinates": {
+        "points": [
+          [
+            1136.0882568359375,
+            1534.884765625
+          ],
+          [
+            1136.0882568359375,
+            1899.7432861328125
+          ],
+          [
+            1510.0052490234375,
+            1899.7432861328125
+          ],
+          [
+            1510.0052490234375,
+            1534.884765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6DF8C0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 2,
+      "text_as_html": "<table><thead><tr><th></th><th>Key developme</th><th>h’s view</th></tr></thead><tbody><tr><td rowspan=\"3\">Global</td><td>Economic activity is resilient despite elevated uncertainty and tariff disruptions</td><td rowspan=\"3\">The key global development in May was the US-China agreement to reduce tariffs. This marks a meaningful de-escalation and reduces the risk of a sharper downturn in global growth. While tariffs have taken a toll on confidence, labour markets remain robust, global consumer sentiment ticked up from a low level in May, and manufacturing activity has held up despite strong front-loading of industrial production and trade in Q1. Inflation has ticked lower in most regions, helped by lower oil prices, and this, in combination with dollar weakness, has allowed the global rate cutting cycle to gain some traction again. While this is encouraging, US tariff policy will be decisive for the global outlook, with uncertainty remaining elevated.</td></tr><tr><td>Inflation dynamics remain constructive, allowing central banks to continue to cut rates</td></tr><tr><td>Government bond markets are notably volatile as investor focus shifts from tariff-driven recession risk to fiscal concerns</td></tr><tr><td rowspan=\"2\">US</td><td>The US and China de-escalate the situation by significantly reducing mutual tariffs</td><td rowspan=\"2\">In an effort to de-escalate the tension between the world’s two largest economies, the US and China agreed to significantly reduce mutual tariffs, which further supported improving investor sentiment. The S&amp;P 500 has regained all of its losses since the tariff-induced setback and has risen back into positive territory for the year. Nevertheless, risks and uncertainty remain elevated and investors’ focus has shifted to the sustainability of the US fiscal situation as the tax bill works its way through Congress. 30yr Treasury yields rose back above 5% last month, emphasising the increasing risk premium investors are asking to hold US government bonds. Most economic data points continue to show a robust environment with consumer sentiment improving and business activity expanding at a decent pace.</td></tr><tr><td>The S&amp;P 500 moves back into positive territory for the year as investor sentiment improves</td></tr><tr><td rowspan=\"3\">UK</td><td>The FTSE 100 rises back within reach of its all-time high</td><td rowspan=\"3\">The FTSE 100 has recovered all of its losses suffered in the aftermath of the tariff-induced turmoil and has almost risen back to its record high reached back in March. Global stock market momentum has slowed down in recent weeks as risks and uncertainty remain elevated, but UK stocks have once again proven their defensive property in times of volatility. The announced trade deal with the US reduces some uncertainty although it comes at the cost of significantly higher tariffs for UK exports to the US. Gilt yields remained within the same trading range of the past few months despite a significant pick-up in inflation. This was largely expected, though, and mostly the result of price increases in areas regulated or influenced by government policy, such as water and energy.</td></tr><tr><td>Inflation rebounds, fuelled by annual price resets and government- related pricing</td></tr><tr><td>The US and UK agree on a trade deal with the 10% tariff remaining in place</td></tr><tr><td rowspan=\"3\">Eurozone</td><td>Economic indicators signal weakening activity as immediate tariff uncertainty outweighs longer- term positives</td><td rowspan=\"3\">We reiterate a J-shaped economic growth forecast in anticipation of slowing activity in coming quarters before a back-loaded strong recovery. Incoming data, such as the PMI surveys, suggest a weakening to come. EU-US trade negotiations continue with escalation so far confined to the US side. We see the threatened 20% ‘reciprocal rate as a realistic landing zone, which would harm growth. German Chancellor Merz’s term started ominously, with a failed first bid for parliamentary support, yet enormous fiscal intentions are intact and are long-term positive economic and market drivers. We see the ECB cutting rates below 2% in H2 and see scope for lower sovereign yields. The equity rally can continue, but the onus is on rising earnings rather than continued multiple expansion.</td></tr><tr><td>We see further scope for lower bond yields on a tactical horizon as inflation and growth pressures fall</td></tr><tr><td>Domestically-oriented stocks have driven large gains, but broad earnings growth is missing</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-2-1.jpg",
+      "detection_class_prob": 0.42051124572753906,
+      "coordinates": {
+        "points": [
+          [
+            145.7937469482422,
+            191.0408477783203
+          ],
+          [
+            145.7937469482422,
+            1643.9986572265625
+          ],
+          [
+            1555.5418701171875,
+            1643.9986572265625
+          ],
+          [
+            1555.5418701171875,
+            191.0408477783203
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CA990>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_17.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_17.html"
+    },
+    {
+      "element_index": 18,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.6633897423744202,
+      "coordinates": {
+        "points": [
+          [
+            386.2200622558594,
+            1626.3963623046875
+          ],
+          [
+            386.2200622558594,
+            1697.5147705078125
+          ],
+          [
+            764.4517211914062,
+            1697.5147705078125
+          ],
+          [
+            764.4517211914062,
+            1626.3963623046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CA150>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8442773222923279,
+      "coordinates": {
+        "points": [
+          [
+            380.2475280761719,
+            1716.2216796875
+          ],
+          [
+            380.2475280761719,
+            1789.1055908203125
+          ],
+          [
+            746.1633911132812,
+            1789.1055908203125
+          ],
+          [
+            746.1633911132812,
+            1716.2216796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CBD10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8190697431564331,
+      "coordinates": {
+        "points": [
+          [
+            376.36029052734375,
+            1807.9219970703125
+          ],
+          [
+            376.36029052734375,
+            1904.4283447265625
+          ],
+          [
+            756.3584594726562,
+            1904.4283447265625
+          ],
+          [
+            756.3584594726562,
+            1807.9219970703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976C9B50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9469112157821655,
+      "coordinates": {
+        "points": [
+          [
+            825.8576049804688,
+            1623.397705078125
+          ],
+          [
+            825.8576049804688,
+            1915.9254150390625
+          ],
+          [
+            1518.958251953125,
+            1915.9254150390625
+          ],
+          [
+            1518.958251953125,
+            1623.397705078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CBCB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            188.0,
+            301.0
+          ],
+          [
+            188.0,
+            342.0
+          ],
+          [
+            264.0,
+            342.0
+          ],
+          [
+            264.0,
+            301.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2A50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            189.0,
+            619.0
+          ],
+          [
+            189.0,
+            660.0
+          ],
+          [
+            260.0,
+            660.0
+          ],
+          [
+            260.0,
+            619.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B26F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            190.0,
+            969.0
+          ],
+          [
+            190.0,
+            990.0
+          ],
+          [
+            247.0,
+            990.0
+          ],
+          [
+            247.0,
+            969.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3BF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            190.0,
+            1303.0
+          ],
+          [
+            190.0,
+            1324.0
+          ],
+          [
+            267.0,
+            1324.0
+          ],
+          [
+            267.0,
+            1303.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3590>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6779747009277344,
+      "coordinates": {
+        "points": [
+          [
+            379.0626525878906,
+            237.6311798095703
+          ],
+          [
+            379.0626525878906,
+            265.525390625
+          ],
+          [
+            615.3748779296875,
+            265.525390625
+          ],
+          [
+            615.3748779296875,
+            237.6311798095703
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CB3B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6919419169425964,
+      "coordinates": {
+        "points": [
+          [
+            380.6142578125,
+            291.30010986328125
+          ],
+          [
+            380.6142578125,
+            361.5765380859375
+          ],
+          [
+            701.67041015625,
+            361.5765380859375
+          ],
+          [
+            701.67041015625,
+            291.30010986328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2330>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7177141308784485,
+      "coordinates": {
+        "points": [
+          [
+            369.59295654296875,
+            382.8568115234375
+          ],
+          [
+            369.59295654296875,
+            478.53094482421875
+          ],
+          [
+            774.5728759765625,
+            478.53094482421875
+          ],
+          [
+            774.5728759765625,
+            382.8568115234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3350>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.5293182730674744,
+      "coordinates": {
+        "points": [
+          [
+            376.3473205566406,
+            498.0430603027344
+          ],
+          [
+            376.3473205566406,
+            546.2654418945312
+          ],
+          [
+            765.435546875,
+            546.2654418945312
+          ],
+          [
+            765.435546875,
+            498.0430603027344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B39B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.43329426646232605,
+      "coordinates": {
+        "points": [
+          [
+            381.7962341308594,
+            625.1422119140625
+          ],
+          [
+            381.7962341308594,
+            696.0781860351562
+          ],
+          [
+            752.1008911132812,
+            696.0781860351562
+          ],
+          [
+            752.1008911132812,
+            625.1422119140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B27B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.578857958316803,
+      "coordinates": {
+        "points": [
+          [
+            380.2753601074219,
+            714.8515625
+          ],
+          [
+            380.2753601074219,
+            787.6599731445312
+          ],
+          [
+            768.8084106445312,
+            787.6599731445312
+          ],
+          [
+            768.8084106445312,
+            714.8515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3170>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6026507019996643,
+      "coordinates": {
+        "points": [
+          [
+            379.1429748535156,
+            807.126953125
+          ],
+          [
+            379.1429748535156,
+            880.0955810546875
+          ],
+          [
+            763.5023803710938,
+            880.0955810546875
+          ],
+          [
+            763.5023803710938,
+            807.126953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2E70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6671488881111145,
+      "coordinates": {
+        "points": [
+          [
+            375.03271484375,
+            956.36279296875
+          ],
+          [
+            375.03271484375,
+            1055.1138916015625
+          ],
+          [
+            738.5614013671875,
+            1055.1138916015625
+          ],
+          [
+            738.5614013671875,
+            956.36279296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B0830>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7010770440101624,
+      "coordinates": {
+        "points": [
+          [
+            377.5428161621094,
+            1073.4393310546875
+          ],
+          [
+            377.5428161621094,
+            1146.7021484375
+          ],
+          [
+            736.4915771484375,
+            1146.7021484375
+          ],
+          [
+            736.4915771484375,
+            1073.4393310546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B0F50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7764438986778259,
+      "coordinates": {
+        "points": [
+          [
+            382.4150695800781,
+            1165.285888671875
+          ],
+          [
+            382.4150695800781,
+            1212.3304443359375
+          ],
+          [
+            701.8683471679688,
+            1212.3304443359375
+          ],
+          [
+            701.8683471679688,
+            1165.285888671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3410>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_35.txt"
+    },
+    {
+      "element_index": 36,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.5484548211097717,
+      "coordinates": {
+        "points": [
+          [
+            384.25103759765625,
+            1289.976318359375
+          ],
+          [
+            384.25103759765625,
+            1339.044921875
+          ],
+          [
+            756.0691528320312,
+            1339.044921875
+          ],
+          [
+            756.0691528320312,
+            1289.976318359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B38F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7754382491111755,
+      "coordinates": {
+        "points": [
+          [
+            380.6604919433594,
+            1358.3875732421875
+          ],
+          [
+            380.6604919433594,
+            1406.2562255859375
+          ],
+          [
+            763.8356323242188,
+            1406.2562255859375
+          ],
+          [
+            763.8356323242188,
+            1358.3875732421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3650>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "ListItem",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7972180843353271,
+      "coordinates": {
+        "points": [
+          [
+            380.713623046875,
+            1424.7313232421875
+          ],
+          [
+            380.713623046875,
+            1473.0057373046875
+          ],
+          [
+            767.0428466796875,
+            1473.0057373046875
+          ],
+          [
+            767.0428466796875,
+            1424.7313232421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3050>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\listitem_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            753.0,
+            1298.0
+          ],
+          [
+            753.0,
+            1310.0
+          ],
+          [
+            762.0,
+            1310.0
+          ],
+          [
+            762.0,
+            1298.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2DB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7852394580841064,
+      "coordinates": {
+        "points": [
+          [
+            823.8204956054688,
+            237.79318237304688
+          ],
+          [
+            823.8204956054688,
+            265.8327331542969
+          ],
+          [
+            988.611328125,
+            265.8327331542969
+          ],
+          [
+            988.611328125,
+            237.79318237304688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240976CAC90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9472758769989014,
+      "coordinates": {
+        "points": [
+          [
+            828.138916015625,
+            288.900634765625
+          ],
+          [
+            828.138916015625,
+            580.1027221679688
+          ],
+          [
+            1524.339111328125,
+            580.1027221679688
+          ],
+          [
+            1524.339111328125,
+            288.900634765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3AD0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9470850825309753,
+      "coordinates": {
+        "points": [
+          [
+            826.9484252929688,
+            621.2048950195312
+          ],
+          [
+            826.9484252929688,
+            913.3821411132812
+          ],
+          [
+            1517.3275146484375,
+            913.3821411132812
+          ],
+          [
+            1517.3275146484375,
+            621.2048950195312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2F30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9516695737838745,
+      "coordinates": {
+        "points": [
+          [
+            825.2692260742188,
+            955.0755615234375
+          ],
+          [
+            825.2692260742188,
+            1247.198486328125
+          ],
+          [
+            1526.7398681640625,
+            1247.198486328125
+          ],
+          [
+            1526.7398681640625,
+            955.0755615234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B35F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9522388577461243,
+      "coordinates": {
+        "points": [
+          [
+            825.0670776367188,
+            1289.5462646484375
+          ],
+          [
+            825.0670776367188,
+            1557.2642822265625
+          ],
+          [
+            1527.8779296875,
+            1557.2642822265625
+          ],
+          [
+            1527.8779296875,
+            1289.5462646484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B1FD0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Header",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.6331743597984314,
+      "coordinates": {
+        "points": [
+          [
+            146.05271911621094,
+            62.141876220703125
+          ],
+          [
+            146.05271911621094,
+            96.25328826904297
+          ],
+          [
+            294.68701171875,
+            96.25328826904297
+          ],
+          [
+            294.68701171875,
+            62.141876220703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3E90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\header_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7665218710899353,
+      "coordinates": {
+        "points": [
+          [
+            147.19107055664062,
+            154.7980499267578
+          ],
+          [
+            147.19107055664062,
+            212.8363800048828
+          ],
+          [
+            909.5277709960938,
+            212.8363800048828
+          ],
+          [
+            909.5277709960938,
+            154.7980499267578
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B31D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7761540412902832,
+      "coordinates": {
+        "points": [
+          [
+            149.3872833251953,
+            238.76458740234375
+          ],
+          [
+            149.3872833251953,
+            285.1990661621094
+          ],
+          [
+            608.8316650390625,
+            285.1990661621094
+          ],
+          [
+            608.8316650390625,
+            238.76458740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B37D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "text_as_html": "<table><tbody><tr><td>12m Trailing P/E</td><td>25.6</td><td>16.7</td><td>13.2</td><td>19.0</td><td>15.6</td><td>16.2</td><td>13.0</td><td>10.1</td><td>16.5</td></tr><tr><td>12m Trailing P/B</td><td>54</td><td>22]</td><td>2.0</td><td>3.8</td><td>16</td><td>1.9</td><td>15</td><td>1.6</td><td>24</td></tr><tr><td>12m Trailing P/CF</td><td>21.0</td><td>12.8]</td><td>7.9</td><td>14.5</td><td>10.1]</td><td>10.1</td><td>6.0</td><td>5.3|</td><td>9.4</td></tr><tr><td>Dividend Yield</td><td>1.3</td><td></td><td>3.1/3.6</td><td>3.0</td><td>2.3</td><td>2.7</td><td>2.6</td><td>5.8|</td><td>4.3</td></tr><tr><td></td><td>18.2</td><td>11.7]</td><td>10.5</td><td>16.7</td><td>9.6</td><td>11.8</td><td>11.7</td><td>14.6</td><td>14.3</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-4-2.jpg",
+      "detection_class_prob": 0.920875072479248,
+      "coordinates": {
+        "points": [
+          [
+            146.9834747314453,
+            299.7315368652344
+          ],
+          [
+            146.9834747314453,
+            493.5288391113281
+          ],
+          [
+            1599.79541015625,
+            493.5288391113281
+          ],
+          [
+            1599.79541015625,
+            299.7315368652344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3C50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_48.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_48.html"
+    },
+    {
+      "element_index": 49,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7121639847755432,
+      "coordinates": {
+        "points": [
+          [
+            148.8642578125,
+            537.6254272460938
+          ],
+          [
+            148.8642578125,
+            581.9378662109375
+          ],
+          [
+            1021.8524780273438,
+            581.9378662109375
+          ],
+          [
+            1021.8524780273438,
+            537.6254272460938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3110>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "text_as_html": "<table><tbody><tr><td>12m Trailing P/E</td><td>3.25.</td><td>G.61</td><td>-9.17</td><td>3.36</td><td>-6.7</td><td>-6.18</td><td>-9.39</td><td>“12.22</td><td>-5.83</td></tr><tr><td>12m Trailing P/B</td><td>1.46</td><td>-1.38]</td><td>-1.62</td><td>0.22</td><td>-2.03</td><td>“1.7</td><td>-2.09</td><td>“Loe</td><td>-1.53</td></tr><tr><td>12m Trailing P/CF</td><td>3.5</td><td>-4.68|</td><td>-9.59</td><td>-2.98</td><td>-7.36 |</td><td>-7.4</td><td>-11.44</td><td>-12.21]</td><td>-8.36</td></tr><tr><td>Dividend Yield</td><td>-0.5</td><td>1.31|</td><td>1.8</td><td>1.23</td><td>0.57</td><td>0.88</td><td>0.8</td><td>4.03 |</td><td>2.48</td></tr><tr><td></td><td>3.61</td><td>-2.9|</td><td>-4.09</td><td>2</td><td>-4.97</td><td>-2.81</td><td>-2.88</td><td>0.05</td><td>-0.29</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-4-3.jpg",
+      "detection_class_prob": 0.9238932132720947,
+      "coordinates": {
+        "points": [
+          [
+            150.00926208496094,
+            598.6527099609375
+          ],
+          [
+            150.00926208496094,
+            789.2896728515625
+          ],
+          [
+            1597.3245849609375,
+            789.2896728515625
+          ],
+          [
+            1597.3245849609375,
+            598.6527099609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B36B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_50.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_50.html"
+    },
+    {
+      "element_index": 51,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.5566767454147339,
+      "coordinates": {
+        "points": [
+          [
+            1479.745849609375,
+            819.6779174804688
+          ],
+          [
+            1479.745849609375,
+            833.8216552734375
+          ],
+          [
+            1590.4521484375,
+            833.8216552734375
+          ],
+          [
+            1590.4521484375,
+            819.6779174804688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2AB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.7779285907745361,
+      "coordinates": {
+        "points": [
+          [
+            145.50595092773438,
+            915.1514892578125
+          ],
+          [
+            145.50595092773438,
+            970.5525512695312
+          ],
+          [
+            672.694580078125,
+            970.5525512695312
+          ],
+          [
+            672.694580078125,
+            915.1514892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3F50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.6347988247871399,
+      "coordinates": {
+        "points": [
+          [
+            149.8523406982422,
+            984.9532470703125
+          ],
+          [
+            149.8523406982422,
+            1005.649658203125
+          ],
+          [
+            671.8448486328125,
+            1005.649658203125
+          ],
+          [
+            671.8448486328125,
+            984.9532470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B23F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-4-3.jpg",
+      "detection_class_prob": 0.8273199200630188,
+      "coordinates": {
+        "points": [
+          [
+            185.74383544921875,
+            1068.9942626953125
+          ],
+          [
+            185.74383544921875,
+            1483.0947265625
+          ],
+          [
+            755.18603515625,
+            1483.0947265625
+          ],
+          [
+            755.18603515625,
+            1068.9942626953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3A10>"
+      }
+    },
+    {
+      "element_index": 55,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-4-4.jpg",
+      "detection_class_prob": 0.8436666131019592,
+      "coordinates": {
+        "points": [
+          [
+            905.5087280273438,
+            1068.69775390625
+          ],
+          [
+            905.5087280273438,
+            1487.5794677734375
+          ],
+          [
+            1466.4947509765625,
+            1487.5794677734375
+          ],
+          [
+            1466.4947509765625,
+            1068.69775390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3830>"
+      }
+    },
+    {
+      "element_index": 56,
+      "element_type": "FigureCaption",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.3163614869117737,
+      "coordinates": {
+        "points": [
+          [
+            304.8009338378906,
+            1483.885986328125
+          ],
+          [
+            304.8009338378906,
+            1497.9984130859375
+          ],
+          [
+            753.874267578125,
+            1497.9984130859375
+          ],
+          [
+            753.874267578125,
+            1483.885986328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2C30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\figurecaption_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1003.0,
+            1485.0
+          ],
+          [
+            1003.0,
+            1499.0
+          ],
+          [
+            1054.0,
+            1499.0
+          ],
+          [
+            1054.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B0050>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1089.0,
+            1485.0
+          ],
+          [
+            1089.0,
+            1496.0
+          ],
+          [
+            1137.0,
+            1496.0
+          ],
+          [
+            1137.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3DD0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1173.0,
+            1485.0
+          ],
+          [
+            1173.0,
+            1496.0
+          ],
+          [
+            1223.0,
+            1496.0
+          ],
+          [
+            1223.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B2450>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1260.0,
+            1485.0
+          ],
+          [
+            1260.0,
+            1496.0
+          ],
+          [
+            1308.0,
+            1496.0
+          ],
+          [
+            1308.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6DBD70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1341.0,
+            1485.0
+          ],
+          [
+            1341.0,
+            1499.0
+          ],
+          [
+            1390.0,
+            1499.0
+          ],
+          [
+            1390.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6DBE30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            1426.0,
+            1485.0
+          ],
+          [
+            1426.0,
+            1496.0
+          ],
+          [
+            1474.0,
+            1496.0
+          ],
+          [
+            1474.0,
+            1485.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6DBBF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-4-5.jpg",
+      "detection_class_prob": 0.8579509258270264,
+      "coordinates": {
+        "points": [
+          [
+            190.93637084960938,
+            1552.0703125
+          ],
+          [
+            190.93637084960938,
+            1980.0777587890625
+          ],
+          [
+            757.8963012695312,
+            1980.0777587890625
+          ],
+          [
+            757.8963012695312,
+            1552.0703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B03B0>"
+      }
+    },
+    {
+      "element_index": 64,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-4-6.jpg",
+      "detection_class_prob": 0.8126453757286072,
+      "coordinates": {
+        "points": [
+          [
+            910.0902709960938,
+            1551.41552734375
+          ],
+          [
+            910.0902709960938,
+            1978.1845703125
+          ],
+          [
+            1476.4512939453125,
+            1978.1845703125
+          ],
+          [
+            1476.4512939453125,
+            1551.41552734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B3EF0>"
+      }
+    },
+    {
+      "element_index": 65,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.28751710057258606,
+      "coordinates": {
+        "points": [
+          [
+            1407.5316162109375,
+            2005.35693359375
+          ],
+          [
+            1407.5316162109375,
+            2019.876220703125
+          ],
+          [
+            1514.3349609375,
+            2019.876220703125
+          ],
+          [
+            1514.3349609375,
+            2005.35693359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409C6B0410>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "Header",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.5282965898513794,
+      "coordinates": {
+        "points": [
+          [
+            149.66677856445312,
+            85.76953887939453
+          ],
+          [
+            149.66677856445312,
+            135.93740844726562
+          ],
+          [
+            918.7925415039062,
+            135.93740844726562
+          ],
+          [
+            918.7925415039062,
+            85.76953887939453
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240935B5D30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\header_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-7.jpg",
+      "detection_class_prob": 0.7864586710929871,
+      "coordinates": {
+        "points": [
+          [
+            184.12298583984375,
+            179.89859008789062
+          ],
+          [
+            184.12298583984375,
+            604.5276489257812
+          ],
+          [
+            772.5383911132812,
+            604.5276489257812
+          ],
+          [
+            772.5383911132812,
+            179.89859008789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7CB0>"
+      }
+    },
+    {
+      "element_index": 68,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-8.jpg",
+      "detection_class_prob": 0.8274857997894287,
+      "coordinates": {
+        "points": [
+          [
+            908.024169921875,
+            180.5430450439453
+          ],
+          [
+            908.024169921875,
+            602.8496704101562
+          ],
+          [
+            1470.7392578125,
+            602.8496704101562
+          ],
+          [
+            1470.7392578125,
+            180.5430450439453
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A6270>"
+      }
+    },
+    {
+      "element_index": 69,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            232.0,
+            653.0
+          ],
+          [
+            232.0,
+            1273.0
+          ],
+          [
+            1389.0,
+            1273.0
+          ],
+          [
+            1389.0,
+            653.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A62D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-9.jpg",
+      "detection_class_prob": 0.7969501614570618,
+      "coordinates": {
+        "points": [
+          [
+            902.869873046875,
+            672.5203857421875
+          ],
+          [
+            902.869873046875,
+            1082.9866943359375
+          ],
+          [
+            1480.611572265625,
+            1082.9866943359375
+          ],
+          [
+            1480.611572265625,
+            672.5203857421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7DD0>"
+      }
+    },
+    {
+      "element_index": 71,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-10.jpg",
+      "detection_class_prob": 0.7944322824478149,
+      "coordinates": {
+        "points": [
+          [
+            184.97103881835938,
+            675.7343139648438
+          ],
+          [
+            184.97103881835938,
+            1083.8323974609375
+          ],
+          [
+            774.9186401367188,
+            1083.8323974609375
+          ],
+          [
+            774.9186401367188,
+            675.7343139648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7D70>"
+      }
+    },
+    {
+      "element_index": 72,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.3529593050479889,
+      "coordinates": {
+        "points": [
+          [
+            1406.5977783203125,
+            1116.5076904296875
+          ],
+          [
+            1406.5977783203125,
+            1129.8726806640625
+          ],
+          [
+            1516.2637939453125,
+            1129.8726806640625
+          ],
+          [
+            1516.2637939453125,
+            1116.5076904296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7710>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.3881734609603882,
+      "coordinates": {
+        "points": [
+          [
+            144.9719696044922,
+            1120.0467529296875
+          ],
+          [
+            144.9719696044922,
+            1174.5821533203125
+          ],
+          [
+            542.3613891601562,
+            1174.5821533203125
+          ],
+          [
+            542.3613891601562,
+            1120.0467529296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7B90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-11.jpg",
+      "detection_class_prob": 0.6745572686195374,
+      "coordinates": {
+        "points": [
+          [
+            181.39141845703125,
+            1228.9683837890625
+          ],
+          [
+            181.39141845703125,
+            1662.353759765625
+          ],
+          [
+            773.3269653320312,
+            1662.353759765625
+          ],
+          [
+            773.3269653320312,
+            1228.9683837890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A79B0>"
+      }
+    },
+    {
+      "element_index": 75,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-12.jpg",
+      "detection_class_prob": 0.5272565484046936,
+      "coordinates": {
+        "points": [
+          [
+            902.94140625,
+            1224.2120361328125
+          ],
+          [
+            902.94140625,
+            1656.5716552734375
+          ],
+          [
+            1486.2979736328125,
+            1656.5716552734375
+          ],
+          [
+            1486.2979736328125,
+            1224.2120361328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A6330>"
+      }
+    },
+    {
+      "element_index": 76,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-13.jpg",
+      "detection_class_prob": 0.7049468159675598,
+      "coordinates": {
+        "points": [
+          [
+            182.94296264648438,
+            1725.167724609375
+          ],
+          [
+            182.94296264648438,
+            2150.23828125
+          ],
+          [
+            772.0581665039062,
+            2150.23828125
+          ],
+          [
+            772.0581665039062,
+            1725.167724609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A6510>"
+      }
+    },
+    {
+      "element_index": 77,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-5-14.jpg",
+      "detection_class_prob": 0.5503736734390259,
+      "coordinates": {
+        "points": [
+          [
+            895.009033203125,
+            1720.3035888671875
+          ],
+          [
+            895.009033203125,
+            2153.203857421875
+          ],
+          [
+            1500.474609375,
+            2153.203857421875
+          ],
+          [
+            1500.474609375,
+            1720.3035888671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A6150>"
+      }
+    },
+    {
+      "element_index": 78,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            1409.0,
+            2156.0
+          ],
+          [
+            1409.0,
+            2168.0
+          ],
+          [
+            1513.0,
+            2168.0
+          ],
+          [
+            1513.0,
+            2156.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7FB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "Header",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.6575900912284851,
+      "coordinates": {
+        "points": [
+          [
+            145.4626922607422,
+            62.61502456665039
+          ],
+          [
+            145.4626922607422,
+            95.80223846435547
+          ],
+          [
+            295.93304443359375,
+            95.80223846435547
+          ],
+          [
+            295.93304443359375,
+            62.61502456665039
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7890>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\header_79.txt"
+    },
+    {
+      "element_index": 80,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.7032960653305054,
+      "coordinates": {
+        "points": [
+          [
+            144.68258666992188,
+            141.22073364257812
+          ],
+          [
+            144.68258666992188,
+            198.63919067382812
+          ],
+          [
+            910.8070068359375,
+            198.63919067382812
+          ],
+          [
+            910.8070068359375,
+            141.22073364257812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7EF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-15.jpg",
+      "detection_class_prob": 0.6961533427238464,
+      "coordinates": {
+        "points": [
+          [
+            184.30804443359375,
+            212.79769897460938
+          ],
+          [
+            184.30804443359375,
+            1066.6302490234375
+          ],
+          [
+            774.5452880859375,
+            1066.6302490234375
+          ],
+          [
+            774.5452880859375,
+            212.79769897460938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7830>"
+      }
+    },
+    {
+      "element_index": 82,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            217.22222222222223,
+            1070.0
+          ],
+          [
+            217.22222222222223,
+            1081.6666666666667
+          ],
+          [
+            265.0,
+            1081.6666666666667
+          ],
+          [
+            265.0,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065BB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            315.55555555555554,
+            1070.0
+          ],
+          [
+            315.55555555555554,
+            1081.6666666666667
+          ],
+          [
+            363.88888888888886,
+            1081.6666666666667
+          ],
+          [
+            363.88888888888886,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065F70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            413.88888888888886,
+            1070.0
+          ],
+          [
+            413.88888888888886,
+            1081.6666666666667
+          ],
+          [
+            462.77777777777777,
+            1081.6666666666667
+          ],
+          [
+            462.77777777777777,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064830>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            512.7777777777777,
+            1070.0
+          ],
+          [
+            512.7777777777777,
+            1081.6666666666667
+          ],
+          [
+            561.1111111111111,
+            1081.6666666666667
+          ],
+          [
+            561.1111111111111,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064F50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            611.1111111111111,
+            1070.0
+          ],
+          [
+            611.1111111111111,
+            1081.6666666666667
+          ],
+          [
+            659.4444444444445,
+            1081.6666666666667
+          ],
+          [
+            659.4444444444445,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0661B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            710.0,
+            1070.0
+          ],
+          [
+            710.0,
+            1081.6666666666667
+          ],
+          [
+            758.3333333333334,
+            1081.6666666666667
+          ],
+          [
+            758.3333333333334,
+            1070.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065D90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.5203998684883118,
+      "coordinates": {
+        "points": [
+          [
+            148.5992889404297,
+            1146.3575439453125
+          ],
+          [
+            148.5992889404297,
+            1197.880126953125
+          ],
+          [
+            800.42578125,
+            1197.880126953125
+          ],
+          [
+            800.42578125,
+            1146.3575439453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7950>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-16.jpg",
+      "detection_class_prob": 0.7810971736907959,
+      "coordinates": {
+        "points": [
+          [
+            187.46340942382812,
+            1237.2421875
+          ],
+          [
+            187.46340942382812,
+            1642.0703125
+          ],
+          [
+            751.9805908203125,
+            1642.0703125
+          ],
+          [
+            751.9805908203125,
+            1237.2421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066810>"
+      }
+    },
+    {
+      "element_index": 90,
+      "element_type": "FigureCaption",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.4805844724178314,
+      "coordinates": {
+        "points": [
+          [
+            196.0492706298828,
+            1646.3673095703125
+          ],
+          [
+            196.0492706298828,
+            1661.8702392578125
+          ],
+          [
+            758.8722534179688,
+            1661.8702392578125
+          ],
+          [
+            758.8722534179688,
+            1646.3673095703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065F10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\figurecaption_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "FigureCaption",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.4491235911846161,
+      "coordinates": {
+        "points": [
+          [
+            196.4032745361328,
+            1716.0157470703125
+          ],
+          [
+            196.4032745361328,
+            1755.438232421875
+          ],
+          [
+            664.151611328125,
+            1755.438232421875
+          ],
+          [
+            664.151611328125,
+            1716.0157470703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0662D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\figurecaption_91.txt"
+    },
+    {
+      "element_index": 92,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-17.jpg",
+      "detection_class_prob": 0.7789086699485779,
+      "coordinates": {
+        "points": [
+          [
+            184.08384704589844,
+            1741.779296875
+          ],
+          [
+            184.08384704589844,
+            2146.806884765625
+          ],
+          [
+            734.879638671875,
+            2146.806884765625
+          ],
+          [
+            734.879638671875,
+            1741.779296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065850>"
+      }
+    },
+    {
+      "element_index": 93,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            740.0,
+            2130.0
+          ],
+          [
+            740.0,
+            2141.6666666666665
+          ],
+          [
+            756.6666666666666,
+            2141.6666666666665
+          ],
+          [
+            756.6666666666666,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065B50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_93.txt"
+    },
+    {
+      "element_index": 94,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-18.jpg",
+      "detection_class_prob": 0.7796139717102051,
+      "coordinates": {
+        "points": [
+          [
+            894.3734130859375,
+            212.3671875
+          ],
+          [
+            894.3734130859375,
+            1088.90625
+          ],
+          [
+            1483.02685546875,
+            1088.90625
+          ],
+          [
+            1483.02685546875,
+            212.3671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000240934A7B30>"
+      }
+    },
+    {
+      "element_index": 95,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1408.888888888889,
+            1110.0
+          ],
+          [
+            1408.888888888889,
+            1123.3333333333333
+          ],
+          [
+            1513.3333333333333,
+            1123.3333333333333
+          ],
+          [
+            1513.3333333333333,
+            1110.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065670>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_95.txt"
+    },
+    {
+      "element_index": 96,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-19.jpg",
+      "detection_class_prob": 0.8270906209945679,
+      "coordinates": {
+        "points": [
+          [
+            902.9617919921875,
+            1227.88525390625
+          ],
+          [
+            902.9617919921875,
+            1658.01318359375
+          ],
+          [
+            1451.4007568359375,
+            1658.01318359375
+          ],
+          [
+            1451.4007568359375,
+            1227.88525390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0649B0>"
+      }
+    },
+    {
+      "element_index": 97,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1457.2222222222222,
+            1647.7777777777778
+          ],
+          [
+            1457.2222222222222,
+            1659.4444444444443
+          ],
+          [
+            1474.4444444444443,
+            1659.4444444444443
+          ],
+          [
+            1474.4444444444443,
+            1647.7777777777778
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065070>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_97.txt"
+    },
+    {
+      "element_index": 98,
+      "element_type": "FigureCaption",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.5882865190505981,
+      "coordinates": {
+        "points": [
+          [
+            950.06005859375,
+            1716.2686767578125
+          ],
+          [
+            950.06005859375,
+            1755.132080078125
+          ],
+          [
+            1390.19873046875,
+            1755.132080078125
+          ],
+          [
+            1390.19873046875,
+            1716.2686767578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064B30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\figurecaption_98.txt"
+    },
+    {
+      "element_index": 99,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-6-20.jpg",
+      "detection_class_prob": 0.7945507168769836,
+      "coordinates": {
+        "points": [
+          [
+            897.5046997070312,
+            1739.927001953125
+          ],
+          [
+            897.5046997070312,
+            2129.347900390625
+          ],
+          [
+            1463.0213623046875,
+            2129.347900390625
+          ],
+          [
+            1463.0213623046875,
+            1739.927001953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064BF0>"
+      }
+    },
+    {
+      "element_index": 100,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            922.2222222222222,
+            2130.0
+          ],
+          [
+            922.2222222222222,
+            2141.6666666666665
+          ],
+          [
+            970.0,
+            2141.6666666666665
+          ],
+          [
+            970.0,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064050>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_100.txt"
+    },
+    {
+      "element_index": 101,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1006.6666666666666,
+            2130.0
+          ],
+          [
+            1006.6666666666666,
+            2141.6666666666665
+          ],
+          [
+            1054.4444444444443,
+            2141.6666666666665
+          ],
+          [
+            1054.4444444444443,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0660F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_101.txt"
+    },
+    {
+      "element_index": 102,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1091.6666666666667,
+            2129.4444444444443
+          ],
+          [
+            1091.6666666666667,
+            2141.6666666666665
+          ],
+          [
+            1140.0,
+            2141.6666666666665
+          ],
+          [
+            1140.0,
+            2129.4444444444443
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0640B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_102.txt"
+    },
+    {
+      "element_index": 103,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1174.4444444444443,
+            2130.0
+          ],
+          [
+            1174.4444444444443,
+            2141.6666666666665
+          ],
+          [
+            1223.3333333333333,
+            2141.6666666666665
+          ],
+          [
+            1223.3333333333333,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064FB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_103.txt"
+    },
+    {
+      "element_index": 104,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1258.888888888889,
+            2130.0
+          ],
+          [
+            1258.888888888889,
+            2141.6666666666665
+          ],
+          [
+            1307.2222222222222,
+            2141.6666666666665
+          ],
+          [
+            1307.2222222222222,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065010>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_104.txt"
+    },
+    {
+      "element_index": 105,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1343.888888888889,
+            2129.4444444444443
+          ],
+          [
+            1343.888888888889,
+            2141.6666666666665
+          ],
+          [
+            1392.2222222222222,
+            2141.6666666666665
+          ],
+          [
+            1392.2222222222222,
+            2129.4444444444443
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065130>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_105.txt"
+    },
+    {
+      "element_index": 106,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1426.111111111111,
+            2130.0
+          ],
+          [
+            1426.111111111111,
+            2141.6666666666665
+          ],
+          [
+            1474.4444444444443,
+            2141.6666666666665
+          ],
+          [
+            1474.4444444444443,
+            2130.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065A90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_106.txt"
+    },
+    {
+      "element_index": 107,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 6,
+      "coordinates": {
+        "points": [
+          [
+            1408.888888888889,
+            2156.111111111111
+          ],
+          [
+            1408.888888888889,
+            2168.3333333333335
+          ],
+          [
+            1513.3333333333333,
+            2168.3333333333335
+          ],
+          [
+            1513.3333333333333,
+            2156.111111111111
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065610>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_107.txt"
+    },
+    {
+      "element_index": 108,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.7723288536071777,
+      "coordinates": {
+        "points": [
+          [
+            147.9498748779297,
+            82.80065155029297
+          ],
+          [
+            147.9498748779297,
+            137.9495849609375
+          ],
+          [
+            481.9655456542969,
+            137.9495849609375
+          ],
+          [
+            481.9655456542969,
+            82.80065155029297
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0656D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_108.txt"
+    },
+    {
+      "element_index": 109,
+      "element_type": "Header",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.7971078753471375,
+      "coordinates": {
+        "points": [
+          [
+            1334.09521484375,
+            65.52826690673828
+          ],
+          [
+            1334.09521484375,
+            94.65099334716797
+          ],
+          [
+            1486.2384033203125,
+            94.65099334716797
+          ],
+          [
+            1486.2384033203125,
+            65.52826690673828
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065DF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\header_109.txt"
+    },
+    {
+      "element_index": 110,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.32291024923324585,
+      "coordinates": {
+        "points": [
+          [
+            521.4749145507812,
+            166.98333740234375
+          ],
+          [
+            521.4749145507812,
+            185.1471405029297
+          ],
+          [
+            1544.4383544921875,
+            185.1471405029297
+          ],
+          [
+            1544.4383544921875,
+            166.98333740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065AF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_110.txt"
+    },
+    {
+      "element_index": 111,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            153.88888888888889,
+            169.44444444444443
+          ],
+          [
+            153.88888888888889,
+            185.55555555555554
+          ],
+          [
+            181.11111111111111,
+            185.55555555555554
+          ],
+          [
+            181.11111111111111,
+            169.44444444444443
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066450>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_111.txt"
+    },
+    {
+      "element_index": 112,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><thead><tr><th>ISM Manufacturing (Index)</th><th>47.0</th><th>47.5</th><th>47.5</th><th>46.9</th><th>48.4</th><th>49.2</th><th>50.9</th><th>50.3</th><th>49.0</th><th>48.7</th><th>:</th><th></th></tr></thead><tbody><tr><td>ISM Non-Manufacturing (Index)</td><td>51.4</td><td>51.6</td><td>54.5</td><td>55.8 |</td><td>52.5 |</td><td>54.0</td><td>52.8</td><td>53.5</td><td>50.8 |</td><td>51.6</td><td>S</td><td></td></tr><tr><td>Durable Goods (% MoM)</td><td>4.3</td><td>=i</td><td>0.9</td><td>0.3|</td><td>“1,7</td><td>0.8</td><td>0.2</td><td>1.0</td><td>7.6</td><td>-6.3</td><td>:</td><td></td></tr><tr><td>Consumer Confidence (Index)</td><td>101.9</td><td>105.6 |</td><td>99.2</td><td>109.6|</td><td>112.8|</td><td>109.5</td><td>105.3</td><td>100.1|</td><td>93.9 |</td><td>85.7</td><td>98.0</td><td></td></tr><tr><td>Retail Sales (% MoM)</td><td>3.0</td><td>1.9</td><td>2.0</td><td>3.1</td><td>3.9</td><td>4.6</td><td>4.6</td><td>3.9</td><td>5.2</td><td>5.2</td><td>=</td><td>up</td></tr><tr><td>Unemployment Rate (%)</td><td>4.2</td><td>4.2</td><td>4.1</td><td>4.1</td><td>4.2</td><td>4.1</td><td>4.0</td><td>4.1</td><td>4.2</td><td>4.2</td><td>:</td><td>up</td></tr><tr><td>Avg Hourly Earnings YoY (% YoY)</td><td>4.0</td><td>4.2</td><td>4.2</td><td>4.2|</td><td>4.1|</td><td>4.0</td><td>4.0</td><td>4.2|</td><td>3.9 |</td><td>4.1</td><td>=</td><td></td></tr><tr><td>Change in Payrolls (000, MoM)</td><td>88.0</td><td>71.0</td><td>240.0</td><td>44.0|</td><td>261.0</td><td>323.0</td><td>111.0</td><td>102.0</td><td>185.0</td><td>177.0</td><td>=</td><td>up</td></tr><tr><td>PCE (% YoY)</td><td>2.67</td><td>273</td><td>2.66</td><td>2.82</td><td>2.83</td><td>2.86</td><td>2.69</td><td>2.92</td><td>2.67 |</td><td>2.52</td><td>:</td><td></td></tr><tr><td>GDP (%, QoQ, Annualized)</td><td>:</td><td>=</td><td>3.1</td><td>=|</td><td>ll</td><td>2.4</td><td>=</td><td>2</td><td>-0.2|</td><td>all</td><td>2</td><td></td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-4.jpg",
+      "detection_class_prob": 0.8568718433380127,
+      "coordinates": {
+        "points": [
+          [
+            136.7484130859375,
+            178.83584594726562
+          ],
+          [
+            136.7484130859375,
+            475.07427978515625
+          ],
+          [
+            1560.2017822265625,
+            475.07427978515625
+          ],
+          [
+            1560.2017822265625,
+            178.83584594726562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066090>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_112.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_112.html"
+    },
+    {
+      "element_index": 113,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            153.88888888888889,
+            505.55555555555554
+          ],
+          [
+            153.88888888888889,
+            521.6666666666666
+          ],
+          [
+            251.11111111111111,
+            521.6666666666666
+          ],
+          [
+            251.11111111111111,
+            505.55555555555554
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064C50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_113.txt"
+    },
+    {
+      "element_index": 114,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.49307137727737427,
+      "coordinates": {
+        "points": [
+          [
+            519.3408203125,
+            503.7659606933594
+          ],
+          [
+            519.3408203125,
+            522.0921630859375
+          ],
+          [
+            1548.4715576171875,
+            522.0921630859375
+          ],
+          [
+            1548.4715576171875,
+            503.7659606933594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A067EF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_114.txt"
+    },
+    {
+      "element_index": 115,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><thead><tr><th>PMI Manufacturing (Index)</th><th>) 45.8]</th><th>45.8]</th><th>45.0</th><th>46.0</th><th>45.2</th><th>45.1</th><th>46.6</th><th>47.6</th><th>48.6</th><th>49.0</th><th>49.4</th><th>up</th></tr></thead><tbody><tr><td>PMI Services (Index)</td><td>51.9|</td><td>52.9</td><td>51.4</td><td>51.6</td><td>49.5</td><td>51.6</td><td>51.3</td><td>50.6</td><td>51.0</td><td>50.1</td><td>48.9|</td><td>down</td></tr><tr><td>IFO Business Climate (Index)</td><td>87.0</td><td>86.6</td><td>85.5</td><td>86.5</td><td>85.6</td><td>84.7</td><td>85.2</td><td>85.3</td><td>86.7</td><td>86.9</td><td>87.5</td><td>up</td></tr><tr><td>Industrial Production (% YoY)</td><td>-2.3</td><td>-0.6</td><td>oP</td><td>ei</td><td>-2.0</td><td>“1.8</td><td>-0.4</td><td>1.0</td><td>3.6</td><td>z</td><td>\"</td><td>up</td></tr><tr><td>Indeed 3m average wage growth (% YoY)</td><td>3.55</td><td>3.83</td><td>3.89</td><td>3.74</td><td>3.66</td><td>3.54</td><td>3.32</td><td>2.99</td><td>2.92</td><td>2.99</td><td>-</td><td>down</td></tr><tr><td>Unemployment Rate (%)</td><td>6.4</td><td>6.3</td><td>6.3</td><td>6.2</td><td>6.2</td><td>6.2</td><td>6.2</td><td>6.2</td><td>6.2</td><td>-</td><td>-</td><td>down</td></tr><tr><td>Euro-Area Credit Impulse (%, SA)</td><td>1.65</td><td>1.64</td><td>2.39</td><td>2.62</td><td>2.83</td><td>1.22</td><td>2.99</td><td>3.23</td><td>2.58</td><td>2.96</td><td>=</td><td>up</td></tr><tr><td>EUR HICP 5y5y Inflation Swaps</td><td>2.21</td><td>2.13</td><td>a4</td><td>2.13</td><td>1.99</td><td>2.02</td><td>2.08</td><td>2.04</td><td>2.13</td><td>2.06</td><td>2.06</td><td>up</td></tr><tr><td>CPI (% YoY)</td><td>2.6</td><td>2,2</td><td>17</td><td>2.0</td><td>22</td><td>2.4</td><td>25</td><td>2.3</td><td>2.2</td><td>22</td><td>-|</td><td>down</td></tr><tr><td>Core CPI (% YoY)</td><td>2.9|</td><td>2.8</td><td>2.7</td><td>2.7</td><td>27</td><td>yy</td><td>2.7</td><td>2.6</td><td>2.4</td><td>27)</td><td>-|</td><td>down</td></tr><tr><td>GDP (% QoQ)</td><td>=</td><td>=</td><td>0.4</td><td>=</td><td>=</td><td>0.2</td><td>=</td><td>=</td><td>0.3</td><td>7</td><td>=</td><td>up</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-5.jpg",
+      "detection_class_prob": 0.8649399280548096,
+      "coordinates": {
+        "points": [
+          [
+            144.33827209472656,
+            526.16162109375
+          ],
+          [
+            144.33827209472656,
+            841.2601318359375
+          ],
+          [
+            1554.32373046875,
+            841.2601318359375
+          ],
+          [
+            1554.32373046875,
+            526.16162109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065EB0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_115.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_115.html"
+    },
+    {
+      "element_index": 116,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            153.88888888888889,
+            871.6666666666666
+          ],
+          [
+            153.88888888888889,
+            887.7777777777777
+          ],
+          [
+            181.66666666666666,
+            887.7777777777777
+          ],
+          [
+            181.66666666666666,
+            871.6666666666666
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0669F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_116.txt"
+    },
+    {
+      "element_index": 117,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.379950612783432,
+      "coordinates": {
+        "points": [
+          [
+            520.76025390625,
+            869.0802612304688
+          ],
+          [
+            520.76025390625,
+            887.36669921875
+          ],
+          [
+            1553.3624267578125,
+            887.36669921875
+          ],
+          [
+            1553.3624267578125,
+            869.0802612304688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065730>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_117.txt"
+    },
+    {
+      "element_index": 118,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><thead><tr><th>PMI Manufacturing (Index)</th><th>52.1</th><th>52.5</th><th>51.5</th><th>49.9 |</th><th>48.0</th><th>47.0</th><th>48.3</th><th>46.9</th><th>44.9</th><th>45.4</th><th>45.1</th><th></th></tr></thead><tbody><tr><td>PMI Services (Index)</td><td>i 52.5]</td><td>53.7</td><td>52.4</td><td>52.0 |</td><td>50.8</td><td>51.1</td><td>50.8</td><td>51.0</td><td>52.5</td><td>49.0</td><td>50.2</td><td></td></tr><tr><td>Consumer Confidence (Index)</td><td>-13.0</td><td>-13.0</td><td>-20.0</td><td>-21.0</td><td>-18.0</td><td>-17.0</td><td>=2210</td><td>-20.0</td><td>-19.0</td><td>-23.0</td><td>-20.0</td><td></td></tr><tr><td>Unemployment Rate (%)</td><td>4.2</td><td>4.1</td><td>4.3</td><td>4.3|</td><td>4.4</td><td>4.4</td><td>4.4</td><td>4.4</td><td>4.5</td><td>2</td><td>=</td><td>up</td></tr><tr><td>CPI (% YoY)</td><td>||</td><td>312</td><td>1.7</td><td>2.3]</td><td>2.6]</td><td>2.5</td><td>3.0</td><td>2.8|</td><td>2.6</td><td>3.5</td><td>3</td><td>up</td></tr><tr><td>House Prices (% YoY)</td><td>2</td><td>2.4</td><td>3.2</td><td>2.4]</td><td>3:7,</td><td>4.7</td><td>4.1</td><td>3.9</td><td>3.9</td><td>3.4</td><td>3.5</td><td></td></tr><tr><td>Mortgage Approvals (SA, Thousands)</td><td>62.65|</td><td>65.12</td><td>65.93</td><td>68.37|</td><td>65.97|</td><td>66.29</td><td>65.96</td><td>65.09|</td><td>64.31</td><td>=</td><td>=</td><td></td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-6.jpg",
+      "detection_class_prob": 0.7993243932723999,
+      "coordinates": {
+        "points": [
+          [
+            135.16310119628906,
+            892.263671875
+          ],
+          [
+            135.16310119628906,
+            1117.5311279296875
+          ],
+          [
+            1556.46728515625,
+            1117.5311279296875
+          ],
+          [
+            1556.46728515625,
+            892.263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065E50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_118.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_118.html"
+    },
+    {
+      "element_index": 119,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            153.33333333333334,
+            1141.111111111111
+          ],
+          [
+            153.33333333333334,
+            1168.888888888889
+          ],
+          [
+            275.0,
+            1168.888888888889
+          ],
+          [
+            275.0,
+            1141.111111111111
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064D10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_119.txt"
+    },
+    {
+      "element_index": 120,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.41770312190055847,
+      "coordinates": {
+        "points": [
+          [
+            530.3036499023438,
+            1147.7122802734375
+          ],
+          [
+            530.3036499023438,
+            1165.8824462890625
+          ],
+          [
+            1539.9937744140625,
+            1165.8824462890625
+          ],
+          [
+            1539.9937744140625,
+            1147.7122802734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066E10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_120.txt"
+    },
+    {
+      "element_index": 121,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><thead><tr><th>KOF Leading Indicator (Index)</th><th>101.1</th><th>104.3 |</th><th>103.6</th><th>99.7 |</th><th>102.3</th><th>99.7 |</th><th>103.0/</th><th>102.7</th><th>103.3</th><th>97.1</th><th>98.5</th><th></th></tr></thead><tbody><tr><td>PMI Manufacturing (Index)</td><td>45.1/</td><td>49.3 |</td><td>48.9</td><td>49.2</td><td>47.7|</td><td>47.0</td><td>47.5 |</td><td>49.6</td><td>48.9</td><td>45.8</td><td>-</td><td></td></tr><tr><td>Real Retail Sales (% YoY)</td><td>2.6</td><td></td><td>1.8</td><td>1.9</td><td>1.5</td><td>2.4</td><td>3.2 |</td><td>4,2</td><td>22</td><td>-</td><td>-</td><td></td></tr><tr><td>Trade Balance (Billion, CHF)</td><td>4.91</td><td></td><td>4.91</td><td>8.06</td><td>6.02</td><td>3.46</td><td>6.11 |</td><td>4.71</td><td>6.29</td><td>6.36</td><td>-</td><td>up</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-7.jpg",
+      "detection_class_prob": 0.8139811158180237,
+      "coordinates": {
+        "points": [
+          [
+            142.58152770996094,
+            1169.2469482421875
+          ],
+          [
+            142.58152770996094,
+            1308.5257568359375
+          ],
+          [
+            1557.1773681640625,
+            1308.5257568359375
+          ],
+          [
+            1557.1773681640625,
+            1169.2469482421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064DD0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_121.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_121.html"
+    },
+    {
+      "element_index": 122,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.4115658700466156,
+      "coordinates": {
+        "points": [
+          [
+            519.6226806640625,
+            1341.2728271484375
+          ],
+          [
+            519.6226806640625,
+            1359.19482421875
+          ],
+          [
+            1547.9368896484375,
+            1359.19482421875
+          ],
+          [
+            1547.9368896484375,
+            1341.2728271484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066150>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_122.txt"
+    },
+    {
+      "element_index": 123,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><thead><tr><th>PMI Manufacturing (Index)</th><th>49.1</th><th>49.8</th><th>49.7 | |</th><th>49.2</th><th>49.0</th><th>49.6</th><th>48.7</th><th>49.0</th><th>48.4 |</th><th>48.7</th><th>49.4</th><th></th></tr></thead><tbody><tr><td>Machinery Orders (% YoY)</td><td>8.7</td><td>“3.4</td><td>4.8</td><td>5.6</td><td>10.3|</td><td>4.3</td><td>4.4</td><td>1.5</td><td>8.4|</td><td>:</td><td>.</td><td>up</td></tr><tr><td>Industrial Production (% YoY)</td><td>2.6</td><td>-4.9</td><td>-3.2|</td><td>0.8</td><td>-3.3</td><td>=2i2</td><td>212</td><td>0.1</td><td>1.0</td><td>0.7</td><td>s</td><td>up</td></tr><tr><td>ECO Watchers Survey (Index)</td><td>48.3</td><td>48.3</td><td>47.6</td><td>46.6</td><td>48.2</td><td>49.0</td><td>45.5</td><td>45.1</td><td>47.8</td><td>44.6</td><td>4</td><td></td></tr><tr><td>Jobs to Applicants Ratio (Index)</td><td>1.25</td><td>1.24</td><td>1.25|</td><td>1.25</td><td>1.25</td><td>1.25</td><td>1.26</td><td>1.24</td><td>1.26</td><td>1.26</td><td>=</td><td>up</td></tr><tr><td>Labour Cash Earnings (% YoY)</td><td>3.4</td><td>2.8</td><td>2.5</td><td>272||</td><td>3.9]</td><td>4.4</td><td>1.8</td><td>2.7</td><td>2.3]</td><td>:</td><td>:</td><td></td></tr><tr><td>Retail Sales (% YoY)</td><td>5.5</td><td>3.9</td><td>2.3 |</td><td>-0.7</td><td>3.4</td><td>2.8</td><td>5.2</td><td>=1.5</td><td>-2.8</td><td>-4.5</td><td>=</td><td></td></tr><tr><td>Exports (% YoY)</td><td>10.2</td><td>5.5</td><td>“1.8</td><td>3.1</td><td>3.8</td><td>2.7</td><td>7s</td><td>11.4</td><td>4.0</td><td>2.0</td><td>=</td><td></td></tr><tr><td>Money Supply M2 (% YoY)</td><td>1.5|</td><td>1.3</td><td>f.2</td><td>i</td><td>1.2]</td><td>1.3</td><td>1.3</td><td>Tee</td><td>0.8|</td><td>0.5 |</td><td>=</td><td></td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-8.jpg",
+      "detection_class_prob": 0.8786891102790833,
+      "coordinates": {
+        "points": [
+          [
+            140.95513916015625,
+            1361.5570068359375
+          ],
+          [
+            140.95513916015625,
+            1647.51025390625
+          ],
+          [
+            1555.84521484375,
+            1647.51025390625
+          ],
+          [
+            1555.84521484375,
+            1361.5570068359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066B10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_123.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_123.html"
+    },
+    {
+      "element_index": 124,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            153.33333333333334,
+            1681.111111111111
+          ],
+          [
+            153.33333333333334,
+            1697.7777777777778
+          ],
+          [
+            211.11111111111111,
+            1697.7777777777778
+          ],
+          [
+            211.11111111111111,
+            1681.111111111111
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066690>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_124.txt"
+    },
+    {
+      "element_index": 125,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.5929188132286072,
+      "coordinates": {
+        "points": [
+          [
+            516.6491088867188,
+            1677.9676513671875
+          ],
+          [
+            516.6491088867188,
+            1696.5606689453125
+          ],
+          [
+            1549.8966064453125,
+            1696.5606689453125
+          ],
+          [
+            1549.8966064453125,
+            1677.9676513671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066570>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_125.txt"
+    },
+    {
+      "element_index": 126,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "text_as_html": "<table><tbody><tr><td>NBS PMI Manufacturing (Index)</td><td>49.4</td><td>49.1</td><td>49.8</td><td>50.1|</td><td>50.3</td><td>50.1</td><td>49.1</td><td>50.2</td><td>50.5 |</td><td>49.0</td><td>49.5</td><td></td></tr><tr><td>NBS PMI Non Manufacturing (Index)</td><td>50.2|</td><td>50.3|</td><td>50.0</td><td>50.2 |</td><td>50.0|</td><td>52.2</td><td>50.2</td><td>50.4 |</td><td>50.8 |</td><td>50.4</td><td>50.3</td><td></td></tr><tr><td>Industrial Production (% YoY)</td><td>5.1</td><td>4.5</td><td>5.4</td><td>5.3]</td><td>5.4</td><td>6.2</td><td>=</td><td>=</td><td>7.7</td><td>6.1</td><td></td><td>up</td></tr><tr><td>Retail Sales (% YoY)</td><td>2.7</td><td>2.1</td><td>3.2</td><td>4.8</td><td>3.0</td><td>3.7</td><td>=</td><td>Z</td><td>5.9 |</td><td>5.1</td><td>.</td><td>up</td></tr><tr><td>Exports (% YoY)</td><td>6.9</td><td>8.6 |</td><td>2.4</td><td>12.7]</td><td>6.6|</td><td>10.7</td><td>6.0</td><td>-3.0|</td><td>12.3|</td><td>8.1</td><td>:</td><td>up</td></tr><tr><td>CPI (% YoY)</td><td>2.7</td><td>3.1</td><td>0.7</td><td>1.3|</td><td>2.8</td><td>3.5</td><td>4.4</td><td>1.3</td><td>3.1</td><td>3.3</td><td>=</td><td>up</td></tr><tr><td>PPI (% YoY)</td><td>-0.8</td><td>-1.8</td><td>-2.8</td><td>-2.9</td><td>=215</td><td>-2.3</td><td>“2.3</td><td>-2.2</td><td>-2.5</td><td>EY,</td><td>:</td><td></td></tr><tr><td>RRR (%)</td><td>10.0|</td><td>10.0|</td><td>9.5</td><td>9.5 |</td><td>9.5]</td><td>9.5</td><td>9.5</td><td>9.5|</td><td>9.5|</td><td>9.5]</td><td>9.0</td><td></td></tr><tr><td>GDP (% YoY)</td><td>=i</td><td>:</td><td>4.6</td><td>:</td><td>2</td><td>5.4</td><td>2</td><td>:</td><td>5.4</td><td>2s</td><td>2</td><td></td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-7-9.jpg",
+      "detection_class_prob": 0.8494181036949158,
+      "coordinates": {
+        "points": [
+          [
+            137.19290161132812,
+            1699.0311279296875
+          ],
+          [
+            137.19290161132812,
+            1969.6947021484375
+          ],
+          [
+            1563.8055419921875,
+            1969.6947021484375
+          ],
+          [
+            1563.8055419921875,
+            1699.0311279296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A065C70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_126.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_126.html"
+    },
+    {
+      "element_index": 127,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.523784875869751,
+      "coordinates": {
+        "points": [
+          [
+            1335.57275390625,
+            1975.437744140625
+          ],
+          [
+            1335.57275390625,
+            2017.4107666015625
+          ],
+          [
+            1584.7037353515625,
+            2017.4107666015625
+          ],
+          [
+            1584.7037353515625,
+            1975.437744140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066D50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_127.txt"
+    },
+    {
+      "element_index": 128,
+      "element_type": "Header",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.4433939456939697,
+      "coordinates": {
+        "points": [
+          [
+            145.01333618164062,
+            61.361141204833984
+          ],
+          [
+            145.01333618164062,
+            96.61507415771484
+          ],
+          [
+            296.8662109375,
+            96.61507415771484
+          ],
+          [
+            296.8662109375,
+            61.361141204833984
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A0667B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\header_128.txt"
+    },
+    {
+      "element_index": 129,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.7952823042869568,
+      "coordinates": {
+        "points": [
+          [
+            147.15757751464844,
+            140.8723602294922
+          ],
+          [
+            147.15757751464844,
+            198.33514404296875
+          ],
+          [
+            483.99993896484375,
+            198.33514404296875
+          ],
+          [
+            483.99993896484375,
+            140.8723602294922
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066990>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_129.txt"
+    },
+    {
+      "element_index": 130,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            525.0,
+            225.55555555555554
+          ],
+          [
+            525.0,
+            243.88888888888889
+          ],
+          [
+            1550.0,
+            243.88888888888889
+          ],
+          [
+            1550.0,
+            225.55555555555554
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F501D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_130.txt"
+    },
+    {
+      "element_index": 131,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            153.33333333333334,
+            227.77777777777777
+          ],
+          [
+            153.33333333333334,
+            245.0
+          ],
+          [
+            205.0,
+            245.0
+          ],
+          [
+            205.0,
+            227.77777777777777
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50B30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_131.txt"
+    },
+    {
+      "element_index": 132,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>PMI Manufacturing (Index)</th><th>58.1</th><th>57.5 |</th><th>56.5 |</th><th>57.5</th><th>56.5</th><th>56.4 |</th><th>57.7 |</th><th>56.3</th><th>58.1</th><th>58.2</th></tr></thead><tbody><tr><td>PMI Services (Index)</td><td>60.3</td><td>60.9 |</td><td>57.7 |</td><td>58.5 |</td><td>58.4</td><td>59.3 |</td><td>56.5</td><td>59.0</td><td>58.5 |</td><td>58.7 |</td></tr><tr><td>Industrial Production (% YoY)</td><td>5.0]</td><td>0.0|</td><td>3.2</td><td>3.7 | |</td><td>5.0</td><td>3.7|</td><td>52</td><td>27</td><td>3.9|</td><td>2.7 |</td></tr><tr><td>CPI (% YoY) GDP (% YoY)</td><td>3.6</td><td>3.65 | -|</td><td>5.49 | 5.6 |</td><td>6.21</td><td>5.48</td><td>5.22 | 6.4 |</td><td>4.26 -|</td><td>3.61</td><td>3.34 | 7.38 |</td><td>3.16 | |</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-10.jpg",
+      "detection_class_prob": 0.8064507246017456,
+      "coordinates": {
+        "points": [
+          [
+            144.9287567138672,
+            243.67774963378906
+          ],
+          [
+            144.9287567138672,
+            389.1179504394531
+          ],
+          [
+            1557.2073974609375,
+            389.1179504394531
+          ],
+          [
+            1557.2073974609375,
+            243.67774963378906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064E90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_132.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_132.html"
+    },
+    {
+      "element_index": 133,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            152.77777777777777,
+            414.44444444444446
+          ],
+          [
+            152.77777777777777,
+            441.1111111111111
+          ],
+          [
+            244.44444444444443,
+            441.1111111111111
+          ],
+          [
+            244.44444444444443,
+            414.44444444444446
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F500B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_133.txt"
+    },
+    {
+      "element_index": 134,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.40881258249282837,
+      "coordinates": {
+        "points": [
+          [
+            522.262939453125,
+            419.9444885253906
+          ],
+          [
+            522.262939453125,
+            437.73516845703125
+          ],
+          [
+            1548.0755615234375,
+            437.73516845703125
+          ],
+          [
+            1548.0755615234375,
+            419.9444885253906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A064710>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_134.txt"
+    },
+    {
+      "element_index": 135,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>Westpac Leading Indicator</th><th>96.98</th><th>96.94</th><th>96.95 |</th><th>97.1</th><th>97.17</th><th>97.18</th><th>97.28</th><th>97.35</th><th>97.2|</th><th>97.19</th><th>2</th><th></th></tr></thead><tbody><tr><td>Retail Sales (% YoY)</td><td>2.44 |</td><td>3.09 |</td><td>2.38 |</td><td>3.41 |</td><td>3.05 |</td><td>4.56</td><td>3.87</td><td>3.64 |</td><td>4.28 |</td><td>3.78</td><td>3.16</td><td></td></tr><tr><td>Unemployment Rate (%)</td><td>4.2 |</td><td>4.1 |</td><td>4.1 |</td><td>4.1 |</td><td>3.9 |</td><td>4.0</td><td>41</td><td>4.0 |</td><td>4.1 |</td><td>4.1</td><td>=</td><td>up</td></tr><tr><td>Housing Prices (% YoY)</td><td>8.3</td><td>7.76</td><td>7.33</td><td>6.59</td><td>6.06</td><td>5.43</td><td>4.8</td><td>4.48</td><td>4.28</td><td>3.86</td><td>3.55</td><td></td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-11.jpg",
+      "detection_class_prob": 0.8565768599510193,
+      "coordinates": {
+        "points": [
+          [
+            136.39849853515625,
+            442.6118469238281
+          ],
+          [
+            136.39849853515625,
+            581.2513427734375
+          ],
+          [
+            1561.695556640625,
+            581.2513427734375
+          ],
+          [
+            1561.695556640625,
+            442.6118469238281
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066870>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_135.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_135.html"
+    },
+    {
+      "element_index": 136,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.27267986536026,
+      "coordinates": {
+        "points": [
+          [
+            515.5042114257812,
+            612.6356201171875
+          ],
+          [
+            515.5042114257812,
+            630.8367919921875
+          ],
+          [
+            1553.541015625,
+            630.8367919921875
+          ],
+          [
+            1553.541015625,
+            612.6356201171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066C30>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_136.txt"
+    },
+    {
+      "element_index": 137,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>CPI (% YoY)</th><th>4.23</th><th>4.5</th><th>4.24</th><th>4.42 |</th><th>4.76</th><th>4.87</th><th>4.83</th><th>4.56</th><th>5.06 |</th><th>5.48</th><th>5.53</th><th>up</th></tr></thead><tbody><tr><td>‘Industrial Production (% YoY)</td><td>3.2</td><td>6.1</td><td>2.3</td><td>3.4</td><td>6.0</td><td>1.6</td><td>1.4</td><td>15</td><td>1.3]</td><td>3.1</td><td>.</td><td>up</td></tr><tr><td>Retail Sales (% YoY)</td><td>3.4|</td><td>3.8</td><td>4.6</td><td>1.6</td><td>6.0|</td><td>4.5</td><td>1.3</td><td>3.1</td><td>1.6</td><td>-1.0</td><td>=</td><td></td></tr><tr><td>Trade Balance (Millions, USD)</td><td>6328.14</td><td>7551.49|</td><td>4517.12|</td><td>5079.59| -53.77|</td><td>4091.22|</td><td>6746.53|</td><td>4635.89|</td><td>2289.73|</td><td>-471.61|</td><td>7757.03|</td><td>8153.37 —</td><td>up</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-12.jpg",
+      "detection_class_prob": 0.7899811267852783,
+      "coordinates": {
+        "points": [
+          [
+            142.21998596191406,
+            635.4193115234375
+          ],
+          [
+            142.21998596191406,
+            777.1663818359375
+          ],
+          [
+            1557.013427734375,
+            777.1663818359375
+          ],
+          [
+            1557.013427734375,
+            635.4193115234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002409A066B70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_137.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_137.html"
+    },
+    {
+      "element_index": 138,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            153.33333333333334,
+            801.6666666666666
+          ],
+          [
+            153.33333333333334,
+            827.7777777777777
+          ],
+          [
+            203.88888888888889,
+            827.7777777777777
+          ],
+          [
+            203.88888888888889,
+            801.6666666666666
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53E90>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_138.txt"
+    },
+    {
+      "element_index": 139,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.30726680159568787,
+      "coordinates": {
+        "points": [
+          [
+            511.9956359863281,
+            806.8885498046875
+          ],
+          [
+            511.9956359863281,
+            824.423583984375
+          ],
+          [
+            1551.779052734375,
+            824.423583984375
+          ],
+          [
+            1551.779052734375,
+            806.8885498046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50890>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_139.txt"
+    },
+    {
+      "element_index": 140,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>Economic Activity Index (% YoY)</th><th>-0.67</th><th>3.98</th><th>1.86</th><th>0.2</th><th>2.62</th><th>2.32</th><th>6.77</th><th>2.3</th><th>-0.12 |</th><th>3.76</th><th>:</th><th></th></tr></thead><tbody><tr><td>CPI (% YoY)</td><td>4.19 |</td><td>4.6</td><td>4.74</td><td>4.13 |</td><td>4.68 |</td><td>4.17</td><td>4.53</td><td>4.94 |</td><td>4.73 |</td><td>4.87 |</td><td>4.52</td><td>up</td></tr><tr><td>Retail Sales (% YoY)</td><td>8.06 |</td><td>2.45</td><td>6.14</td><td>3.49 |</td><td>4.17 |</td><td>6.16</td><td>5.78</td><td>7.55 |</td><td>2.74 |</td><td>72</td><td>4.5</td><td></td></tr><tr><td>Industrial Production (% YoY)</td><td>-1.2|</td><td>3.7</td><td>5.2</td><td>-0.36 |</td><td>3.43</td><td>1.06</td><td>8.77</td><td>1.97</td><td>-3.58 |</td><td>4.53 |</td><td>3.75</td><td></td></tr><tr><td>Unemployment (%)</td><td>8.3|</td><td>8.7</td><td>8.9</td><td>8.7 |</td><td>8.6 |</td><td>8.2</td><td>8.1</td><td>8.0</td><td>8.4|</td><td>8.7|</td><td>8.8</td><td>up</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-13.jpg",
+      "detection_class_prob": 0.8216644525527954,
+      "coordinates": {
+        "points": [
+          [
+            136.84075927734375,
+            827.3645629882812
+          ],
+          [
+            136.84075927734375,
+            970.223388671875
+          ],
+          [
+            1564.20263671875,
+            970.223388671875
+          ],
+          [
+            1564.20263671875,
+            827.3645629882812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50530>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_140.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_140.html"
+    },
+    {
+      "element_index": 141,
+      "element_type": "Text",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "coordinates": {
+        "points": [
+          [
+            153.88888888888889,
+            1003.8888888888889
+          ],
+          [
+            153.88888888888889,
+            1020.0
+          ],
+          [
+            224.44444444444443,
+            1020.0
+          ],
+          [
+            224.44444444444443,
+            1003.8888888888889
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53D10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\text_141.txt"
+    },
+    {
+      "element_index": 142,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.4122004806995392,
+      "coordinates": {
+        "points": [
+          [
+            526.4955444335938,
+            1000.9066162109375
+          ],
+          [
+            526.4955444335938,
+            1019.3689575195312
+          ],
+          [
+            1540.547607421875,
+            1019.3689575195312
+          ],
+          [
+            1540.547607421875,
+            1000.9066162109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F51010>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_142.txt"
+    },
+    {
+      "element_index": 143,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>PMI (Index)</th><th>48.73 |</th><th>47.05 |</th><th>48.28 |</th><th>48.73 |</th><th>47.0</th><th>47.79</th><th>47.51 |</th><th>45.91</th><th>46.9 |</th><th>46.88</th><th>45.54 |</th><th>down</th></tr></thead><tbody><tr><td>CPI (% YoY)</td><td>4.98 |</td><td>5.57 |</td><td>4.99 |</td><td>4.58 |</td><td>4.76</td><td>4.55</td><td>4.21 |</td><td>3.59</td><td>3.77 |</td><td>3.8</td><td>3.93 |</td><td>down</td></tr><tr><td>Retail Sales (% YoY)</td><td>=3i1 |</td><td>-0.6 |</td><td>-0.8 |</td><td>=125 |</td><td>“1.2</td><td>=1:9</td><td>-0.2 |</td><td>2.7</td><td>“1,1 |</td><td>4.3</td><td>= |</td><td>up</td></tr><tr><td>Industrial Production (% YoY)</td><td>-0.28 | |</td><td>2.18 | |</td><td>0.42 | |</td><td>0.72 | |</td><td>0.64</td><td>-0.17</td><td>-0.77 | |</td><td>-0.9</td><td>-0.25 | |</td><td>3.09</td><td>: | |</td><td>up</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-14.jpg",
+      "detection_class_prob": 0.8356630206108093,
+      "coordinates": {
+        "points": [
+          [
+            138.05682373046875,
+            1024.5594482421875
+          ],
+          [
+            138.05682373046875,
+            1165.6712646484375
+          ],
+          [
+            1564.751220703125,
+            1165.6712646484375
+          ],
+          [
+            1564.751220703125,
+            1024.5594482421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F509B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_143.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_143.html"
+    },
+    {
+      "element_index": 144,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.32845667004585266,
+      "coordinates": {
+        "points": [
+          [
+            1332.365234375,
+            1186.938720703125
+          ],
+          [
+            1332.365234375,
+            1201.6380615234375
+          ],
+          [
+            1582.28955078125,
+            1201.6380615234375
+          ],
+          [
+            1582.28955078125,
+            1186.938720703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F510D0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_144.txt"
+    },
+    {
+      "element_index": 145,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.26767024397850037,
+      "coordinates": {
+        "points": [
+          [
+            1404.0185546875,
+            1209.0792236328125
+          ],
+          [
+            1404.0185546875,
+            1224.240234375
+          ],
+          [
+            1515.2216796875,
+            1224.240234375
+          ],
+          [
+            1515.2216796875,
+            1209.0792236328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50830>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_145.txt"
+    },
+    {
+      "element_index": 146,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.6657754182815552,
+      "coordinates": {
+        "points": [
+          [
+            155.10748291015625,
+            1296.31201171875
+          ],
+          [
+            155.10748291015625,
+            1350.65771484375
+          ],
+          [
+            1391.3408203125,
+            1350.65771484375
+          ],
+          [
+            1391.3408203125,
+            1296.31201171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50770>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_146.txt"
+    },
+    {
+      "element_index": 147,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.4974973499774933,
+      "coordinates": {
+        "points": [
+          [
+            146.58204650878906,
+            1364.0145263671875
+          ],
+          [
+            146.58204650878906,
+            1398.064208984375
+          ],
+          [
+            568.7434692382812,
+            1398.064208984375
+          ],
+          [
+            568.7434692382812,
+            1364.0145263671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50C50>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_147.txt"
+    },
+    {
+      "element_index": 148,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.38944631814956665,
+      "coordinates": {
+        "points": [
+          [
+            890.415771484375,
+            1369.010498046875
+          ],
+          [
+            890.415771484375,
+            1397.28564453125
+          ],
+          [
+            1314.041015625,
+            1397.28564453125
+          ],
+          [
+            1314.041015625,
+            1369.010498046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50EF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_148.txt"
+    },
+    {
+      "element_index": 149,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><thead><tr><th>Country</th><th>Jun-2025</th><th>| iMago|</th><th>3M/ago|</th><th>12M ago</th></tr></thead><tbody><tr><td>K</td><td>22</td><td>19</td><td>27</td><td>-18</td></tr><tr><td></td><td>-414</td><td>-395</td><td>-375</td><td>-357</td></tr><tr><td></td><td>-290</td><td>-304</td><td>-283</td><td>-342</td></tr><tr><td></td><td>-271</td><td>-268</td><td>-243</td><td>-217</td></tr><tr><td>India</td><td>185</td><td>204</td><td>252</td><td>248</td></tr><tr><td></td><td>-164</td><td>-171</td><td>-150</td><td>-91</td></tr><tr><td></td><td>-88</td><td>-64</td><td>-41</td><td>-60</td></tr><tr><td></td><td>244</td><td>256</td><td>270</td><td>242</td></tr><tr><td></td><td>-263</td><td>-241</td><td>-206</td><td>-168</td></tr><tr><td>PI es</td><td>183</td><td>195</td><td>191</td><td>225</td></tr><tr><td></td><td>960</td><td>975</td><td>1105</td><td>738</td></tr><tr><td></td><td>492</td><td>Sil</td><td>530</td><td>528</td></tr><tr><td></td><td>140</td><td>139</td><td>a As |</td><td>160</td></tr><tr><td></td><td>795</td><td>803</td><td>723</td><td>650</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-15.jpg",
+      "detection_class_prob": 0.9301177859306335,
+      "coordinates": {
+        "points": [
+          [
+            143.9718780517578,
+            1438.03759765625
+          ],
+          [
+            143.9718780517578,
+            2116.396484375
+          ],
+          [
+            835.190185546875,
+            2116.396484375
+          ],
+          [
+            835.190185546875,
+            1438.03759765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F503B0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_149.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_149.html"
+    },
+    {
+      "element_index": 150,
+      "element_type": "Table",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "text_as_html": "<table><tbody><tr><td>France</td><td>66</td><td>71</td><td>73</td><td>47</td></tr><tr><td>[Netherlands|</td><td>21</td><td>23</td><td>19</td><td>28</td></tr><tr><td></td><td>52</td><td>59</td><td>58</td><td>54</td></tr><tr><td></td><td>38</td><td>43</td><td>42</td><td>49</td></tr><tr><td></td><td>28</td><td>35</td><td>27</td><td>37</td></tr><tr><td></td><td>98</td><td>110</td><td>113</td><td>131</td></tr><tr><td>Portugal</td><td>47</td><td>54</td><td>53</td><td>59</td></tr></tbody></table>",
+      "image_path": "data\\zurich_market_outlook\\images\\table-8-16.jpg",
+      "detection_class_prob": 0.9133868217468262,
+      "coordinates": {
+        "points": [
+          [
+            886.3491821289062,
+            1435.5174560546875
+          ],
+          [
+            886.3491821289062,
+            1778.3519287109375
+          ],
+          [
+            1575.331298828125,
+            1778.3519287109375
+          ],
+          [
+            1575.331298828125,
+            1435.5174560546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F502F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\tables\\table_150.txt",
+      "html_path": "data\\zurich_market_outlook\\tables\\table_150.html"
+    },
+    {
+      "element_index": 151,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.5477951765060425,
+      "coordinates": {
+        "points": [
+          [
+            1481.1324462890625,
+            1806.33984375
+          ],
+          [
+            1481.1324462890625,
+            1822.781494140625
+          ],
+          [
+            1590.1029052734375,
+            1822.781494140625
+          ],
+          [
+            1590.1029052734375,
+            1806.33984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50950>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_151.txt"
+    },
+    {
+      "element_index": 152,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.8183845281600952,
+      "coordinates": {
+        "points": [
+          [
+            161.13705444335938,
+            224.3094024658203
+          ],
+          [
+            161.13705444335938,
+            246.81472778320312
+          ],
+          [
+            536.0673828125,
+            246.81472778320312
+          ],
+          [
+            536.0673828125,
+            224.3094024658203
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F538F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_152.txt"
+    },
+    {
+      "element_index": 153,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9280382394790649,
+      "coordinates": {
+        "points": [
+          [
+            152.91831970214844,
+            266.62664794921875
+          ],
+          [
+            152.91831970214844,
+            337.3204345703125
+          ],
+          [
+            1114.5345458984375,
+            337.3204345703125
+          ],
+          [
+            1114.5345458984375,
+            266.62664794921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53950>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_153.txt"
+    },
+    {
+      "element_index": 154,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9434234499931335,
+      "coordinates": {
+        "points": [
+          [
+            162.26828002929688,
+            354.97662353515625
+          ],
+          [
+            162.26828002929688,
+            547.3240356445312
+          ],
+          [
+            1091.05029296875,
+            547.3240356445312
+          ],
+          [
+            1091.05029296875,
+            354.97662353515625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53830>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_154.txt"
+    },
+    {
+      "element_index": 155,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9290714859962463,
+      "coordinates": {
+        "points": [
+          [
+            150.38677978515625,
+            568.205078125
+          ],
+          [
+            150.38677978515625,
+            637.5079956054688
+          ],
+          [
+            1098.1046142578125,
+            637.5079956054688
+          ],
+          [
+            1098.1046142578125,
+            568.205078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53590>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_155.txt"
+    },
+    {
+      "element_index": 156,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9257590770721436,
+      "coordinates": {
+        "points": [
+          [
+            151.29331970214844,
+            658.2973022460938
+          ],
+          [
+            151.29331970214844,
+            726.892333984375
+          ],
+          [
+            1088.533447265625,
+            726.892333984375
+          ],
+          [
+            1088.533447265625,
+            658.2973022460938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F50D70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_156.txt"
+    },
+    {
+      "element_index": 157,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9357973337173462,
+      "coordinates": {
+        "points": [
+          [
+            152.23948669433594,
+            746.7186889648438
+          ],
+          [
+            152.23948669433594,
+            865.8392333984375
+          ],
+          [
+            1096.240478515625,
+            865.8392333984375
+          ],
+          [
+            1096.240478515625,
+            746.7186889648438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F535F0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_157.txt"
+    },
+    {
+      "element_index": 158,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9059181809425354,
+      "coordinates": {
+        "points": [
+          [
+            152.99246215820312,
+            885.1432495117188
+          ],
+          [
+            152.99246215820312,
+            929.8384399414062
+          ],
+          [
+            1087.729736328125,
+            929.8384399414062
+          ],
+          [
+            1087.729736328125,
+            885.1432495117188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53BF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_158.txt"
+    },
+    {
+      "element_index": 159,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9423716068267822,
+      "coordinates": {
+        "points": [
+          [
+            162.75790405273438,
+            948.79052734375
+          ],
+          [
+            162.75790405273438,
+            1142.54833984375
+          ],
+          [
+            1086.7479248046875,
+            1142.54833984375
+          ],
+          [
+            1086.7479248046875,
+            948.79052734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53050>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_159.txt"
+    },
+    {
+      "element_index": 160,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9163293242454529,
+      "coordinates": {
+        "points": [
+          [
+            152.03399658203125,
+            1162.7593994140625
+          ],
+          [
+            152.03399658203125,
+            1207.3489990234375
+          ],
+          [
+            1087.91748046875,
+            1207.3489990234375
+          ],
+          [
+            1087.91748046875,
+            1162.7593994140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F52E10>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_160.txt"
+    },
+    {
+      "element_index": 161,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9297763705253601,
+      "coordinates": {
+        "points": [
+          [
+            156.5118865966797,
+            1226.49609375
+          ],
+          [
+            156.5118865966797,
+            1369.8907470703125
+          ],
+          [
+            1084.0418701171875,
+            1369.8907470703125
+          ],
+          [
+            1084.0418701171875,
+            1226.49609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F52ED0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_161.txt"
+    },
+    {
+      "element_index": 162,
+      "element_type": "Title",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.43397149443626404,
+      "coordinates": {
+        "points": [
+          [
+            161.947265625,
+            1953.6688232421875
+          ],
+          [
+            161.947265625,
+            1975.362548828125
+          ],
+          [
+            445.5616760253906,
+            1975.362548828125
+          ],
+          [
+            445.5616760253906,
+            1953.6688232421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F53350>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\title_162.txt"
+    },
+    {
+      "element_index": 163,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.8059635758399963,
+      "coordinates": {
+        "points": [
+          [
+            159.6377716064453,
+            1986.9420166015625
+          ],
+          [
+            159.6377716064453,
+            2057.1865234375
+          ],
+          [
+            423.13800048828125,
+            2057.1865234375
+          ],
+          [
+            423.13800048828125,
+            1986.9420166015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F52E70>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_163.txt"
+    },
+    {
+      "element_index": 164,
+      "element_type": "NarrativeText",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.696574866771698,
+      "coordinates": {
+        "points": [
+          [
+            160.2086944580078,
+            2087.9150390625
+          ],
+          [
+            160.2086944580078,
+            2106.784423828125
+          ],
+          [
+            328.8203430175781,
+            2106.784423828125
+          ],
+          [
+            328.8203430175781,
+            2087.9150390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F52CF0>"
+      },
+      "content_path": "data\\zurich_market_outlook\\text\\narrativetext_164.txt"
+    },
+    {
+      "element_index": 165,
+      "element_type": "Image",
+      "filename": "zurich_market_outlook.pdf",
+      "page_number": 9,
+      "image_path": "data\\zurich_market_outlook\\images\\figure-9-21.jpg",
+      "detection_class_prob": 0.38278815150260925,
+      "coordinates": {
+        "points": [
+          [
+            1220.57421875,
+            2044.1031494140625
+          ],
+          [
+            1220.57421875,
+            2119.27001953125
+          ],
+          [
+            1570.4686279296875,
+            2119.27001953125
+          ],
+          [
+            1570.4686279296875,
+            2044.1031494140625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024099F52B10>"
+      }
+    }
+  ]
+}

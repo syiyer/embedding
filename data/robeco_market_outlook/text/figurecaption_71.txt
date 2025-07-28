@@ -1,0 +1,1 @@
+Source: Robeco, MSCI, STOXX, S&P Down Jones. Data as at May-2025.

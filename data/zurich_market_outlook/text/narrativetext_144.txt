@@ -1,0 +1,1 @@
+* Trend = Mean last 3m - Mean previous 3m

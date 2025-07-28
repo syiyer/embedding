@@ -1,0 +1,1 @@
+* Exposure is duration adjusted in portfolios ‘4 = Max asset class range over past 5 years

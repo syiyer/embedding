@@ -1,0 +1,3683 @@
+{
+  "filename": "ftd_market_outlook.pdf",
+  "extraction_date": "2025-07-18T03:25:35.417872",
+  "statistics": {
+    "text": 103,
+    "titles": 7,
+    "images": 15,
+    "tables": 3
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Header",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8172499537467957,
+      "coordinates": {
+        "points": [
+          [
+            363.718994140625,
+            106.27220153808594
+          ],
+          [
+            363.718994140625,
+            128.3948516845703
+          ],
+          [
+            727.7830810546875,
+            128.3948516845703
+          ],
+          [
+            727.7830810546875,
+            106.27220153808594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826B836B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\header_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            570.0,
+            253.0
+          ],
+          [
+            570.0,
+            296.0
+          ],
+          [
+            694.0,
+            296.0
+          ],
+          [
+            694.0,
+            253.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827D19910>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.4179665148258209,
+      "coordinates": {
+        "points": [
+          [
+            798.4052124023438,
+            227.98855590820312
+          ],
+          [
+            798.4052124023438,
+            313.2923889160156
+          ],
+          [
+            941.6815795898438,
+            313.2923889160156
+          ],
+          [
+            941.6815795898438,
+            227.98855590820312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218220AF1D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.3198091387748718,
+      "coordinates": {
+        "points": [
+          [
+            1047.865234375,
+            228.85020446777344
+          ],
+          [
+            1047.865234375,
+            314.8266906738281
+          ],
+          [
+            1167.722900390625,
+            314.8266906738281
+          ],
+          [
+            1167.722900390625,
+            228.85020446777344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002187D8BB750>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            1276.0,
+            230.0
+          ],
+          [
+            1276.0,
+            294.0
+          ],
+          [
+            1880.0,
+            294.0
+          ],
+          [
+            1880.0,
+            230.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827D19C70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            1568.0,
+            283.0
+          ],
+          [
+            1568.0,
+            307.0
+          ],
+          [
+            1603.0,
+            307.0
+          ],
+          [
+            1603.0,
+            283.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827D1BE90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.5178027153015137,
+      "coordinates": {
+        "points": [
+          [
+            407.20147705078125,
+            690.469970703125
+          ],
+          [
+            407.20147705078125,
+            741.7180786132812
+          ],
+          [
+            1505.3687744140625,
+            741.7180786132812
+          ],
+          [
+            1505.3687744140625,
+            690.469970703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827D29F60>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 1,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-1-1.jpg",
+      "detection_class_prob": 0.5178453922271729,
+      "coordinates": {
+        "points": [
+          [
+            392.760498046875,
+            725.90234375
+          ],
+          [
+            392.760498046875,
+            1549.2059326171875
+          ],
+          [
+            1834.532470703125,
+            1549.2059326171875
+          ],
+          [
+            1834.532470703125,
+            725.90234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827D1BD70>"
+      }
+    },
+    {
+      "element_index": 8,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8419967293739319,
+      "coordinates": {
+        "points": [
+          [
+            409.49139404296875,
+            425.38238525390625
+          ],
+          [
+            409.49139404296875,
+            454.9815979003906
+          ],
+          [
+            622.9513549804688,
+            454.9815979003906
+          ],
+          [
+            622.9513549804688,
+            425.38238525390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826C0EAB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.945582926273346,
+      "coordinates": {
+        "points": [
+          [
+            408.7138977050781,
+            554.7295532226562
+          ],
+          [
+            408.7138977050781,
+            790.5559692382812
+          ],
+          [
+            1798.4315185546875,
+            790.5559692382812
+          ],
+          [
+            1798.4315185546875,
+            554.7295532226562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BDA750>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9436413645744324,
+      "coordinates": {
+        "points": [
+          [
+            410.8022155761719,
+            888.1398315429688
+          ],
+          [
+            410.8022155761719,
+            1124.2403564453125
+          ],
+          [
+            1799.170654296875,
+            1124.2403564453125
+          ],
+          [
+            1799.170654296875,
+            888.1398315429688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BDB3B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9486945867538452,
+      "coordinates": {
+        "points": [
+          [
+            408.5989990234375,
+            1222.472900390625
+          ],
+          [
+            408.5989990234375,
+            1557.1444091796875
+          ],
+          [
+            1798.8018798828125,
+            1557.1444091796875
+          ],
+          [
+            1798.8018798828125,
+            1222.472900390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BDB350>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9498705267906189,
+      "coordinates": {
+        "points": [
+          [
+            411.22705078125,
+            380.8222961425781
+          ],
+          [
+            411.22705078125,
+            707.6184692382812
+          ],
+          [
+            1793.60498046875,
+            707.6184692382812
+          ],
+          [
+            1793.60498046875,
+            380.8222961425781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BDAC90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9522879123687744,
+      "coordinates": {
+        "points": [
+          [
+            406.79559326171875,
+            807.058349609375
+          ],
+          [
+            406.79559326171875,
+            1139.7528076171875
+          ],
+          [
+            1803.3426513671875,
+            1139.7528076171875
+          ],
+          [
+            1803.3426513671875,
+            807.058349609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BDAB10>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 4,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-4-2.jpg",
+      "detection_class_prob": 0.8524543642997742,
+      "coordinates": {
+        "points": [
+          [
+            402.3495178222656,
+            211.12705993652344
+          ],
+          [
+            402.3495178222656,
+            600.4900512695312
+          ],
+          [
+            1796.4443359375,
+            600.4900512695312
+          ],
+          [
+            1796.4443359375,
+            211.12705993652344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021826BD8830>"
+      }
+    },
+    {
+      "element_index": 15,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 4,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            645.0
+          ],
+          [
+            994.0,
+            678.0
+          ],
+          [
+            1200.0,
+            678.0
+          ],
+          [
+            1200.0,
+            645.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434290>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.947698712348938,
+      "coordinates": {
+        "points": [
+          [
+            407.1153564453125,
+            770.093505859375
+          ],
+          [
+            407.1153564453125,
+            1155.3973388671875
+          ],
+          [
+            1798.6845703125,
+            1155.3973388671875
+          ],
+          [
+            1798.6845703125,
+            770.093505859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274346B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 5,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-5-3.jpg",
+      "detection_class_prob": 0.8626287579536438,
+      "coordinates": {
+        "points": [
+          [
+            411.3183898925781,
+            214.57579040527344
+          ],
+          [
+            411.3183898925781,
+            603.7872924804688
+          ],
+          [
+            1793.337890625,
+            603.7872924804688
+          ],
+          [
+            1793.337890625,
+            214.57579040527344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274340B0>"
+      }
+    },
+    {
+      "element_index": 18,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 5,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            649.0
+          ],
+          [
+            994.0,
+            683.0
+          ],
+          [
+            1200.0,
+            683.0
+          ],
+          [
+            1200.0,
+            649.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434E90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9481362104415894,
+      "coordinates": {
+        "points": [
+          [
+            408.5404968261719,
+            776.8407592773438
+          ],
+          [
+            408.5404968261719,
+            1213.9010009765625
+          ],
+          [
+            1794.717041015625,
+            1213.9010009765625
+          ],
+          [
+            1794.717041015625,
+            776.8407592773438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434FB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.7746601104736328,
+      "coordinates": {
+        "points": [
+          [
+            410.37847900390625,
+            1310.5833740234375
+          ],
+          [
+            410.37847900390625,
+            1343.8671875
+          ],
+          [
+            989.7938232421875,
+            1343.8671875
+          ],
+          [
+            989.7938232421875,
+            1310.5833740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434B30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Table",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 5,
+      "text_as_html": "<table><thead><tr><th>Australia</th><th>RBA Meeting</th><th>10.12.2024</th></tr></thead><tbody><tr><td>Canada</td><td>BOC Meeting</td><td>11.12.2024</td></tr></tbody></table>",
+      "image_path": "data\\ftd_market_outlook\\images\\table-5-1.jpg",
+      "detection_class_prob": 0.8588541150093079,
+      "coordinates": {
+        "points": [
+          [
+            386.40509033203125,
+            1430.03173828125
+          ],
+          [
+            386.40509033203125,
+            1607.1259765625
+          ],
+          [
+            1795.1195068359375,
+            1607.1259765625
+          ],
+          [
+            1795.1195068359375,
+            1430.03173828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434170>"
+      },
+      "content_path": "data\\ftd_market_outlook\\tables\\table_21.txt",
+      "html_path": "data\\ftd_market_outlook\\tables\\table_21.html"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Table",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 6,
+      "text_as_html": "<table><tbody><tr><td>BOJ Meeting</td><td>19.12.2024</td></tr></tbody></table>",
+      "image_path": "data\\ftd_market_outlook\\images\\table-6-2.jpg",
+      "detection_class_prob": 0.5757414698600769,
+      "coordinates": {
+        "points": [
+          [
+            442.24871826171875,
+            375.7760314941406
+          ],
+          [
+            442.24871826171875,
+            511.5625
+          ],
+          [
+            1770.324462890625,
+            511.5625
+          ],
+          [
+            1770.324462890625,
+            375.7760314941406
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435430>"
+      },
+      "content_path": "data\\ftd_market_outlook\\tables\\table_22.txt",
+      "html_path": "data\\ftd_market_outlook\\tables\\table_22.html"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8140695691108704,
+      "coordinates": {
+        "points": [
+          [
+            413.2535705566406,
+            687.0048828125
+          ],
+          [
+            413.2535705566406,
+            718.0853271484375
+          ],
+          [
+            689.1022338867188,
+            718.0853271484375
+          ],
+          [
+            689.1022338867188,
+            687.0048828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434F50>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9332203269004822,
+      "coordinates": {
+        "points": [
+          [
+            402.90423583984375,
+            818.4415893554688
+          ],
+          [
+            402.90423583984375,
+            1052.8095703125
+          ],
+          [
+            1798.74609375,
+            1052.8095703125
+          ],
+          [
+            1798.74609375,
+            818.4415893554688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274347D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 7,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-7-4.jpg",
+      "detection_class_prob": 0.8493006229400635,
+      "coordinates": {
+        "points": [
+          [
+            417.3419494628906,
+            218.0733184814453
+          ],
+          [
+            417.3419494628906,
+            603.9269409179688
+          ],
+          [
+            1787.8671875,
+            603.9269409179688
+          ],
+          [
+            1787.8671875,
+            218.0733184814453
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434B90>"
+      }
+    },
+    {
+      "element_index": 26,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 7,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            649.0
+          ],
+          [
+            994.0,
+            683.0
+          ],
+          [
+            1200.0,
+            683.0
+          ],
+          [
+            1200.0,
+            649.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435A30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9458537101745605,
+      "coordinates": {
+        "points": [
+          [
+            408.5794372558594,
+            774.6458129882812
+          ],
+          [
+            408.5794372558594,
+            1111.432861328125
+          ],
+          [
+            1799.3826904296875,
+            1111.432861328125
+          ],
+          [
+            1799.3826904296875,
+            774.6458129882812
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435790>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 8,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-8-5.jpg",
+      "detection_class_prob": 0.8853052258491516,
+      "coordinates": {
+        "points": [
+          [
+            416.28167724609375,
+            214.22998046875
+          ],
+          [
+            416.28167724609375,
+            603.54443359375
+          ],
+          [
+            1796.4415283203125,
+            603.54443359375
+          ],
+          [
+            1796.4415283203125,
+            214.22998046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435610>"
+      }
+    },
+    {
+      "element_index": 29,
+      "element_type": "FigureCaption",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.6203519701957703,
+      "coordinates": {
+        "points": [
+          [
+            992.8751220703125,
+            648.236328125
+          ],
+          [
+            992.8751220703125,
+            681.9985961914062
+          ],
+          [
+            1204.5325927734375,
+            681.9985961914062
+          ],
+          [
+            1204.5325927734375,
+            648.236328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435AF0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\figurecaption_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 8,
+      "detection_class_prob": 0.9440210461616516,
+      "coordinates": {
+        "points": [
+          [
+            407.229736328125,
+            773.3953857421875
+          ],
+          [
+            407.229736328125,
+            1108.733154296875
+          ],
+          [
+            1802.5867919921875,
+            1108.733154296875
+          ],
+          [
+            1802.5867919921875,
+            773.3953857421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827434A70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 9,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-9-6.jpg",
+      "detection_class_prob": 0.869337797164917,
+      "coordinates": {
+        "points": [
+          [
+            401.9744873046875,
+            213.2551727294922
+          ],
+          [
+            401.9744873046875,
+            606.57080078125
+          ],
+          [
+            1787.766845703125,
+            606.57080078125
+          ],
+          [
+            1787.766845703125,
+            213.2551727294922
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274351F0>"
+      }
+    },
+    {
+      "element_index": 32,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 9,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            651.0
+          ],
+          [
+            994.0,
+            685.0
+          ],
+          [
+            1200.0,
+            685.0
+          ],
+          [
+            1200.0,
+            651.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435EB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9438422322273254,
+      "coordinates": {
+        "points": [
+          [
+            404.9907531738281,
+            775.8946533203125
+          ],
+          [
+            404.9907531738281,
+            1011.3786010742188
+          ],
+          [
+            1796.3524169921875,
+            1011.3786010742188
+          ],
+          [
+            1796.3524169921875,
+            775.8946533203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435910>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 9,
+      "detection_class_prob": 0.9492937922477722,
+      "coordinates": {
+        "points": [
+          [
+            407.3728942871094,
+            1109.7960205078125
+          ],
+          [
+            407.3728942871094,
+            1397.18017578125
+          ],
+          [
+            1802.547119140625,
+            1397.18017578125
+          ],
+          [
+            1802.547119140625,
+            1109.7960205078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436270>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_34.txt"
+    },
+    {
+      "element_index": 35,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 10,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-10-7.jpg",
+      "detection_class_prob": 0.8535510301589966,
+      "coordinates": {
+        "points": [
+          [
+            417.3516845703125,
+            213.75257873535156
+          ],
+          [
+            417.3516845703125,
+            585.9782104492188
+          ],
+          [
+            1785.681640625,
+            585.9782104492188
+          ],
+          [
+            1785.681640625,
+            213.75257873535156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274360F0>"
+      }
+    },
+    {
+      "element_index": 36,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 10,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            632.0
+          ],
+          [
+            994.0,
+            666.0
+          ],
+          [
+            1200.0,
+            666.0
+          ],
+          [
+            1200.0,
+            632.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274357F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.9369763731956482,
+      "coordinates": {
+        "points": [
+          [
+            409.78094482421875,
+            756.7899169921875
+          ],
+          [
+            409.78094482421875,
+            994.79931640625
+          ],
+          [
+            1794.0404052734375,
+            994.79931640625
+          ],
+          [
+            1794.0404052734375,
+            756.7899169921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435D30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 10,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-10-8.jpg",
+      "detection_class_prob": 0.9298776388168335,
+      "coordinates": {
+        "points": [
+          [
+            398.97015380859375,
+            1079.9427490234375
+          ],
+          [
+            398.97015380859375,
+            1607.3858642578125
+          ],
+          [
+            1798.8099365234375,
+            1607.3858642578125
+          ],
+          [
+            1798.8099365234375,
+            1079.9427490234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436030>"
+      }
+    },
+    {
+      "element_index": 39,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 10,
+      "detection_class_prob": 0.32344210147857666,
+      "coordinates": {
+        "points": [
+          [
+            1958.5284423828125,
+            228.96514892578125
+          ],
+          [
+            1958.5284423828125,
+            313.3010559082031
+          ],
+          [
+            2126.343994140625,
+            313.3010559082031
+          ],
+          [
+            2126.343994140625,
+            228.96514892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274343B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.9295920133590698,
+      "coordinates": {
+        "points": [
+          [
+            411.4051513671875,
+            386.37847900390625
+          ],
+          [
+            411.4051513671875,
+            622.2772827148438
+          ],
+          [
+            1794.0848388671875,
+            622.2772827148438
+          ],
+          [
+            1794.0848388671875,
+            386.37847900390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436C30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 11,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-11-9.jpg",
+      "detection_class_prob": 0.9302574396133423,
+      "coordinates": {
+        "points": [
+          [
+            404.21319580078125,
+            711.8823852539062
+          ],
+          [
+            404.21319580078125,
+            1216.7386474609375
+          ],
+          [
+            1792.159912109375,
+            1216.7386474609375
+          ],
+          [
+            1792.159912109375,
+            711.8823852539062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436930>"
+      }
+    },
+    {
+      "element_index": 42,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 11,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            1262.0
+          ],
+          [
+            994.0,
+            1296.0
+          ],
+          [
+            1200.0,
+            1296.0
+          ],
+          [
+            1200.0,
+            1262.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435B50>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 11,
+      "detection_class_prob": 0.926834225654602,
+      "coordinates": {
+        "points": [
+          [
+            409.1360778808594,
+            1389.0482177734375
+          ],
+          [
+            409.1360778808594,
+            1575.445556640625
+          ],
+          [
+            1795.1595458984375,
+            1575.445556640625
+          ],
+          [
+            1795.1595458984375,
+            1389.0482177734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274354F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 12,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-12-10.jpg",
+      "detection_class_prob": 0.8972665071487427,
+      "coordinates": {
+        "points": [
+          [
+            399.267578125,
+            264.7709655761719
+          ],
+          [
+            399.267578125,
+            835.8903198242188
+          ],
+          [
+            1800.3271484375,
+            835.8903198242188
+          ],
+          [
+            1800.3271484375,
+            264.7709655761719
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436C90>"
+      }
+    },
+    {
+      "element_index": 45,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 12,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            878.0
+          ],
+          [
+            994.0,
+            912.0
+          ],
+          [
+            1200.0,
+            912.0
+          ],
+          [
+            1200.0,
+            878.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827435C10>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 12,
+      "detection_class_prob": 0.9266249537467957,
+      "coordinates": {
+        "points": [
+          [
+            399.57012939453125,
+            1005.5303955078125
+          ],
+          [
+            399.57012939453125,
+            1190.619140625
+          ],
+          [
+            1803.609130859375,
+            1190.619140625
+          ],
+          [
+            1803.609130859375,
+            1005.5303955078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436F30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 13,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-13-11.jpg",
+      "detection_class_prob": 0.8413117527961731,
+      "coordinates": {
+        "points": [
+          [
+            411.1647644042969,
+            222.23739624023438
+          ],
+          [
+            411.1647644042969,
+            603.4446411132812
+          ],
+          [
+            1794.2415771484375,
+            603.4446411132812
+          ],
+          [
+            1794.2415771484375,
+            222.23739624023438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437110>"
+      }
+    },
+    {
+      "element_index": 48,
+      "element_type": "FigureCaption",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.6544548273086548,
+      "coordinates": {
+        "points": [
+          [
+            992.05517578125,
+            646.1214599609375
+          ],
+          [
+            992.05517578125,
+            679.6363525390625
+          ],
+          [
+            1204.7703857421875,
+            679.6363525390625
+          ],
+          [
+            1204.7703857421875,
+            646.1214599609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274374D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\figurecaption_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 13,
+      "detection_class_prob": 0.9396848082542419,
+      "coordinates": {
+        "points": [
+          [
+            402.03564453125,
+            770.7488403320312
+          ],
+          [
+            402.03564453125,
+            1007.5906372070312
+          ],
+          [
+            1811.049072265625,
+            1007.5906372070312
+          ],
+          [
+            1811.049072265625,
+            770.7488403320312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437770>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 13,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-13-12.jpg",
+      "detection_class_prob": 0.9326562285423279,
+      "coordinates": {
+        "points": [
+          [
+            396.35888671875,
+            1093.2169189453125
+          ],
+          [
+            396.35888671875,
+            1600.2030029296875
+          ],
+          [
+            1792.2757568359375,
+            1600.2030029296875
+          ],
+          [
+            1792.2757568359375,
+            1093.2169189453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437050>"
+      }
+    },
+    {
+      "element_index": 51,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.37259113788604736,
+      "coordinates": {
+        "points": [
+          [
+            409.0693664550781,
+            385.069091796875
+          ],
+          [
+            409.0693664550781,
+            408.2077331542969
+          ],
+          [
+            629.8264770507812,
+            408.2077331542969
+          ],
+          [
+            629.8264770507812,
+            385.069091796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437590>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 14,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-14-13.jpg",
+      "detection_class_prob": 0.9314169883728027,
+      "coordinates": {
+        "points": [
+          [
+            404.875732421875,
+            502.4914855957031
+          ],
+          [
+            404.875732421875,
+            1027.8809814453125
+          ],
+          [
+            1790.2615966796875,
+            1027.8809814453125
+          ],
+          [
+            1790.2615966796875,
+            502.4914855957031
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274373B0>"
+      }
+    },
+    {
+      "element_index": 53,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 14,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            1073.0
+          ],
+          [
+            994.0,
+            1106.0
+          ],
+          [
+            1200.0,
+            1106.0
+          ],
+          [
+            1200.0,
+            1073.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437470>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_53.txt"
+    },
+    {
+      "element_index": 54,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 14,
+      "detection_class_prob": 0.9326503276824951,
+      "coordinates": {
+        "points": [
+          [
+            406.01031494140625,
+            1198.2052001953125
+          ],
+          [
+            406.01031494140625,
+            1582.2779541015625
+          ],
+          [
+            1797.4796142578125,
+            1582.2779541015625
+          ],
+          [
+            1797.4796142578125,
+            1198.2052001953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437650>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 15,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-15-14.jpg",
+      "detection_class_prob": 0.8607534170150757,
+      "coordinates": {
+        "points": [
+          [
+            406.1763000488281,
+            218.74436950683594
+          ],
+          [
+            406.1763000488281,
+            607.2373657226562
+          ],
+          [
+            1799.3594970703125,
+            607.2373657226562
+          ],
+          [
+            1799.3594970703125,
+            218.74436950683594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437830>"
+      }
+    },
+    {
+      "element_index": 56,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 15,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            651.0
+          ],
+          [
+            994.0,
+            685.0
+          ],
+          [
+            1200.0,
+            685.0
+          ],
+          [
+            1200.0,
+            651.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274371D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 15,
+      "detection_class_prob": 0.9453465938568115,
+      "coordinates": {
+        "points": [
+          [
+            405.27618408203125,
+            776.0723266601562
+          ],
+          [
+            405.27618408203125,
+            1061.6378173828125
+          ],
+          [
+            1798.727783203125,
+            1061.6378173828125
+          ],
+          [
+            1798.727783203125,
+            776.0723266601562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827436630>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "Image",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 16,
+      "image_path": "data\\ftd_market_outlook\\images\\figure-16-15.jpg",
+      "detection_class_prob": 0.6755634546279907,
+      "coordinates": {
+        "points": [
+          [
+            401.20751953125,
+            379.0429992675781
+          ],
+          [
+            401.20751953125,
+            584.0209350585938
+          ],
+          [
+            1810.125732421875,
+            584.0209350585938
+          ],
+          [
+            1810.125732421875,
+            379.0429992675781
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437EF0>"
+      }
+    },
+    {
+      "element_index": 59,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 16,
+      "coordinates": {
+        "points": [
+          [
+            994.0,
+            630.0
+          ],
+          [
+            994.0,
+            664.0
+          ],
+          [
+            1200.0,
+            664.0
+          ],
+          [
+            1200.0,
+            630.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8470>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 16,
+      "detection_class_prob": 0.7086998820304871,
+      "coordinates": {
+        "points": [
+          [
+            442.95111083984375,
+            1104.521484375
+          ],
+          [
+            442.95111083984375,
+            1134.4754638671875
+          ],
+          [
+            698.5046997070312,
+            1134.4754638671875
+          ],
+          [
+            698.5046997070312,
+            1104.521484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000021827437FB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 16,
+      "coordinates": {
+        "points": [
+          [
+            1715.0,
+            1106.0
+          ],
+          [
+            1715.0,
+            1134.0
+          ],
+          [
+            1743.0,
+            1134.0
+          ],
+          [
+            1743.0,
+            1106.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C87D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "Header",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.8073403835296631,
+      "coordinates": {
+        "points": [
+          [
+            364.0679626464844,
+            106.28289031982422
+          ],
+          [
+            364.0679626464844,
+            128.4288330078125
+          ],
+          [
+            727.6268920898438,
+            128.4288330078125
+          ],
+          [
+            727.6268920898438,
+            106.28289031982422
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8830>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\header_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "Table",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "text_as_html": "<table><thead><tr><th>Markets</th><th>Trading Platform</th><th>News &amp; Insights</th><th>Partnership</th><th>About Us</th><th>Tradezor</th></tr></thead><tbody><tr><td>Indices</td><td></td><td></td><td></td><td></td><td>90</td></tr><tr><td>Markets</td><td></td><td></td><td></td><td></td><td>506</td></tr><tr><td>Monthly Market Outlook</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Technical Analysis</td><td></td><td></td><td></td><td></td><td>303</td></tr><tr><td>Technical Analysis</td><td></td><td></td><td></td><td></td><td>303</td></tr></tbody></table>",
+      "image_path": "data\\ftd_market_outlook\\images\\table-17-4.jpg",
+      "detection_class_prob": 0.6913877129554749,
+      "coordinates": {
+        "points": [
+          [
+            369.32940673828125,
+            214.45147705078125
+          ],
+          [
+            369.32940673828125,
+            808.1258544921875
+          ],
+          [
+            1854.544677734375,
+            808.1258544921875
+          ],
+          [
+            1854.544677734375,
+            214.45147705078125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C86B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\tables\\table_63.txt",
+      "html_path": "data\\ftd_market_outlook\\tables\\table_63.html"
+    },
+    {
+      "element_index": 64,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.6023487448692322,
+      "coordinates": {
+        "points": [
+          [
+            399.9754638671875,
+            957.845703125
+          ],
+          [
+            399.9754638671875,
+            990.0701293945312
+          ],
+          [
+            618.6769409179688,
+            990.0701293945312
+          ],
+          [
+            618.6769409179688,
+            957.845703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8D70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "coordinates": {
+        "points": [
+          [
+            415.0,
+            1088.0
+          ],
+          [
+            415.0,
+            1123.0
+          ],
+          [
+            1079.0,
+            1123.0
+          ],
+          [
+            1079.0,
+            1088.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8110>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.27703240513801575,
+      "coordinates": {
+        "points": [
+          [
+            411.045166015625,
+            1142.1953125
+          ],
+          [
+            411.045166015625,
+            1174.4114990234375
+          ],
+          [
+            619.0763549804688,
+            1174.4114990234375
+          ],
+          [
+            619.0763549804688,
+            1142.1953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8950>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.40264883637428284,
+      "coordinates": {
+        "points": [
+          [
+            413.7543029785156,
+            1250.1488037109375
+          ],
+          [
+            413.7543029785156,
+            1283.53759765625
+          ],
+          [
+            1080.87060546875,
+            1283.53759765625
+          ],
+          [
+            1080.87060546875,
+            1250.1488037109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C88F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.42270657420158386,
+      "coordinates": {
+        "points": [
+          [
+            412.8038635253906,
+            1306.06640625
+          ],
+          [
+            412.8038635253906,
+            1336.4302978515625
+          ],
+          [
+            632.5390625,
+            1336.4302978515625
+          ],
+          [
+            632.5390625,
+            1306.06640625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8EF0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.3074846863746643,
+      "coordinates": {
+        "points": [
+          [
+            408.9573974609375,
+            1412.3629150390625
+          ],
+          [
+            408.9573974609375,
+            1447.186279296875
+          ],
+          [
+            1091.722412109375,
+            1447.186279296875
+          ],
+          [
+            1091.722412109375,
+            1412.3629150390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8290>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.3676029145717621,
+      "coordinates": {
+        "points": [
+          [
+            412.7979431152344,
+            1466.513671875
+          ],
+          [
+            412.7979431152344,
+            1499.2431640625
+          ],
+          [
+            616.6064453125,
+            1499.2431640625
+          ],
+          [
+            616.6064453125,
+            1466.513671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8F50>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "Footer",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "detection_class_prob": 0.6859752535820007,
+      "coordinates": {
+        "points": [
+          [
+            412.5053405761719,
+            1574.579833984375
+          ],
+          [
+            412.5053405761719,
+            1608.537353515625
+          ],
+          [
+            1090.522216796875,
+            1608.537353515625
+          ],
+          [
+            1090.522216796875,
+            1574.579833984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8BF0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\footer_71.txt"
+    },
+    {
+      "element_index": 72,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 17,
+      "coordinates": {
+        "points": [
+          [
+            1985.0,
+            1540.0
+          ],
+          [
+            1985.0,
+            1615.0
+          ],
+          [
+            2106.0,
+            1615.0
+          ],
+          [
+            2106.0,
+            1540.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8A70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "Header",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "detection_class_prob": 0.8175004720687866,
+      "coordinates": {
+        "points": [
+          [
+            363.74652099609375,
+            106.53971862792969
+          ],
+          [
+            363.74652099609375,
+            128.38955688476562
+          ],
+          [
+            727.6488647460938,
+            128.38955688476562
+          ],
+          [
+            727.6488647460938,
+            106.53971862792969
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8E90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\header_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "detection_class_prob": 0.32023897767066956,
+      "coordinates": {
+        "points": [
+          [
+            563.918701171875,
+            256.50592041015625
+          ],
+          [
+            563.918701171875,
+            289.216064453125
+          ],
+          [
+            697.25146484375,
+            289.216064453125
+          ],
+          [
+            697.25146484375,
+            256.50592041015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9790>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_74.txt"
+    },
+    {
+      "element_index": 75,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            801.0,
+            229.0
+          ],
+          [
+            801.0,
+            307.0
+          ],
+          [
+            937.0,
+            307.0
+          ],
+          [
+            937.0,
+            229.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9670>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_75.txt"
+    },
+    {
+      "element_index": 76,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1046.0,
+            231.0
+          ],
+          [
+            1046.0,
+            255.0
+          ],
+          [
+            1163.0,
+            255.0
+          ],
+          [
+            1163.0,
+            231.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C92B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_76.txt"
+    },
+    {
+      "element_index": 77,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1046.0,
+            257.0
+          ],
+          [
+            1046.0,
+            316.0
+          ],
+          [
+            1459.0,
+            316.0
+          ],
+          [
+            1459.0,
+            257.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9730>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_77.txt"
+    },
+    {
+      "element_index": 78,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1567.0,
+            230.0
+          ],
+          [
+            1567.0,
+            282.0
+          ],
+          [
+            1880.0,
+            282.0
+          ],
+          [
+            1880.0,
+            230.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C90D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1568.0,
+            283.0
+          ],
+          [
+            1568.0,
+            307.0
+          ],
+          [
+            1603.0,
+            307.0
+          ],
+          [
+            1603.0,
+            283.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C98B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_79.txt"
+    },
+    {
+      "element_index": 80,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "detection_class_prob": 0.27100950479507446,
+      "coordinates": {
+        "points": [
+          [
+            398.2055358886719,
+            469.2220764160156
+          ],
+          [
+            398.2055358886719,
+            496.7317199707031
+          ],
+          [
+            595.5789794921875,
+            496.7317199707031
+          ],
+          [
+            595.5789794921875,
+            469.2220764160156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9130>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            427.0,
+            605.0
+          ],
+          [
+            427.0,
+            628.0
+          ],
+          [
+            511.0,
+            628.0
+          ],
+          [
+            511.0,
+            605.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8590>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_81.txt"
+    },
+    {
+      "element_index": 82,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            577.0,
+            604.0
+          ],
+          [
+            577.0,
+            628.0
+          ],
+          [
+            630.0,
+            628.0
+          ],
+          [
+            630.0,
+            604.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9430>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            696.0,
+            598.0
+          ],
+          [
+            696.0,
+            641.0
+          ],
+          [
+            1258.0,
+            641.0
+          ],
+          [
+            1258.0,
+            598.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9970>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1326.0,
+            605.0
+          ],
+          [
+            1326.0,
+            628.0
+          ],
+          [
+            1359.0,
+            628.0
+          ],
+          [
+            1359.0,
+            605.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C96D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1425.0,
+            602.0
+          ],
+          [
+            1425.0,
+            628.0
+          ],
+          [
+            1682.0,
+            628.0
+          ],
+          [
+            1682.0,
+            602.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8CB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            352.0,
+            908.0
+          ],
+          [
+            352.0,
+            945.0
+          ],
+          [
+            444.0,
+            945.0
+          ],
+          [
+            444.0,
+            908.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9610>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            534.0,
+            905.0
+          ],
+          [
+            534.0,
+            935.0
+          ],
+          [
+            692.0,
+            935.0
+          ],
+          [
+            692.0,
+            905.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C91F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            801.0,
+            908.0
+          ],
+          [
+            801.0,
+            935.0
+          ],
+          [
+            961.0,
+            935.0
+          ],
+          [
+            961.0,
+            908.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9550>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1349.0,
+            907.0
+          ],
+          [
+            1349.0,
+            935.0
+          ],
+          [
+            1459.0,
+            935.0
+          ],
+          [
+            1459.0,
+            907.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9850>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_89.txt"
+    },
+    {
+      "element_index": 90,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "coordinates": {
+        "points": [
+          [
+            1546.0,
+            901.0
+          ],
+          [
+            1546.0,
+            943.0
+          ],
+          [
+            1569.0,
+            943.0
+          ],
+          [
+            1569.0,
+            901.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9A90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 18,
+      "detection_class_prob": 0.3909076154232025,
+      "coordinates": {
+        "points": [
+          [
+            501.7703552246094,
+            1366.1702880859375
+          ],
+          [
+            501.7703552246094,
+            1518.3231201171875
+          ],
+          [
+            1649.39111328125,
+            1518.3231201171875
+          ],
+          [
+            1649.39111328125,
+            1366.1702880859375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8650>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_91.txt"
+    },
+    {
+      "element_index": 92,
+      "element_type": "Header",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.8155063390731812,
+      "coordinates": {
+        "points": [
+          [
+            362.4363098144531,
+            106.00021362304688
+          ],
+          [
+            362.4363098144531,
+            128.7303924560547
+          ],
+          [
+            728.0517578125,
+            128.7303924560547
+          ],
+          [
+            728.0517578125,
+            106.00021362304688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9F10>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\header_92.txt"
+    },
+    {
+      "element_index": 93,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            570.0,
+            253.0
+          ],
+          [
+            570.0,
+            294.0
+          ],
+          [
+            694.0,
+            294.0
+          ],
+          [
+            694.0,
+            253.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA870>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_93.txt"
+    },
+    {
+      "element_index": 94,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.27432847023010254,
+      "coordinates": {
+        "points": [
+          [
+            800.0007934570312,
+            228.62890625
+          ],
+          [
+            800.0007934570312,
+            314.1070556640625
+          ],
+          [
+            939.1322631835938,
+            314.1070556640625
+          ],
+          [
+            939.1322631835938,
+            228.62890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9BB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_94.txt"
+    },
+    {
+      "element_index": 95,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            1046.0,
+            230.0
+          ],
+          [
+            1046.0,
+            316.0
+          ],
+          [
+            1880.0,
+            316.0
+          ],
+          [
+            1880.0,
+            230.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9F70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_95.txt"
+    },
+    {
+      "element_index": 96,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            1046.0,
+            231.0
+          ],
+          [
+            1046.0,
+            255.0
+          ],
+          [
+            1164.0,
+            255.0
+          ],
+          [
+            1164.0,
+            231.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA5D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_96.txt"
+    },
+    {
+      "element_index": 97,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            1568.0,
+            283.0
+          ],
+          [
+            1568.0,
+            307.0
+          ],
+          [
+            1603.0,
+            307.0
+          ],
+          [
+            1603.0,
+            283.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA150>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_97.txt"
+    },
+    {
+      "element_index": 98,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            348.0,
+            402.0
+          ],
+          [
+            348.0,
+            470.0
+          ],
+          [
+            618.0,
+            470.0
+          ],
+          [
+            618.0,
+            402.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9CD0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_98.txt"
+    },
+    {
+      "element_index": 99,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            812.0,
+            460.0
+          ],
+          [
+            812.0,
+            476.0
+          ],
+          [
+            923.0,
+            476.0
+          ],
+          [
+            923.0,
+            460.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA8D0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_99.txt"
+    },
+    {
+      "element_index": 100,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            809.0,
+            489.0
+          ],
+          [
+            809.0,
+            504.0
+          ],
+          [
+            925.0,
+            504.0
+          ],
+          [
+            925.0,
+            489.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA3F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_100.txt"
+    },
+    {
+      "element_index": 101,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.7877467274665833,
+      "coordinates": {
+        "points": [
+          [
+            992.1209106445312,
+            623.410888671875
+          ],
+          [
+            992.1209106445312,
+            650.8905639648438
+          ],
+          [
+            1148.68359375,
+            650.8905639648438
+          ],
+          [
+            1148.68359375,
+            623.410888671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C8B30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_101.txt"
+    },
+    {
+      "element_index": 102,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.9437039494514465,
+      "coordinates": {
+        "points": [
+          [
+            313.24700927734375,
+            744.6343383789062
+          ],
+          [
+            313.24700927734375,
+            1024.4871826171875
+          ],
+          [
+            1819.3427734375,
+            1024.4871826171875
+          ],
+          [
+            1819.3427734375,
+            744.6343383789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA810>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_102.txt"
+    },
+    {
+      "element_index": 103,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.3940306603908539,
+      "coordinates": {
+        "points": [
+          [
+            578.7457275390625,
+            1373.8958740234375
+          ],
+          [
+            578.7457275390625,
+            1466.42529296875
+          ],
+          [
+            744.5381469726562,
+            1466.42529296875
+          ],
+          [
+            744.5381469726562,
+            1373.8958740234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA270>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_103.txt"
+    },
+    {
+      "element_index": 104,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            585.0,
+            1488.0
+          ],
+          [
+            585.0,
+            1540.0
+          ],
+          [
+            693.0,
+            1540.0
+          ],
+          [
+            693.0,
+            1488.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAB10>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_104.txt"
+    },
+    {
+      "element_index": 105,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.26337674260139465,
+      "coordinates": {
+        "points": [
+          [
+            909.9343872070312,
+            1373.7652587890625
+          ],
+          [
+            909.9343872070312,
+            1473.98095703125
+          ],
+          [
+            1100.3172607421875,
+            1473.98095703125
+          ],
+          [
+            1100.3172607421875,
+            1373.7652587890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAA50>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_105.txt"
+    },
+    {
+      "element_index": 106,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.2686755061149597,
+      "coordinates": {
+        "points": [
+          [
+            914.9427490234375,
+            1487.6448974609375
+          ],
+          [
+            914.9427490234375,
+            1523.6385498046875
+          ],
+          [
+            1131.8248291015625,
+            1523.6385498046875
+          ],
+          [
+            1131.8248291015625,
+            1487.6448974609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA030>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_106.txt"
+    },
+    {
+      "element_index": 107,
+      "element_type": "Title",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.3648099899291992,
+      "coordinates": {
+        "points": [
+          [
+            1240.0321044921875,
+            1373.4061279296875
+          ],
+          [
+            1240.0321044921875,
+            1478.5782470703125
+          ],
+          [
+            1409.5594482421875,
+            1478.5782470703125
+          ],
+          [
+            1409.5594482421875,
+            1373.4061279296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9FD0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\title_107.txt"
+    },
+    {
+      "element_index": 108,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            1242.0,
+            1488.0
+          ],
+          [
+            1242.0,
+            1573.0
+          ],
+          [
+            1438.0,
+            1573.0
+          ],
+          [
+            1438.0,
+            1488.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274C9D90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_108.txt"
+    },
+    {
+      "element_index": 109,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            1596.0,
+            1374.0
+          ],
+          [
+            1596.0,
+            1417.0
+          ],
+          [
+            1853.0,
+            1417.0
+          ],
+          [
+            1853.0,
+            1374.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA750>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_109.txt"
+    },
+    {
+      "element_index": 110,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "detection_class_prob": 0.29932594299316406,
+      "coordinates": {
+        "points": [
+          [
+            1595.5975341796875,
+            1421.52490234375
+          ],
+          [
+            1595.5975341796875,
+            1523.1551513671875
+          ],
+          [
+            1786.3714599609375,
+            1523.1551513671875
+          ],
+          [
+            1786.3714599609375,
+            1421.52490234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA330>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_110.txt"
+    },
+    {
+      "element_index": 111,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 19,
+      "coordinates": {
+        "points": [
+          [
+            586.0,
+            1569.0
+          ],
+          [
+            586.0,
+            1594.0
+          ],
+          [
+            698.0,
+            1594.0
+          ],
+          [
+            698.0,
+            1569.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAED0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_111.txt"
+    },
+    {
+      "element_index": 112,
+      "element_type": "Header",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.8123157620429993,
+      "coordinates": {
+        "points": [
+          [
+            363.9081726074219,
+            106.60121154785156
+          ],
+          [
+            363.9081726074219,
+            128.36172485351562
+          ],
+          [
+            728.0390625,
+            128.36172485351562
+          ],
+          [
+            728.0390625,
+            106.60121154785156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB110>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\header_112.txt"
+    },
+    {
+      "element_index": 113,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            570.0,
+            253.0
+          ],
+          [
+            570.0,
+            296.0
+          ],
+          [
+            694.0,
+            296.0
+          ],
+          [
+            694.0,
+            253.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAF90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_113.txt"
+    },
+    {
+      "element_index": 114,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.42381367087364197,
+      "coordinates": {
+        "points": [
+          [
+            798.0336303710938,
+            228.3524627685547
+          ],
+          [
+            798.0336303710938,
+            314.51763916015625
+          ],
+          [
+            940.5963134765625,
+            314.51763916015625
+          ],
+          [
+            940.5963134765625,
+            228.3524627685547
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAAB0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_114.txt"
+    },
+    {
+      "element_index": 115,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.3786937892436981,
+      "coordinates": {
+        "points": [
+          [
+            1047.5152587890625,
+            230.0798797607422
+          ],
+          [
+            1047.5152587890625,
+            315.3199157714844
+          ],
+          [
+            1167.949951171875,
+            315.3199157714844
+          ],
+          [
+            1167.949951171875,
+            230.0798797607422
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAC90>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_115.txt"
+    },
+    {
+      "element_index": 116,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.43100547790527344,
+      "coordinates": {
+        "points": [
+          [
+            400.7558898925781,
+            904.8286743164062
+          ],
+          [
+            400.7558898925781,
+            946.5238647460938
+          ],
+          [
+            1122.197509765625,
+            946.5238647460938
+          ],
+          [
+            1122.197509765625,
+            904.8286743164062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB530>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_116.txt"
+    },
+    {
+      "element_index": 117,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            354.0,
+            908.0
+          ],
+          [
+            354.0,
+            937.0
+          ],
+          [
+            418.0,
+            937.0
+          ],
+          [
+            418.0,
+            908.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CBAD0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_117.txt"
+    },
+    {
+      "element_index": 118,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.6675693392753601,
+      "coordinates": {
+        "points": [
+          [
+            345.7191467285156,
+            1035.750732421875
+          ],
+          [
+            345.7191467285156,
+            1066.377685546875
+          ],
+          [
+            905.0640869140625,
+            1066.377685546875
+          ],
+          [
+            905.0640869140625,
+            1035.750732421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CBD70>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_118.txt"
+    },
+    {
+      "element_index": 119,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1276.0,
+            257.0
+          ],
+          [
+            1276.0,
+            290.0
+          ],
+          [
+            1459.0,
+            290.0
+          ],
+          [
+            1459.0,
+            257.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB410>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_119.txt"
+    },
+    {
+      "element_index": 120,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.3329891860485077,
+      "coordinates": {
+        "points": [
+          [
+            1240.488525390625,
+            395.8513488769531
+          ],
+          [
+            1240.488525390625,
+            429.5526123046875
+          ],
+          [
+            1373.1085205078125,
+            429.5526123046875
+          ],
+          [
+            1373.1085205078125,
+            395.8513488769531
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB950>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_120.txt"
+    },
+    {
+      "element_index": 121,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.2780626714229584,
+      "coordinates": {
+        "points": [
+          [
+            1238.8984375,
+            463.1191101074219
+          ],
+          [
+            1238.8984375,
+            554.9242553710938
+          ],
+          [
+            1400.4342041015625,
+            554.9242553710938
+          ],
+          [
+            1400.4342041015625,
+            463.1191101074219
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CA990>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_121.txt"
+    },
+    {
+      "element_index": 122,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1243.0,
+            586.0
+          ],
+          [
+            1243.0,
+            620.0
+          ],
+          [
+            1369.0,
+            620.0
+          ],
+          [
+            1369.0,
+            586.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CAF30>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_122.txt"
+    },
+    {
+      "element_index": 123,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1243.0,
+            643.0
+          ],
+          [
+            1243.0,
+            668.0
+          ],
+          [
+            1486.0,
+            668.0
+          ],
+          [
+            1486.0,
+            643.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB3B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_123.txt"
+    },
+    {
+      "element_index": 124,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1241.0,
+            709.0
+          ],
+          [
+            1241.0,
+            743.0
+          ],
+          [
+            1363.0,
+            743.0
+          ],
+          [
+            1363.0,
+            709.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB8F0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_124.txt"
+    },
+    {
+      "element_index": 125,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1242.0,
+            766.0
+          ],
+          [
+            1242.0,
+            799.0
+          ],
+          [
+            1382.0,
+            799.0
+          ],
+          [
+            1382.0,
+            766.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB170>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_125.txt"
+    },
+    {
+      "element_index": 126,
+      "element_type": "NarrativeText",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "detection_class_prob": 0.2584146559238434,
+      "coordinates": {
+        "points": [
+          [
+            1562.9755859375,
+            228.5011444091797
+          ],
+          [
+            1562.9755859375,
+            314.56378173828125
+          ],
+          [
+            1654.8240966796875,
+            314.56378173828125
+          ],
+          [
+            1654.8240966796875,
+            228.5011444091797
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB290>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\narrativetext_126.txt"
+    },
+    {
+      "element_index": 127,
+      "element_type": "Text",
+      "filename": "ftd_market_outlook.pdf",
+      "page_number": 20,
+      "coordinates": {
+        "points": [
+          [
+            1709.0,
+            253.0
+          ],
+          [
+            1709.0,
+            287.0
+          ],
+          [
+            1948.0,
+            287.0
+          ],
+          [
+            1948.0,
+            253.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000218274CB6B0>"
+      },
+      "content_path": "data\\ftd_market_outlook\\text\\text_127.txt"
+    }
+  ]
+}

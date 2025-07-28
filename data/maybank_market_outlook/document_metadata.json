@@ -1,0 +1,2788 @@
+{
+  "filename": "maybank_market_outlook.pdf",
+  "extraction_date": "2025-07-24T06:37:24.678725",
+  "statistics": {
+    "text": 68,
+    "titles": 21,
+    "images": 5,
+    "tables": 2
+  },
+  "elements_metadata": [
+    {
+      "element_index": 0,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.6057910323143005,
+      "coordinates": {
+        "points": [
+          [
+            478.2514343261719,
+            51.78062438964844
+          ],
+          [
+            478.2514343261719,
+            118.77568817138672
+          ],
+          [
+            1449.2581787109375,
+            118.77568817138672
+          ],
+          [
+            1449.2581787109375,
+            51.78062438964844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D610>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_0.txt"
+    },
+    {
+      "element_index": 1,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.6881998181343079,
+      "coordinates": {
+        "points": [
+          [
+            486.75738525390625,
+            159.8452606201172
+          ],
+          [
+            486.75738525390625,
+            202.27493286132812
+          ],
+          [
+            649.499755859375,
+            202.27493286132812
+          ],
+          [
+            649.499755859375,
+            159.8452606201172
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E9C0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_1.txt"
+    },
+    {
+      "element_index": 2,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8424708843231201,
+      "coordinates": {
+        "points": [
+          [
+            67.79393005371094,
+            202.08790588378906
+          ],
+          [
+            67.79393005371094,
+            240.5548095703125
+          ],
+          [
+            309.2120056152344,
+            240.5548095703125
+          ],
+          [
+            309.2120056152344,
+            202.08790588378906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CCE0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_2.txt"
+    },
+    {
+      "element_index": 3,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            71.0,
+            253.0
+          ],
+          [
+            71.0,
+            262.0
+          ],
+          [
+            80.0,
+            262.0
+          ],
+          [
+            80.0,
+            253.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E540>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_3.txt"
+    },
+    {
+      "element_index": 4,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9470937848091125,
+      "coordinates": {
+        "points": [
+          [
+            81.34522247314453,
+            243.52420043945312
+          ],
+          [
+            81.34522247314453,
+            460.2588195800781
+          ],
+          [
+            900.7300415039062,
+            460.2588195800781
+          ],
+          [
+            900.7300415039062,
+            243.52420043945312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D790>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_4.txt"
+    },
+    {
+      "element_index": 5,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9051518440246582,
+      "coordinates": {
+        "points": [
+          [
+            72.6613540649414,
+            490.7801818847656
+          ],
+          [
+            72.6613540649414,
+            643.6972045898438
+          ],
+          [
+            902.350341796875,
+            643.6972045898438
+          ],
+          [
+            902.350341796875,
+            490.7801818847656
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D370>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_5.txt"
+    },
+    {
+      "element_index": 6,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9129382371902466,
+      "coordinates": {
+        "points": [
+          [
+            67.52552032470703,
+            680.0556030273438
+          ],
+          [
+            67.52552032470703,
+            824.245361328125
+          ],
+          [
+            907.0623779296875,
+            824.245361328125
+          ],
+          [
+            907.0623779296875,
+            680.0556030273438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D850>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_6.txt"
+    },
+    {
+      "element_index": 7,
+      "element_type": "Table",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "text_as_html": "<table><tbody><tr><td rowspan=\"4\">Equity</td><td></td><td>US.</td><td>=</td></tr><tr><td></td><td>Europe</td><td>=</td></tr><tr><td></td><td>Japan</td><td>-</td></tr><tr><td></td><td>Asia ex-Japan</td><td>+</td></tr><tr><td rowspan=\"4\">Fixed Income</td><td>=</td><td>U.S. Treasuries</td><td>+</td></tr><tr><td></td><td>Developed Market (DM) Investment Grade (IG)</td><td></td></tr><tr><td></td><td>Developed Market High Yield (HY)</td><td></td></tr><tr><td></td><td>Emerging Market (EM) Asia</td><td>=</td></tr><tr><td>Hedge Funds</td><td></td><td></td><td></td></tr><tr><td>Gold</td><td>+</td><td></td><td></td></tr><tr><td>Cash</td><td>=</td><td></td><td></td></tr></tbody></table>",
+      "image_path": "data\\maybank_market_outlook\\images\\table-1-1.jpg",
+      "detection_class_prob": 0.8856378197669983,
+      "coordinates": {
+        "points": [
+          [
+            932.5985717773438,
+            221.76345825195312
+          ],
+          [
+            932.5985717773438,
+            824.8508911132812
+          ],
+          [
+            1629.915283203125,
+            824.8508911132812
+          ],
+          [
+            1629.915283203125,
+            221.76345825195312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777EC60>"
+      },
+      "content_path": "data\\maybank_market_outlook\\tables\\table_7.txt",
+      "html_path": "data\\maybank_market_outlook\\tables\\table_7.html"
+    },
+    {
+      "element_index": 8,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8612893223762512,
+      "coordinates": {
+        "points": [
+          [
+            72.6977310180664,
+            861.3148803710938
+          ],
+          [
+            72.6977310180664,
+            899.558349609375
+          ],
+          [
+            763.6271362304688,
+            899.558349609375
+          ],
+          [
+            763.6271362304688,
+            861.3148803710938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777FEF0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_8.txt"
+    },
+    {
+      "element_index": 9,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.7988168001174927,
+      "coordinates": {
+        "points": [
+          [
+            941.04931640625,
+            840.2442016601562
+          ],
+          [
+            941.04931640625,
+            896.1953125
+          ],
+          [
+            1597.9432373046875,
+            896.1953125
+          ],
+          [
+            1597.9432373046875,
+            840.2442016601562
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E210>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_9.txt"
+    },
+    {
+      "element_index": 10,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9530444741249084,
+      "coordinates": {
+        "points": [
+          [
+            79.69334411621094,
+            905.3494262695312
+          ],
+          [
+            79.69334411621094,
+            1119.5018310546875
+          ],
+          [
+            901.4686279296875,
+            1119.5018310546875
+          ],
+          [
+            901.4686279296875,
+            905.3494262695312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C5C0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_10.txt"
+    },
+    {
+      "element_index": 11,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            71.0,
+            914.0
+          ],
+          [
+            71.0,
+            923.0
+          ],
+          [
+            80.0,
+            923.0
+          ],
+          [
+            80.0,
+            914.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CE30>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_11.txt"
+    },
+    {
+      "element_index": 12,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9467575550079346,
+      "coordinates": {
+        "points": [
+          [
+            77.41065979003906,
+            1158.4888916015625
+          ],
+          [
+            77.41065979003906,
+            1339.6229248046875
+          ],
+          [
+            905.6773681640625,
+            1339.6229248046875
+          ],
+          [
+            905.6773681640625,
+            1158.4888916015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F5C0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_12.txt"
+    },
+    {
+      "element_index": 13,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            71.0,
+            1171.0
+          ],
+          [
+            71.0,
+            1180.0
+          ],
+          [
+            80.0,
+            1180.0
+          ],
+          [
+            80.0,
+            1171.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D400>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_13.txt"
+    },
+    {
+      "element_index": 14,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.9476087093353271,
+      "coordinates": {
+        "points": [
+          [
+            75.0772476196289,
+            1378.8143310546875
+          ],
+          [
+            75.0772476196289,
+            1671.3126220703125
+          ],
+          [
+            916.0941772460938,
+            1671.3126220703125
+          ],
+          [
+            916.0941772460938,
+            1378.8143310546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F860>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_14.txt"
+    },
+    {
+      "element_index": 15,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.8839113712310791,
+      "coordinates": {
+        "points": [
+          [
+            66.39138793945312,
+            1709.79296875
+          ],
+          [
+            66.39138793945312,
+            1853.7310791015625
+          ],
+          [
+            909.4699096679688,
+            1853.7310791015625
+          ],
+          [
+            909.4699096679688,
+            1709.79296875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E090>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_15.txt"
+    },
+    {
+      "element_index": 16,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.87674880027771,
+      "coordinates": {
+        "points": [
+          [
+            62.97366714477539,
+            1891.3228759765625
+          ],
+          [
+            62.97366714477539,
+            2073.399658203125
+          ],
+          [
+            907.9853515625,
+            2073.399658203125
+          ],
+          [
+            907.9853515625,
+            1891.3228759765625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D5E0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_16.txt"
+    },
+    {
+      "element_index": 17,
+      "element_type": "Table",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "text_as_html": "<table><tbody><tr><td>MSCI AC World</td><td>1.0%</td><td>-3.5%</td><td>-0.3%</td></tr><tr><td>MSCIUSA</td><td>-0.5%</td><td>-7.8%</td><td>-5.0%</td></tr><tr><td>MSCI Europe</td><td>45%</td><td>8.2%</td><td>15.7%</td></tr><tr><td>MSCI Japan</td><td>5.2%</td><td>41%</td><td>5.8%</td></tr><tr><td>MSCI Asia ex-Japan</td><td>0.8%</td><td>1.9%</td><td>2.7%</td></tr><tr><td>China</td><td>-4.2%</td><td>9.1%</td><td>10.2%</td></tr><tr><td>Hong Kong</td><td>0.0%</td><td>6.9%</td><td>44%</td></tr><tr><td>Taiwan</td><td>24%</td><td>-13.3%</td><td>-10.4%</td></tr><tr><td>South Korea</td><td>47%</td><td>3.6%</td><td>10.1%</td></tr><tr><td>India</td><td>48%</td><td>5.5%</td><td>1.8%</td></tr><tr><td>Singapore</td><td>11%</td><td>6.0%</td><td>10.8%</td></tr><tr><td>Malaysia</td><td>4.3%</td><td>2.9%</td><td>-2.0%</td></tr><tr><td>Indonesia</td><td>44%</td><td>-6.2%</td><td>-71%</td></tr><tr><td>Thailand</td><td>7.3%</td><td>-41%</td><td>-7.3h</td></tr><tr><td>Philippines</td><td>5.5%</td><td>16.6%</td><td>5.2%</td></tr><tr><td>BBG Multiverse</td><td>2.9%</td><td>4.9%</td><td>5.6%</td></tr><tr><td>BBG U.S. Treasury</td><td>0.6%</td><td>3.0%</td><td>3.6%</td></tr><tr><td>BBG Global IG</td><td>2.2%</td><td>45%</td><td>5.1%</td></tr><tr><td>BBG Global HY</td><td>0.9%</td><td>1.3%</td><td>2.7%</td></tr><tr><td>BBG EM Asia</td><td>0.1%</td><td>2.0%</td><td>2.6%</td></tr><tr><td>BBG EM Asia IG</td><td>0.3%</td><td>2.1%</td><td>2.8%</td></tr><tr><td>BBG EM Asia HY</td><td>-1.3%</td><td>1.0%</td><td>1.4%</td></tr><tr><td>Gold</td><td>5.3%</td><td>17.5%</td><td>25.3%</td></tr><tr><td>WTI Crude</td><td>-18.6%</td><td>-19.7%</td><td>-18.8%</td></tr><tr><td>Dollar Index (DXY)</td><td>-4.6%</td><td>-8.2%</td><td>-8.3%</td></tr></tbody></table>",
+      "image_path": "data\\maybank_market_outlook\\images\\table-1-2.jpg",
+      "detection_class_prob": 0.9065065979957581,
+      "coordinates": {
+        "points": [
+          [
+            942.8262939453125,
+            949.4303588867188
+          ],
+          [
+            942.8262939453125,
+            2011.219482421875
+          ],
+          [
+            1624.18408203125,
+            2011.219482421875
+          ],
+          [
+            1624.18408203125,
+            949.4303588867188
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F050>"
+      },
+      "content_path": "data\\maybank_market_outlook\\tables\\table_17.txt",
+      "html_path": "data\\maybank_market_outlook\\tables\\table_17.html"
+    },
+    {
+      "element_index": 18,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            932.0,
+            1048.0
+          ],
+          [
+            932.0,
+            1088.0
+          ],
+          [
+            946.0,
+            1088.0
+          ],
+          [
+            946.0,
+            1048.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D4C0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_18.txt"
+    },
+    {
+      "element_index": 19,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "coordinates": {
+        "points": [
+          [
+            918.0,
+            1893.0
+          ],
+          [
+            918.0,
+            1969.0
+          ],
+          [
+            945.0,
+            1969.0
+          ],
+          [
+            945.0,
+            1893.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C4A0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_19.txt"
+    },
+    {
+      "element_index": 20,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 1,
+      "detection_class_prob": 0.6945549845695496,
+      "coordinates": {
+        "points": [
+          [
+            950.35986328125,
+            2024.7578125
+          ],
+          [
+            950.35986328125,
+            2057.47900390625
+          ],
+          [
+            1436.7578125,
+            2057.47900390625
+          ],
+          [
+            1436.7578125,
+            2024.7578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C950>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_20.txt"
+    },
+    {
+      "element_index": 21,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.483285516500473,
+      "coordinates": {
+        "points": [
+          [
+            481.1493835449219,
+            48.67919921875
+          ],
+          [
+            481.1493835449219,
+            119.57799530029297
+          ],
+          [
+            1456.3228759765625,
+            119.57799530029297
+          ],
+          [
+            1456.3228759765625,
+            48.67919921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777FAA0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_21.txt"
+    },
+    {
+      "element_index": 22,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.5257208347320557,
+      "coordinates": {
+        "points": [
+          [
+            486.3079528808594,
+            159.86480712890625
+          ],
+          [
+            486.3079528808594,
+            202.1903839111328
+          ],
+          [
+            649.7123413085938,
+            202.1903839111328
+          ],
+          [
+            649.7123413085938,
+            159.86480712890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F2F0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_22.txt"
+    },
+    {
+      "element_index": 23,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.8654294610023499,
+      "coordinates": {
+        "points": [
+          [
+            81.34451293945312,
+            225.40904235839844
+          ],
+          [
+            81.34451293945312,
+            264.5820617675781
+          ],
+          [
+            477.53662109375,
+            264.5820617675781
+          ],
+          [
+            477.53662109375,
+            225.40904235839844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F470>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_23.txt"
+    },
+    {
+      "element_index": 24,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9498448371887207,
+      "coordinates": {
+        "points": [
+          [
+            75.02661895751953,
+            264.0355529785156
+          ],
+          [
+            75.02661895751953,
+            486.1434326171875
+          ],
+          [
+            1605.540283203125,
+            486.1434326171875
+          ],
+          [
+            1605.540283203125,
+            264.0355529785156
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E150>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_24.txt"
+    },
+    {
+      "element_index": 25,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9520914554595947,
+      "coordinates": {
+        "points": [
+          [
+            84.29920196533203,
+            523.9910888671875
+          ],
+          [
+            84.29920196533203,
+            741.4697875976562
+          ],
+          [
+            1602.8055419921875,
+            741.4697875976562
+          ],
+          [
+            1602.8055419921875,
+            523.9910888671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F5F0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_25.txt"
+    },
+    {
+      "element_index": 26,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "coordinates": {
+        "points": [
+          [
+            1591.0,
+            675.0
+          ],
+          [
+            1591.0,
+            698.0
+          ],
+          [
+            1619.0,
+            698.0
+          ],
+          [
+            1619.0,
+            675.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F020>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_26.txt"
+    },
+    {
+      "element_index": 27,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9502579569816589,
+      "coordinates": {
+        "points": [
+          [
+            84.1059341430664,
+            779.0638427734375
+          ],
+          [
+            84.1059341430664,
+            999.6692504882812
+          ],
+          [
+            1608.867919921875,
+            999.6692504882812
+          ],
+          [
+            1608.867919921875,
+            779.0638427734375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E720>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_27.txt"
+    },
+    {
+      "element_index": 28,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9498987197875977,
+      "coordinates": {
+        "points": [
+          [
+            86.72053527832031,
+            1035.7991943359375
+          ],
+          [
+            86.72053527832031,
+            1255.910400390625
+          ],
+          [
+            1597.3377685546875,
+            1255.910400390625
+          ],
+          [
+            1597.3377685546875,
+            1035.7991943359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F320>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_28.txt"
+    },
+    {
+      "element_index": 29,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "coordinates": {
+        "points": [
+          [
+            1603.0,
+            1043.0
+          ],
+          [
+            1603.0,
+            1065.0
+          ],
+          [
+            1618.0,
+            1065.0
+          ],
+          [
+            1618.0,
+            1043.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E030>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_29.txt"
+    },
+    {
+      "element_index": 30,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "coordinates": {
+        "points": [
+          [
+            1582.0,
+            1190.0
+          ],
+          [
+            1582.0,
+            1213.0
+          ],
+          [
+            1617.0,
+            1213.0
+          ],
+          [
+            1617.0,
+            1190.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789E50>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_30.txt"
+    },
+    {
+      "element_index": 31,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.9461319446563721,
+      "coordinates": {
+        "points": [
+          [
+            93.82598114013672,
+            1294.590087890625
+          ],
+          [
+            93.82598114013672,
+            1513.0611572265625
+          ],
+          [
+            1600.4776611328125,
+            1513.0611572265625
+          ],
+          [
+            1600.4776611328125,
+            1294.590087890625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777E810>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_31.txt"
+    },
+    {
+      "element_index": 32,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.6051100492477417,
+      "coordinates": {
+        "points": [
+          [
+            120.73583984375,
+            1527.90673828125
+          ],
+          [
+            120.73583984375,
+            1599.4083251953125
+          ],
+          [
+            818.3926391601562,
+            1599.4083251953125
+          ],
+          [
+            818.3926391601562,
+            1527.90673828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777FC20>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_32.txt"
+    },
+    {
+      "element_index": 33,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.46269696950912476,
+      "coordinates": {
+        "points": [
+          [
+            854.298583984375,
+            1532.173095703125
+          ],
+          [
+            854.298583984375,
+            1603.7862548828125
+          ],
+          [
+            1627.4774169921875,
+            1603.7862548828125
+          ],
+          [
+            1627.4774169921875,
+            1532.173095703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D9A0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_33.txt"
+    },
+    {
+      "element_index": 34,
+      "element_type": "Image",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "image_path": "data\\maybank_market_outlook\\images\\figure-2-1.jpg",
+      "detection_class_prob": 0.8461438417434692,
+      "coordinates": {
+        "points": [
+          [
+            124.65928649902344,
+            1612.341064453125
+          ],
+          [
+            124.65928649902344,
+            1998.3271484375
+          ],
+          [
+            784.3741455078125,
+            1998.3271484375
+          ],
+          [
+            784.3741455078125,
+            1612.341064453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777EA50>"
+      }
+    },
+    {
+      "element_index": 35,
+      "element_type": "Image",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "image_path": "data\\maybank_market_outlook\\images\\figure-2-2.jpg",
+      "detection_class_prob": 0.8355428576469421,
+      "coordinates": {
+        "points": [
+          [
+            922.9187622070312,
+            1622.3175048828125
+          ],
+          [
+            922.9187622070312,
+            2007.2945556640625
+          ],
+          [
+            1572.9310302734375,
+            2007.2945556640625
+          ],
+          [
+            1572.9310302734375,
+            1622.3175048828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F9E0>"
+      }
+    },
+    {
+      "element_index": 36,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.6235570907592773,
+      "coordinates": {
+        "points": [
+          [
+            109.14277648925781,
+            2036.9669189453125
+          ],
+          [
+            109.14277648925781,
+            2065.564697265625
+          ],
+          [
+            522.5172729492188,
+            2065.564697265625
+          ],
+          [
+            522.5172729492188,
+            2036.9669189453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777D310>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_36.txt"
+    },
+    {
+      "element_index": 37,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 2,
+      "detection_class_prob": 0.46140149235725403,
+      "coordinates": {
+        "points": [
+          [
+            887.2699584960938,
+            2029.2764892578125
+          ],
+          [
+            887.2699584960938,
+            2058.31982421875
+          ],
+          [
+            1297.680419921875,
+            2058.31982421875
+          ],
+          [
+            1297.680419921875,
+            2029.2764892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C350>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_37.txt"
+    },
+    {
+      "element_index": 38,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.4738984704017639,
+      "coordinates": {
+        "points": [
+          [
+            480.8362731933594,
+            48.8421745300293
+          ],
+          [
+            480.8362731933594,
+            119.45326232910156
+          ],
+          [
+            1455.5301513671875,
+            119.45326232910156
+          ],
+          [
+            1455.5301513671875,
+            48.8421745300293
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F95D5FD0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_38.txt"
+    },
+    {
+      "element_index": 39,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.508391261100769,
+      "coordinates": {
+        "points": [
+          [
+            484.4325256347656,
+            160.6034698486328
+          ],
+          [
+            484.4325256347656,
+            202.27838134765625
+          ],
+          [
+            649.3423461914062,
+            202.27838134765625
+          ],
+          [
+            649.3423461914062,
+            160.6034698486328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CAA0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_39.txt"
+    },
+    {
+      "element_index": 40,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.8533725738525391,
+      "coordinates": {
+        "points": [
+          [
+            82.26589965820312,
+            224.8796844482422
+          ],
+          [
+            82.26589965820312,
+            264.34613037109375
+          ],
+          [
+            354.046142578125,
+            264.34613037109375
+          ],
+          [
+            354.046142578125,
+            224.8796844482422
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C890>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_40.txt"
+    },
+    {
+      "element_index": 41,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9529522657394409,
+      "coordinates": {
+        "points": [
+          [
+            73.53331756591797,
+            265.0760498046875
+          ],
+          [
+            73.53331756591797,
+            521.846923828125
+          ],
+          [
+            1612.6302490234375,
+            521.846923828125
+          ],
+          [
+            1612.6302490234375,
+            265.0760498046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CB60>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_41.txt"
+    },
+    {
+      "element_index": 42,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9519139528274536,
+      "coordinates": {
+        "points": [
+          [
+            82.45368194580078,
+            559.9747924804688
+          ],
+          [
+            82.45368194580078,
+            777.7894897460938
+          ],
+          [
+            1604.0943603515625,
+            777.7894897460938
+          ],
+          [
+            1604.0943603515625,
+            559.9747924804688
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C3E0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_42.txt"
+    },
+    {
+      "element_index": 43,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.943204402923584,
+      "coordinates": {
+        "points": [
+          [
+            82.25582122802734,
+            816.5595703125
+          ],
+          [
+            82.25582122802734,
+            999.7144775390625
+          ],
+          [
+            1597.3912353515625,
+            999.7144775390625
+          ],
+          [
+            1597.3912353515625,
+            816.5595703125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C230>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_43.txt"
+    },
+    {
+      "element_index": 44,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            1600.0,
+            828.0
+          ],
+          [
+            1600.0,
+            845.0
+          ],
+          [
+            1617.0,
+            845.0
+          ],
+          [
+            1617.0,
+            828.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302788D40>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_44.txt"
+    },
+    {
+      "element_index": 45,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            1589.0,
+            934.0
+          ],
+          [
+            1589.0,
+            955.0
+          ],
+          [
+            1618.0,
+            955.0
+          ],
+          [
+            1618.0,
+            934.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789C10>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_45.txt"
+    },
+    {
+      "element_index": 46,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9547002911567688,
+      "coordinates": {
+        "points": [
+          [
+            88.09481048583984,
+            1035.9014892578125
+          ],
+          [
+            88.09481048583984,
+            1292.27392578125
+          ],
+          [
+            1599.635986328125,
+            1292.27392578125
+          ],
+          [
+            1599.635986328125,
+            1035.9014892578125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CFB0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_46.txt"
+    },
+    {
+      "element_index": 47,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            1591.0,
+            1042.0
+          ],
+          [
+            1591.0,
+            1066.0
+          ],
+          [
+            1619.0,
+            1066.0
+          ],
+          [
+            1619.0,
+            1042.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605FFB0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_47.txt"
+    },
+    {
+      "element_index": 48,
+      "element_type": "ListItem",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.9235039949417114,
+      "coordinates": {
+        "points": [
+          [
+            85.01924133300781,
+            1330.8836669921875
+          ],
+          [
+            85.01924133300781,
+            1511.0579833984375
+          ],
+          [
+            1594.3433837890625,
+            1511.0579833984375
+          ],
+          [
+            1594.3433837890625,
+            1330.8836669921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024300F489E0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\listitem_48.txt"
+    },
+    {
+      "element_index": 49,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.37464049458503723,
+      "coordinates": {
+        "points": [
+          [
+            97.35050964355469,
+            1530.23828125
+          ],
+          [
+            97.35050964355469,
+            1597.87255859375
+          ],
+          [
+            821.6384887695312,
+            1597.87255859375
+          ],
+          [
+            821.6384887695312,
+            1530.23828125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789FD0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_49.txt"
+    },
+    {
+      "element_index": 50,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.7960180640220642,
+      "coordinates": {
+        "points": [
+          [
+            897.8248291015625,
+            1534.5526123046875
+          ],
+          [
+            897.8248291015625,
+            1602.989990234375
+          ],
+          [
+            1616.5904541015625,
+            1602.989990234375
+          ],
+          [
+            1616.5904541015625,
+            1534.5526123046875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789D60>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_50.txt"
+    },
+    {
+      "element_index": 51,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            316.0,
+            1643.0
+          ],
+          [
+            316.0,
+            1664.0
+          ],
+          [
+            583.0,
+            1664.0
+          ],
+          [
+            583.0,
+            1643.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605E000>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_51.txt"
+    },
+    {
+      "element_index": 52,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.6860095262527466,
+      "coordinates": {
+        "points": [
+          [
+            1032.1922607421875,
+            1633.194091796875
+          ],
+          [
+            1032.1922607421875,
+            1657.550048828125
+          ],
+          [
+            1479.3077392578125,
+            1657.550048828125
+          ],
+          [
+            1479.3077392578125,
+            1633.194091796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789A30>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_52.txt"
+    },
+    {
+      "element_index": 53,
+      "element_type": "Image",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "image_path": "data\\maybank_market_outlook\\images\\figure-3-3.jpg",
+      "detection_class_prob": 0.6274871230125427,
+      "coordinates": {
+        "points": [
+          [
+            126.19767761230469,
+            1666.083251953125
+          ],
+          [
+            126.19767761230469,
+            2003.5233154296875
+          ],
+          [
+            804.9187622070312,
+            2003.5233154296875
+          ],
+          [
+            804.9187622070312,
+            1666.083251953125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789D90>"
+      }
+    },
+    {
+      "element_index": 54,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            917.0,
+            1665.0
+          ],
+          [
+            917.0,
+            1680.0
+          ],
+          [
+            958.0,
+            1680.0
+          ],
+          [
+            958.0,
+            1665.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605ECC0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_54.txt"
+    },
+    {
+      "element_index": 55,
+      "element_type": "Image",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "image_path": "data\\maybank_market_outlook\\images\\figure-3-4.jpg",
+      "detection_class_prob": 0.871051549911499,
+      "coordinates": {
+        "points": [
+          [
+            912.2918090820312,
+            1701.285400390625
+          ],
+          [
+            912.2918090820312,
+            1998.0848388671875
+          ],
+          [
+            1584.02685546875,
+            1998.0848388671875
+          ],
+          [
+            1584.02685546875,
+            1701.285400390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002430278A8D0>"
+      }
+    },
+    {
+      "element_index": 56,
+      "element_type": "Text",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "coordinates": {
+        "points": [
+          [
+            554.0,
+            1996.0
+          ],
+          [
+            554.0,
+            2016.0
+          ],
+          [
+            654.0,
+            2016.0
+          ],
+          [
+            654.0,
+            1996.0
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605DDC0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\text_56.txt"
+    },
+    {
+      "element_index": 57,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.43401870131492615,
+      "coordinates": {
+        "points": [
+          [
+            95.93643951416016,
+            2035.170166015625
+          ],
+          [
+            95.93643951416016,
+            2060.615234375
+          ],
+          [
+            508.36517333984375,
+            2060.615234375
+          ],
+          [
+            508.36517333984375,
+            2035.170166015625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302788B60>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_57.txt"
+    },
+    {
+      "element_index": 58,
+      "element_type": "FigureCaption",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 3,
+      "detection_class_prob": 0.44752731919288635,
+      "coordinates": {
+        "points": [
+          [
+            872.0247192382812,
+            2034.32421875
+          ],
+          [
+            872.0247192382812,
+            2060.403564453125
+          ],
+          [
+            1285.1656494140625,
+            2060.403564453125
+          ],
+          [
+            1285.1656494140625,
+            2034.32421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789B80>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\figurecaption_58.txt"
+    },
+    {
+      "element_index": 59,
+      "element_type": "Header",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8159424662590027,
+      "coordinates": {
+        "points": [
+          [
+            102.3760986328125,
+            76.61314392089844
+          ],
+          [
+            102.3760986328125,
+            115.83180236816406
+          ],
+          [
+            897.9122924804688,
+            115.83180236816406
+          ],
+          [
+            897.9122924804688,
+            76.61314392089844
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302788F20>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\header_59.txt"
+    },
+    {
+      "element_index": 60,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.8545746803283691,
+      "coordinates": {
+        "points": [
+          [
+            104.3252944946289,
+            162.44190979003906
+          ],
+          [
+            104.3252944946289,
+            225.61265563964844
+          ],
+          [
+            372.18634033203125,
+            225.61265563964844
+          ],
+          [
+            372.18634033203125,
+            162.44190979003906
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789AC0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_60.txt"
+    },
+    {
+      "element_index": 61,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.909088134765625,
+      "coordinates": {
+        "points": [
+          [
+            108.53548431396484,
+            239.33432006835938
+          ],
+          [
+            108.53548431396484,
+            309.9664306640625
+          ],
+          [
+            1610.526611328125,
+            309.9664306640625
+          ],
+          [
+            1610.526611328125,
+            239.33432006835938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789C40>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_61.txt"
+    },
+    {
+      "element_index": 62,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9546018242835999,
+      "coordinates": {
+        "points": [
+          [
+            106.45231628417969,
+            330.35137939453125
+          ],
+          [
+            106.45231628417969,
+            655.0960693359375
+          ],
+          [
+            1622.2796630859375,
+            655.0960693359375
+          ],
+          [
+            1622.2796630859375,
+            330.35137939453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789850>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_62.txt"
+    },
+    {
+      "element_index": 63,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9503329396247864,
+      "coordinates": {
+        "points": [
+          [
+            109.23106384277344,
+            674.5341186523438
+          ],
+          [
+            109.23106384277344,
+            857.8356323242188
+          ],
+          [
+            1620.618896484375,
+            857.8356323242188
+          ],
+          [
+            1620.618896484375,
+            674.5341186523438
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777CA70>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_63.txt"
+    },
+    {
+      "element_index": 64,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9547730684280396,
+      "coordinates": {
+        "points": [
+          [
+            106.16826629638672,
+            878.5706787109375
+          ],
+          [
+            106.16826629638672,
+            1207.2828369140625
+          ],
+          [
+            1622.9002685546875,
+            1207.2828369140625
+          ],
+          [
+            1622.9002685546875,
+            878.5706787109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777C8C0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_64.txt"
+    },
+    {
+      "element_index": 65,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 4,
+      "detection_class_prob": 0.9394713640213013,
+      "coordinates": {
+        "points": [
+          [
+            99.52764129638672,
+            1225.72216796875
+          ],
+          [
+            99.52764129638672,
+            2024.567626953125
+          ],
+          [
+            1626.1212158203125,
+            2024.567626953125
+          ],
+          [
+            1626.1212158203125,
+            1225.72216796875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777EB40>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_65.txt"
+    },
+    {
+      "element_index": 66,
+      "element_type": "Header",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8108919858932495,
+      "coordinates": {
+        "points": [
+          [
+            102.21704864501953,
+            76.9656982421875
+          ],
+          [
+            102.21704864501953,
+            115.71941375732422
+          ],
+          [
+            898.2442626953125,
+            115.71941375732422
+          ],
+          [
+            898.2442626953125,
+            76.9656982421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x000002430278A720>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\header_66.txt"
+    },
+    {
+      "element_index": 67,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8528538942337036,
+      "coordinates": {
+        "points": [
+          [
+            104.4734878540039,
+            163.2157745361328
+          ],
+          [
+            104.4734878540039,
+            225.24366760253906
+          ],
+          [
+            372.14697265625,
+            225.24366760253906
+          ],
+          [
+            372.14697265625,
+            163.2157745361328
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789E80>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_67.txt"
+    },
+    {
+      "element_index": 68,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9468635320663452,
+      "coordinates": {
+        "points": [
+          [
+            103.29393005371094,
+            241.13543701171875
+          ],
+          [
+            103.29393005371094,
+            824.1084594726562
+          ],
+          [
+            1624.3990478515625,
+            824.1084594726562
+          ],
+          [
+            1624.3990478515625,
+            241.13543701171875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F080>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_68.txt"
+    },
+    {
+      "element_index": 69,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9497337937355042,
+      "coordinates": {
+        "points": [
+          [
+            104.45149993896484,
+            844.6683959960938
+          ],
+          [
+            104.45149993896484,
+            1426.9700927734375
+          ],
+          [
+            1623.484375,
+            1426.9700927734375
+          ],
+          [
+            1623.484375,
+            844.6683959960938
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F1A0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_69.txt"
+    },
+    {
+      "element_index": 70,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.9506115913391113,
+      "coordinates": {
+        "points": [
+          [
+            93.55313873291016,
+            1451.5997314453125
+          ],
+          [
+            93.55313873291016,
+            1923.366455078125
+          ],
+          [
+            1628.836181640625,
+            1923.366455078125
+          ],
+          [
+            1628.836181640625,
+            1451.5997314453125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605E240>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_70.txt"
+    },
+    {
+      "element_index": 71,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 5,
+      "detection_class_prob": 0.8866867423057556,
+      "coordinates": {
+        "points": [
+          [
+            100.07737731933594,
+            2035.4632568359375
+          ],
+          [
+            100.07737731933594,
+            2092.405517578125
+          ],
+          [
+            1610.06640625,
+            2092.405517578125
+          ],
+          [
+            1610.06640625,
+            2035.4632568359375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605FB30>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_71.txt"
+    },
+    {
+      "element_index": 72,
+      "element_type": "Header",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8099912405014038,
+      "coordinates": {
+        "points": [
+          [
+            102.36991882324219,
+            76.80858612060547
+          ],
+          [
+            102.36991882324219,
+            115.77730560302734
+          ],
+          [
+            898.26611328125,
+            115.77730560302734
+          ],
+          [
+            898.26611328125,
+            76.80858612060547
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302789CA0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\header_72.txt"
+    },
+    {
+      "element_index": 73,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8581050634384155,
+      "coordinates": {
+        "points": [
+          [
+            104.49827575683594,
+            162.50694274902344
+          ],
+          [
+            104.49827575683594,
+            225.4536590576172
+          ],
+          [
+            371.9973449707031,
+            225.4536590576172
+          ],
+          [
+            371.9973449707031,
+            162.50694274902344
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x0000024302788CE0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_73.txt"
+    },
+    {
+      "element_index": 74,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9570826888084412,
+      "coordinates": {
+        "points": [
+          [
+            106.75643920898438,
+            237.4878387451172
+          ],
+          [
+            106.75643920898438,
+            528.6923217773438
+          ],
+          [
+            1617.7528076171875,
+            528.6923217773438
+          ],
+          [
+            1617.7528076171875,
+            237.4878387451172
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605F4D0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_74.txt"
+    },
+    {
+      "element_index": 75,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9288945198059082,
+      "coordinates": {
+        "points": [
+          [
+            108.55020904541016,
+            548.6616821289062
+          ],
+          [
+            108.55020904541016,
+            691.2133178710938
+          ],
+          [
+            1611.27294921875,
+            691.2133178710938
+          ],
+          [
+            1611.27294921875,
+            548.6616821289062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605D670>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_75.txt"
+    },
+    {
+      "element_index": 76,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8505058288574219,
+      "coordinates": {
+        "points": [
+          [
+            97.24066925048828,
+            712.6693115234375
+          ],
+          [
+            97.24066925048828,
+            752.0661010742188
+          ],
+          [
+            833.8809814453125,
+            752.0661010742188
+          ],
+          [
+            833.8809814453125,
+            712.6693115234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605F170>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_76.txt"
+    },
+    {
+      "element_index": 77,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8951325416564941,
+      "coordinates": {
+        "points": [
+          [
+            107.5725326538086,
+            768.80810546875
+          ],
+          [
+            107.5725326538086,
+            839.3576049804688
+          ],
+          [
+            1611.9764404296875,
+            839.3576049804688
+          ],
+          [
+            1611.9764404296875,
+            768.80810546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605C620>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_77.txt"
+    },
+    {
+      "element_index": 78,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9270401000976562,
+      "coordinates": {
+        "points": [
+          [
+            111.6246337890625,
+            860.7440185546875
+          ],
+          [
+            111.6246337890625,
+            1007.454345703125
+          ],
+          [
+            1616.258056640625,
+            1007.454345703125
+          ],
+          [
+            1616.258056640625,
+            860.7440185546875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605C740>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_78.txt"
+    },
+    {
+      "element_index": 79,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9495260119438171,
+      "coordinates": {
+        "points": [
+          [
+            104.73035430908203,
+            1026.333984375
+          ],
+          [
+            104.73035430908203,
+            1206.8673095703125
+          ],
+          [
+            1623.5811767578125,
+            1206.8673095703125
+          ],
+          [
+            1623.5811767578125,
+            1026.333984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605E060>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_79.txt"
+    },
+    {
+      "element_index": 80,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9519566297531128,
+      "coordinates": {
+        "points": [
+          [
+            95.30355072021484,
+            1226.6988525390625
+          ],
+          [
+            95.30355072021484,
+            1483.3973388671875
+          ],
+          [
+            1637.4522705078125,
+            1483.3973388671875
+          ],
+          [
+            1637.4522705078125,
+            1226.6988525390625
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605D820>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_80.txt"
+    },
+    {
+      "element_index": 81,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8534026741981506,
+      "coordinates": {
+        "points": [
+          [
+            107.50086212158203,
+            1503.84033203125
+          ],
+          [
+            107.50086212158203,
+            1573.554931640625
+          ],
+          [
+            1619.2359619140625,
+            1573.554931640625
+          ],
+          [
+            1619.2359619140625,
+            1503.84033203125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605CE30>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_81.txt"
+    },
+    {
+      "element_index": 82,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.8515865802764893,
+      "coordinates": {
+        "points": [
+          [
+            99.397705078125,
+            1594.4691162109375
+          ],
+          [
+            99.397705078125,
+            1631.8089599609375
+          ],
+          [
+            842.7557373046875,
+            1631.8089599609375
+          ],
+          [
+            842.7557373046875,
+            1594.4691162109375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605F0E0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_82.txt"
+    },
+    {
+      "element_index": 83,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 6,
+      "detection_class_prob": 0.9487254619598389,
+      "coordinates": {
+        "points": [
+          [
+            91.20118713378906,
+            1649.78857421875
+          ],
+          [
+            91.20118713378906,
+            1833.401123046875
+          ],
+          [
+            1636.2987060546875,
+            1833.401123046875
+          ],
+          [
+            1636.2987060546875,
+            1649.78857421875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605C350>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_83.txt"
+    },
+    {
+      "element_index": 84,
+      "element_type": "Header",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8301737308502197,
+      "coordinates": {
+        "points": [
+          [
+            103.1868896484375,
+            76.6039047241211
+          ],
+          [
+            103.1868896484375,
+            115.80707550048828
+          ],
+          [
+            898.3020629882812,
+            115.80707550048828
+          ],
+          [
+            898.3020629882812,
+            76.6039047241211
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F777F800>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\header_84.txt"
+    },
+    {
+      "element_index": 85,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8171550631523132,
+      "coordinates": {
+        "points": [
+          [
+            102.51980590820312,
+            160.53314208984375
+          ],
+          [
+            102.51980590820312,
+            223.26702880859375
+          ],
+          [
+            368.6699523925781,
+            223.26702880859375
+          ],
+          [
+            368.6699523925781,
+            160.53314208984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605E4E0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_85.txt"
+    },
+    {
+      "element_index": 86,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8489431738853455,
+      "coordinates": {
+        "points": [
+          [
+            97.02811431884766,
+            233.71556091308594
+          ],
+          [
+            97.02811431884766,
+            272.0928649902344
+          ],
+          [
+            813.5850830078125,
+            272.0928649902344
+          ],
+          [
+            813.5850830078125,
+            233.71556091308594
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605D730>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_86.txt"
+    },
+    {
+      "element_index": 87,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9286885857582092,
+      "coordinates": {
+        "points": [
+          [
+            105.82854461669922,
+            291.3636474609375
+          ],
+          [
+            105.82854461669922,
+            432.6436462402344
+          ],
+          [
+            1611.1854248046875,
+            432.6436462402344
+          ],
+          [
+            1611.1854248046875,
+            291.3636474609375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605F980>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_87.txt"
+    },
+    {
+      "element_index": 88,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9264802932739258,
+      "coordinates": {
+        "points": [
+          [
+            102.7021713256836,
+            458.0948486328125
+          ],
+          [
+            102.7021713256836,
+            564.43115234375
+          ],
+          [
+            1614.794189453125,
+            564.43115234375
+          ],
+          [
+            1614.794189453125,
+            458.0948486328125
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605FA10>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_88.txt"
+    },
+    {
+      "element_index": 89,
+      "element_type": "Title",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8530020117759705,
+      "coordinates": {
+        "points": [
+          [
+            95.65042877197266,
+            583.286865234375
+          ],
+          [
+            95.65042877197266,
+            621.2613525390625
+          ],
+          [
+            827.6812744140625,
+            621.2613525390625
+          ],
+          [
+            827.6812744140625,
+            583.286865234375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605ED50>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\title_89.txt"
+    },
+    {
+      "element_index": 90,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.9516163468360901,
+      "coordinates": {
+        "points": [
+          [
+            93.26766967773438,
+            638.9227294921875
+          ],
+          [
+            93.26766967773438,
+            855.3272094726562
+          ],
+          [
+            1629.141845703125,
+            855.3272094726562
+          ],
+          [
+            1629.141845703125,
+            638.9227294921875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605D340>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_90.txt"
+    },
+    {
+      "element_index": 91,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8482881188392639,
+      "coordinates": {
+        "points": [
+          [
+            98.36304473876953,
+            876.0171508789062
+          ],
+          [
+            98.36304473876953,
+            913.8179931640625
+          ],
+          [
+            808.9863891601562,
+            913.8179931640625
+          ],
+          [
+            808.9863891601562,
+            876.0171508789062
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605E870>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_91.txt"
+    },
+    {
+      "element_index": 92,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8822858333587646,
+      "coordinates": {
+        "points": [
+          [
+            102.03307342529297,
+            927.3900146484375
+          ],
+          [
+            102.03307342529297,
+            1003.7666625976562
+          ],
+          [
+            1606.4046630859375,
+            1003.7666625976562
+          ],
+          [
+            1606.4046630859375,
+            927.3900146484375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605DBE0>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_92.txt"
+    },
+    {
+      "element_index": 93,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.8438899517059326,
+      "coordinates": {
+        "points": [
+          [
+            94.80106353759766,
+            1022.3777465820312
+          ],
+          [
+            94.80106353759766,
+            1060.472900390625
+          ],
+          [
+            856.4743041992188,
+            1060.472900390625
+          ],
+          [
+            856.4743041992188,
+            1022.3777465820312
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605F050>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_93.txt"
+    },
+    {
+      "element_index": 94,
+      "element_type": "NarrativeText",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "detection_class_prob": 0.6489497423171997,
+      "coordinates": {
+        "points": [
+          [
+            94.87313842773438,
+            1081.1942138671875
+          ],
+          [
+            94.87313842773438,
+            1114.883544921875
+          ],
+          [
+            844.303466796875,
+            1114.883544921875
+          ],
+          [
+            844.303466796875,
+            1081.1942138671875
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242F605EF00>"
+      },
+      "content_path": "data\\maybank_market_outlook\\text\\narrativetext_94.txt"
+    },
+    {
+      "element_index": 95,
+      "element_type": "Image",
+      "filename": "maybank_market_outlook.pdf",
+      "page_number": 7,
+      "image_path": "data\\maybank_market_outlook\\images\\figure-7-5.jpg",
+      "detection_class_prob": 0.36731457710266113,
+      "coordinates": {
+        "points": [
+          [
+            580.2015380859375,
+            1815.579833984375
+          ],
+          [
+            580.2015380859375,
+            1969.5115966796875
+          ],
+          [
+            1143.186279296875,
+            1969.5115966796875
+          ],
+          [
+            1143.186279296875,
+            1815.579833984375
+          ]
+        ],
+        "system": "<unstructured.documents.coordinates.PixelSpace object at 0x00000242EDCE34A0>"
+      }
+    }
+  ]
+}

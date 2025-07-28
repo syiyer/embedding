@@ -1,0 +1,59 @@
+# Market Recap
+
+U.S. stocks witnessed a roller-coaster ride amid heightened tariff concerns but closed only marginally lower in April. MSCI Asia ex-Japan also held up despite the drag from China while Europe and Japan witnessed positive returns (in U.S. dollar terms) due mainly to the stronger EUR and JPY.
+
+= The 10-year (10Y) U.S. Treasury (UST) yield traded in a wide range of 3.9-4.6% before closing flat at 4.2%. Meanwhile, credit returns were resilient though High Yield (HY) credit spreads were volatile.
+
+= Gold continued to outperform and hit a record high of USD 3,500/ounce before retreating below USD 3,300/ounce. However, oil fell on the back of weaker demand outlook.
+
+# Macro Outlook and Investment Strategy
+
+* Overweight: +, Neutral : =, Underweight: - Source: Maybank Group Wealth Management (GWM)
+
+Near-term sentiment may be supported by hopes of early trade war de-escalation. Central banks, including the U.S. Federal Reserve (Fed), may also ease further to limit recession risk. Nevertheless, there could be more twists and turns ahead that could drive higher market volatility.
+
+Hence, while there are merits to stay invested, we would continue to do so in a diversified manner with a quality focus to enhance portfolio resilience. We also reiterate the need to exercise valuation discipline given the rising downside risk to growth.
+
+i . . . . = Equities wise, we would avoid putting all eggs in one U.S. basket especially with U.S. stocks still relatively more expensive to other major peers. . . . Notably, we continue to see value in Asia ex-Japan with support from key markets including China and India. We also turn more sanguine on Europe relative to Japan given the former's more supportive monetary and fiscal stance.
+
+« In fixed income, we continue to seek resilience income through UST and high quality bonds. In contrast, we remain cautious towards HY credits with the spreads still tight relative to history.
+
+" We maintain our positive stance on Gold which could re-visit the recent high later this year. The precious metal continues to play a_ strategic diversification role to help investors navigate the ongoing macro and geopolitical uncertainties.
+
+Source: Bloomberg (BBG) | 30 April 2025
+
+# Fixed Income Strategy
+
+U.S. 1Q GDP fell at an annualised rate of 0.3%, largely due to a surge in imports ahead of President Donald Trump's “Liberation Day” tariff announcements. While we expect at least a partial roll- back of the announced tariffs, the probability of a U.S. stagflation has increased given the policy uncertainty. Nevertheless, Trump’s seemingly softer trade stance suggests he does have a pain threshold, which will help limit the risk of a recession. The Trump administration may also start to discuss more pro-growth measures including de-regulation and tax cuts in 2H25.
+
+The Fed will likely keep rates unchanged in its May meeting. However, Fed Chair Jerome Powell may adopt a more dovish tone should weaker jobs data outweigh inflation concerns linked to the tariffs. We maintain our view for the Fed to cut 50 basis points (bps) by end-2025 but acknowledge the potential of more aggressive easing as priced in by the market. Other central banks in Europe, China as well as ASEAN may also ease to support growth though the Bank Japan may hike rates instead due to inflationary pressures.
+
+While the heightened volatility in IOY UST yield has raised concerns, we believe it is premature to conclude that USTs have lost the status as a safe-haven asset. The gradual de-leveraging of related hedge fund positioning should also provide stability to the Treasury market. As such, we continue to view USTs as a resilient source of carry, alongside selected Investment Grade (IG) bonds as well as Sukuk. However, we remain less sanguine about HY credits with spreads remaining below the 5-year historical average levels despite the increased growth risks.
+
+Our preferred bond segments in Developed Markets (DM) remain with Europe financials Tier Subordinated bonds, domestic systemically important Australia banks’ Additional Tier 1 (ATI) and Japan insurers’ Subordinated Tier 2 bonds. Nevertheless, opportunities are emerging in selected Europe banks’ ATls with the recent widening of spread. Notably, European banks’ credit metrics have improved, underpinned by their strong financial performance. Hence, there should sufficient buffer to mitigate the potential negatives of the higher trade tariffs.
+
+Within Asia, we retain a defensive stance with a preference for IG over HY credits and a focus on sectors like utilities, telecommunications, and consumer staples for more resilient yield. We also favour selected Asia insurers with strong branding that could benefit from the structural demand for insurance products in the region. Meanwhile, Singapore REITs (S-REITs) will likely enjoy lower borrowing costs amid the prospect of further monetary easing. Notably, retail REITS would likely be less affected by the tariff uncertainty given the more stable domestic exposure.
+
+# Figure 2: Emerging opportunities in selected quality AT issuers with recent spread widening
+
+Source: Bloomberg | 30 April 2025
+
+Source: Bloomberg | 30 April 2025
+
+# Equity Strategy
+
+" We maintain our neutral stance on U.S. President Trump’s 90-day pause on reciprocal tariffs offered a much needed relief to U.S. stocks, which have witnessed heightened volatility since “Liberation Day” on April 2"¢. Despite the emergence of a “Trump put”, trade negotiations may drag and weigh on both consumer and business confidence. Hence, we prefer to stick with defensive sectors such as consumer staples and communication services. Nevertheless, we do see opportunities in selected financial and industrial stocks which have demonstrated resilient growth amid the policy uncertainty.
+
+= We upgrade Europe from underweight to neutral. No doubt, the macro landscape has become more tricky for the region. Nevertheless, the recent downgrades in Stoxx Europe 600 consensus earnings suggest the negatives may have been at least partly priced in. In addition, Germany’s proposed increase in infrastructure and defence spending should benefit related industrial stocks in the region. We also see potential opportunities in healthcare and communication services stocks.
+
+=" We downgrade Japan from neutral to underweight with the market facing challenges from stronger yen especially for export-oriented sectors. The rising inflation may also restrict the Bank of Japan from staying accommodative despite the increasing growth risk. With lingering trade concerns, we favour domestic-focused stocks in railway ds well as real estate, owing not only their low exposure to tariffs and yen volatility but also on improvement in their fundamentals.
+
+» We maintain our positive stance on Asia ex-Japan including China. Being at the forefront Trump's trade war, Chinese leaders are committed to support the economy with forceful policy measures to mitigate tariff shocks. Sectors wise, we would seek a balanced mix of growth and income investments in China. Notably, we see compelling opportunities in communication services as well as selected consumer discretionary plays, with the latter likely to benefit from further consumption stimulus. Additional policy measures to support the economy will also likely augur well for the financials as well as real estate sectors.
+
+" India’s economic recovery is gaining momentum, which will lend support to the domestic market. Further progress in trade talks with the U.S. could also help lift sentiment. In contrast, the reciprocal tariffs have turned out worse-than- expected for ASEAN countries, which may have less leeway to negotiate. In view of this, we would prefer to focus on quality plays including selected S-REITs that may be less affected by the tariff developments.
+
+# Figure 4: Europe earnings growth expectations have recently been lowered
+
+Stoxx Europe 600 forward earnings (EUR)
+
+Source: Bloomberg | 30 April 2025

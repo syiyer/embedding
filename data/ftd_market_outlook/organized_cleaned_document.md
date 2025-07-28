@@ -1,0 +1,84 @@
+# Macro View
+
+The “Trump trade” was in full effect in November. The Dollar Index remained strong on expectations of tariffs, Bitcoin surged to $100k amid discussions about a crypto reserve, and the US stock market rallied on hopes for tax cuts. Gold was the only surprise post-election, but new tensions in the Ukraine- Russia war reversed its corrective move.
+
+Trump has already drawn the tariff gun from its holster against China, Canada, and Mexico. He demanded an end to drug trafficking and, until that point, plans to impose 25% tariffs on Canada and Mexico and 10% on China. This is most likely a negotiation tactic ahead of the start of his term, but the threat looms large for the markets.
+
+The shift in geopolitical risks was somewhat surprising. The general expectation was that a Trump victory would lead to further escalation in the Middle East but possible de-escalation in Ukraine. However, Biden's decision to allow Ukraine to use US ballistic missiles on Russian territory has introduced new risks. Ukraine is now using both US and UK ballistic missiles to strike targets within Russia’s borders. In response, Russia is likely to increase retaliatory measures significantly in December. Meanwhile, in the Middle East,
+
+WUs TEySUleu Vy LOE Tell. DUITNG! UNIS LO TEUULS UIG UGIIVIL LU V4 VY LULLITIY expenses and increasing taxes. However, Le Pen opposes any measures that could reduce purchasing power. Negotiations are ongoing, but Le Pen has set a deadline for today (Monday). If no agreement is reached, France’s fragile government could collapse as early as this week. Even if the government falls, Macron cannot call a new election until summer, meaning political turmoil is likely to persist in the coming months.
+
+In Germany, the coalition government has already collapsed, and a confidence vote is expected to result in a new election in February. While EU countries grapple with budgetary and political challenges, they are also preparing for a possible trade war scenario—or at least they should be. If Trump fully commits to tariffs, he will likely expect the Eurozone to support him against China. In such a case, the EU will have to navigate a precarious path that could spike inflation and further slow the economy.
+
+The political risks have emerged at a particularly bad time. The Eurozone economy is showing signs of prolonged weakness, primarily in manufacturing, but more recently in services as well. The composite PMI has fallen to 48.1. Since 2023, the Eurozone PMI has diverged negatively compared to most other advanced economies. Germany's weakening manufacturing sector is also starting to create problems. The PMis for the UK and Japan have likewise dropped below the critical threshold of 50. In contrast, the US has clearly maintained positive divergence throughout 2024.
+
+In the US, the focus has been on positive developments so far, but this might change in the coming months. Core PCE has stalled above 2.6%, similar to Core CPI at 3.2%. While this is not entirely unexpected, the Federal Reserve cutting rates, combined with Trump discussing tariffs and tax cuts, could bring the fight against inflation back into focus with a few key news releases or data points. Federal Reserve members seem to be aware of these risks, as they emphasized the “gradual” approach to rate cuts heavily in November. A positive surprise in this week’s nonfarm payrolls report could suddenly shift the December FOMC outcome to a “hold.”
+
+# Technical View
+
+The U.S. 10-year government bond yield performed as expected, making a false breakout from the downtrend channel, retesting the broken uptrend line, and then beginning to fall. The technicals suggest further downside, but fundamentally, there is a strong possibility of increased volatility in a “chop zone”. This week's jobs report could be a game changer.
+
+Brent oil traders continue to battle within the 70-72 zone, which has become a major support level. Weak manufacturing activity and slowing global GDP are exerting significant pressure on oil prices. However, geopolitical risks, combined with OPEC’s delay in increasing output, are providing enough support to hold the line for now. Unless there is a shift in the economic outlook, downside pressures are likely to intensify, and Brent will most likely break below this key support level.
+
+Precious metals underwent a correction in November after months of upward momentum. Gold recovered most of its losses, driven by rising geopolitical risks stemming from the Ukraine-Russia war. Silver was weaker, falling more than 6% due to the global slowdown in the manufacturing sector. Palladium erased all of October’s gains, as no progress was made on restricting Russia’s metal exports, and hopes for Trump to end the war in Ukraine faded.
+
+There are too many uncertainties surrounding the gold price right now. With Trump’s presidency, it is difficult to predict what to expect in the Middle East and Ukraine. A resolution of conflicts could suddenly trigger a risk-off mode for gold. On the other hand, the risks of a trade war and an increase in US debt due to potential tax cuts also persist.
+
+From a technical perspective, gold remains in an uptrend. However, if it fails to capture and hold 2700, there is a chance of another downside test in December. The key level to watch for a downside break is 2525. A break below this level could push gold prices toward 2450. On the upside, if gold can capture the downward red trendline, which is currently just above 2700, it may start another upward leg.
+
+Silver has tested broken trendlines four times since the start of October. Following the final test near 30, there is a good chance that silver will attempt to recapture the 32.25-32.75 range. The negative divergence from gold makes silver a more attractive investment tool for those looking to invest in precious metals.
+
+now, a correction is underway. If this correction falls short of a significant downside move, the next attempt at the 107-108 zone could result in a breakout. The 200-day moving average, near 104, could serve as a key target for the correction before determining whether the index will head further downward or make another upward attempt.
+
+Stock markets rose globally, buoyed by their correlation with the US stock market. The MSCI World Index returned 4.47% in November, but despite the strong performance, it once again lagged behind US markets. The Dow Jones surged 7.40% on optimism that tariffs would bring manufacturing back to the
+
+With the end of the election period and hopes for a tax cut, fears of a correction subsided, and the VIX index reflected this shift. The VIX returned to its pre-summer average while stocks surged. So far, there appears to be no reason for this trend to reverse in December.
+
+The S&P 500 is rising while Nvidia and some Al stocks take a breather. If they join the rally, there could be additional upside potential in this run. If the index captures 6100, the next target for December could very well be 6340. On the downside, 5900 is likely to act as the first key support level for the medium term.
+
+naexs rally.
+
+EURUSD tested the 1.048 support level in November, a level that has only failed once since 2015, which resulted in EURUSD falling below parity. Typically, a test of 1.048 takes at least two months, so another attempt can be expected. Fundamentally, there are sufficient reasons for a break of this key support as well. However, a monthly close below this level might be required before confirming that it has truly broken. As for upward moves, they may remain selling opportunities unless the political situation in the Eurozone improves.
+
+USDJPY ended November just below 150. The downward pressure is evidently high due to rising expectations of a rate hike, supported by various economic data points. While the political situation has calmed for now, it remains uncertain, meaning conditions could change quickly. Overall, there is a strong possibility that 148.69 could break, triggering a sharper selloff despite the Dollar Index’s current stance.
+
+Search insights
+
+Recent posts
+
+June 11, 2025
+
+How Stocks, Gold and the Dollar Could...
+
+June 10, 2025
+
+What to Expect from Payrolls Data and ...
+
+June 6, 2025
+
+Markets
+
+Popular tag
+
+Stay informed with market news by subscribing to our reading list.
+
+Trading Platform
+
+# News & Insights
+
+Introducing Broker
+
+Trading Platform
+
+News & ; Insights
+
+Warning — Jurisdictional Disclaimer
+
+All rights reserved. FTD Limited 2025
+
+Analysis
+
+Technical Analysis
+
+About Us
+
